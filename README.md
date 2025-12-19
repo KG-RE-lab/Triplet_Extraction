@@ -7,7 +7,7 @@ The dependency packages can be installed with the command:
 conda env create -f environment.yml
 ```
 ## dataset
-Place the dataset under the ./dataset directory.
+Place the dataset under the ./ directory.
 ## Usage
 * **Get pre-trained BERT model**
 Download [BERT-BASE-CASED](https://huggingface.co/bert-base-cased) and put it under `./pre_trained_bert`.
