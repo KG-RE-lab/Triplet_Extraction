@@ -1,0 +1,18 @@
+========== Evaluation Results ==========
+Model: NYT_star0
+Dataset: NYT_star
+==================================================
+
+Detailed Results:
+--------------------------------------------------
+  test: F1=0.933391, Precision=0.932014, Recall=0.934772
+     1: F1=0.912380, Precision=0.885889, Recall=0.940506
+     2: F1=0.940491, Precision=0.955106, Recall=0.926316
+     3: F1=0.940854, Precision=0.965169, Recall=0.917735
+     4: F1=0.965727, Precision=0.975460, Recall=0.956186
+     5: F1=0.949772, Precision=0.978056, Recall=0.923077
+   epo: F1=0.953538, Precision=0.964784, Recall=0.942551
+normal: F1=0.913171, Precision=0.888160, Recall=0.939632
+   seo: F1=0.937687, Precision=0.964858, Recall=0.912005
+
+==================================================
