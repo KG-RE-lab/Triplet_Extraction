@@ -1,0 +1,4354 @@
+{
+    "text": "But Schaap seems as comfortable in that role as Joe Buck , the Fox baseball and football sportscaster who so clearly benefited from learning beside his father , Jack Buck , the late voice of the St. Louis Cardinals . ''",
+    "triple_list": [
+        [
+            "Buck",
+            "/people/person/children",
+            "Buck"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Buck",
+            "/people/person/children",
+            "Buck"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "www.bonhams.com July 22 Mecum Hawkeye Classic Auction , Iowa Sate Fairgrounds , Des Moines .",
+    "triple_list": [
+        [
+            "Iowa",
+            "/location/location/contains",
+            "Moines"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Iowa",
+            "/location/location/contains",
+            "Moines"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "www.lemansclassic.com July 9 Italian Car Festival , Stark County Fairgrounds , Canton , Ohio .",
+    "triple_list": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Canton"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Canton"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Hockenheim , Germany .",
+    "triple_list": [
+        [
+            "Germany",
+            "/location/location/contains",
+            "Hockenheim"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Germany",
+            "/location/location/contains",
+            "Hockenheim"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The final deal was brokered through the major assistance of Annette L. Nazareth , an S.E.C . commissioner who once led its market regulation office , and Frank G. Zarb , the former chairman of NASD and a major presence on Wall Street and in Washington for much of his career .",
+    "triple_list": [
+        [
+            "Zarb",
+            "/business/person/company",
+            "NASD"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Zarb",
+            "/business/person/company",
+            "NASD"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Mary L. Schapiro , who earlier this year became the new head of NASD , was more amenable to fashioning a deal to the New York Exchange 's liking than her predecessor , Robert R. Glauber .",
+    "triple_list": [
+        [
+            "Glauber",
+            "/business/person/company",
+            "NASD"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Schapiro",
+            "/business/person/company",
+            "NASD"
+        ]
+    ],
+    "new": [
+        [
+            "Schapiro",
+            "/business/person/company",
+            "NASD"
+        ]
+    ],
+    "lack": [
+        [
+            "Glauber",
+            "/business/person/company",
+            "NASD"
+        ]
+    ]
+}
+{
+    "text": "Graveside service Monday January 31 , 2:00 P.M. at Riverside Cemetery , Rochelle Park , N.J . Donations may be made to Hospice By The Sea , Boca Raton , Florida .",
+    "triple_list": [
+        [
+            "Florida",
+            "/location/location/contains",
+            "Raton"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Florida",
+            "/location/location/contains",
+            "Raton"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Mr. Hollander began touring in Asia in the early 1990 's , when he was a Fulbright lecturer in India , talking about dance and touring with his company .",
+    "triple_list": [
+        [
+            "Asia",
+            "/location/location/contains",
+            "India"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Asia",
+            "/location/location/contains",
+            "India"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The proportion of residents in the town of East Hampton who are 65 and older , 16.6 percent , is one of the highest in Suffolk County , according to a draft of the regional planning board 's report .",
+    "triple_list": [
+        [
+            "County",
+            "/location/location/contains",
+            "Hampton"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "County",
+            "/location/location/contains",
+            "Hampton"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "In Yaphank , the report notes , the Suffolk County executive , Steve Levy , has proposed a development on county-owned land that would have up to 1,000 residential units of '' employer-assisted housing , '' referring to a housing assistance program that combines employer contributions with state and federal funds . ''",
+    "triple_list": [
+        [
+            "County",
+            "/location/location/contains",
+            "Yaphank"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "County",
+            "/location/location/contains",
+            "Yaphank"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "WHERE -- Dixie , Idaho WHAT -- 2-bedroom house HOW MUCH $ 285,000 This 1,400-square-foot log house is on 10 acres bordered on three sides by the Nez Perce National Forest .",
+    "triple_list": [
+        [
+            "Idaho",
+            "/location/location/contains",
+            "Forest"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Idaho",
+            "/location/location/contains",
+            "Dixie"
+        ]
+    ],
+    "new": [
+        [
+            "Idaho",
+            "/location/location/contains",
+            "Dixie"
+        ]
+    ],
+    "lack": [
+        [
+            "Idaho",
+            "/location/location/contains",
+            "Forest"
+        ]
+    ]
+}
+{
+    "text": "WHERE -- Honey Harbour , Ontario WHAT -- 2-bedroom cabin HOW MUCH -- $ 160,000 This cabin is on a Georgian Bay island , part of which is federal park land .",
+    "triple_list": [
+        [
+            "Ontario",
+            "/location/location/contains",
+            "Bay"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ontario",
+            "/location/location/contains",
+            "Harbour"
+        ]
+    ],
+    "new": [
+        [
+            "Ontario",
+            "/location/location/contains",
+            "Harbour"
+        ]
+    ],
+    "lack": [
+        [
+            "Ontario",
+            "/location/location/contains",
+            "Bay"
+        ]
+    ]
+}
+{
+    "text": "May is a former teammate of Hideki Matsui with the Yomiuri Giants in Japan in 2000 and 2001 .",
+    "triple_list": [
+        [
+            "Matsui",
+            "/people/person/nationality",
+            "Japan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Matsui",
+            "/people/person/nationality",
+            "Japan"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Over the last decade , when it came to choosing who would represent Staten Island and southwest Brooklyn in Congress , Anita Lerman has been the unchallenged standard-bearer of the Independence Party , a small but growing group with 6,703 members on the island .",
+    "triple_list": [
+        [
+            "Lerman",
+            "/people/person/place_lived",
+            "Brooklyn"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Lerman",
+            "/people/person/place_lived",
+            "Island"
+        ],
+        [
+            "Lerman",
+            "/people/person/place_of_birth",
+            "Island"
+        ]
+    ],
+    "new": [
+        [
+            "Lerman",
+            "/people/person/place_lived",
+            "Island"
+        ],
+        [
+            "Lerman",
+            "/people/person/place_of_birth",
+            "Island"
+        ]
+    ],
+    "lack": [
+        [
+            "Lerman",
+            "/people/person/place_lived",
+            "Brooklyn"
+        ]
+    ]
+}
+{
+    "text": "Resident of Roslyn , New York .",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "Roslyn"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "Roslyn"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Ohio Coach Frank Solich said : '' This would not have made our season if we won , and it did not break our season in losing it . ''",
+    "triple_list": [
+        [
+            "Solich",
+            "/people/person/place_lived",
+            "Ohio"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Solich",
+            "/people/person/place_lived",
+            "Ohio"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "There were two people in the courtroom who looked up to the German-born judges as the best of Germany and looked down on the prosecutor as a miserable Ostjude : one was Eichmann and the other was Hannah Arendt . ''",
+    "triple_list": [
+        [
+            "Arendt",
+            "/people/person/nationality",
+            "Germany"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Arendt",
+            "/people/person/nationality",
+            "Germany"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "An article on Thursday about the spread of electrical failures and transportation service cutbacks in the New York City area misspelled the surname of a Queens woman whose 12-story apartment building lost power on Wednesday morning .",
+    "triple_list": [
+        [
+            "City",
+            "/location/location/contains",
+            "Queens"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "City",
+            "/location/location/contains",
+            "Queens"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "You Ca n't Walk Your Way Off the Island The architect of the New Mets , Omar Minaya , was 8 when his family moved to Corona , Queens , from the Dominican Republic in 1967 , a little more than five years after the assassination of the dictator Rafael Trujillo .",
+    "triple_list": [
+        [
+            "Minaya",
+            "/people/person/place_lived",
+            "Queens"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Trujillo",
+            "/people/person/nationality",
+            "Republic"
+        ],
+        [
+            "Minaya",
+            "/people/person/nationality",
+            "Republic"
+        ],
+        [
+            "Minaya",
+            "/people/person/place_lived",
+            "Queens"
+        ]
+    ],
+    "new": [
+        [
+            "Trujillo",
+            "/people/person/nationality",
+            "Republic"
+        ],
+        [
+            "Minaya",
+            "/people/person/nationality",
+            "Republic"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "According to the city 's Economic Development Corporation , the Brooklyn terminal will accommodate 192,000 passengers from 38 ships in its first year of operation , eventually accounting for about one-fifth of the roughly one million passengers who will pass through New York City this year .",
+    "triple_list": [
+        [
+            "City",
+            "/location/location/contains",
+            "Brooklyn"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "City",
+            "/location/location/contains",
+            "Brooklyn"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "YouTube 's bite also hurt Senator Joseph I. Lieberman , who was defeated by the political upstart Ned Lamont in Connecticut 's Democratic primary earlier this month .",
+    "triple_list": [
+        [
+            "Lamont",
+            "/people/person/place_lived",
+            "Connecticut"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Lamont",
+            "/people/person/place_lived",
+            "Connecticut"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Last week , Senator George Allen , the Virginia Republican , was caught on tape at a campaign event twice calling a college student of Indian descent a '' macaca , '' an obscure racial slur .",
+    "triple_list": [
+        [
+            "Allen",
+            "/people/person/place_lived",
+            "Virginia"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Allen",
+            "/people/person/place_lived",
+            "Virginia"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The zoning statute that governs the redevelopment around the Holland Tunnel makes no stipulation for traffic , so Jersey City can not reject the plan based on traffic alone , said Kristin Russell , a city planner .",
+    "triple_list": [
+        [
+            "City",
+            "/location/location/contains",
+            "Tunnel"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "City",
+            "/location/location/contains",
+            "Tunnel"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Kyoto 's cuisine -LRB- kyo-ryori -RRB- is the legacy of court and temple , aristocratic and understated ; unusual locations and exquisite food made the meals I ate there some of the most magical of my life , and made the traditional Japan I 'd first fallen in love with palpable .",
+    "triple_list": [
+        [
+            "Japan",
+            "/location/location/contains",
+            "Kyoto"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Japan",
+            "/location/location/contains",
+            "Kyoto"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Yoshi Tsuji runs several cooking schools in Japan and in Europe ; Kazuki Kondo , dean of the Osaka school , joined us for dinner .",
+    "triple_list": [
+        [
+            "Japan",
+            "/location/location/contains",
+            "Osaka"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Japan",
+            "/location/location/contains",
+            "Osaka"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Even wishful thinkers do n't believe she can medal here , much less win , but who would have wageredon Dan Jansen before he ended his long Olympic odyssey by winning a speedskating gold medal for his dead sister in 1994 in Lillehammer , Norway ?",
+    "triple_list": [
+        [
+            "Norway",
+            "/location/location/contains",
+            "Lillehammer"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Norway",
+            "/location/location/contains",
+            "Lillehammer"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "OVER the last few years , as its residents fought a battle against the city to keep their homes , the Fort Trumbull neighborhood of New London looked more and more like a war-torn village , with acres of vacant lots interrupted intermittently by debris and a few scattered houses .",
+    "triple_list": [
+        [
+            "London",
+            "/location/location/contains",
+            "Trumbull"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "London",
+            "/location/location/contains",
+            "Trumbull"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Curry and Crawford , close friends and longtime teammates in Chicago and New York , were in sync in the final quarter .",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "Crawford"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "Crawford"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Knicks were 10 for 15 from the free-throw line in the fourth quarter , but had only 2 turnovers , and Coach Isiah Thomas called it a vast improvement from their fourth quarter in Chicago . ''",
+    "triple_list": [
+        [
+            "Thomas",
+            "/people/person/place_of_birth",
+            "Chicago"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Thomas",
+            "/people/person/place_of_birth",
+            "Chicago"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Nanette Lepore , a New York fashion designer , said she reserved a seat every week to go to her home in Amagansett because she '' ca n't bear standing , especially when I 've worked all day and I 'm stressed out . ''",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "Amagansett"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "Amagansett"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Senators Jon Corzine , Democrat of New Jersey , and Susan Collins , Republican of Maine , have been working hard on the issue .",
+    "triple_list": [
+        [
+            "Collins",
+            "/people/person/place_lived",
+            "Maine"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Collins",
+            "/people/person/place_lived",
+            "Maine"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "It envisioned a sprawling cultural center and Fordham campus on the squalid West Side , a civic plaza in Downtown Brooklyn that Robert Moses promised would rival the Piazza San Marco in Venice , a grand development over the Sunnyside railroad yards in Queens , and a Palace of Progress devoted to world trade atop a reconstructed Pennsylvania Station .",
+    "triple_list": [
+        [
+            "Venice",
+            "/location/location/contains",
+            "Marco"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Venice",
+            "/location/location/contains",
+            "Marco"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Scott Schwind has joined Fulbright & Jaworski as an energy partner in Houston .",
+    "triple_list": [
+        [
+            "Jaworski",
+            "/business/company/place_founded",
+            "Houston"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Schwind",
+            "/business/person/company",
+            "Jaworski"
+        ],
+        [
+            "Jaworski",
+            "/business/company/place_founded",
+            "Houston"
+        ]
+    ],
+    "new": [
+        [
+            "Schwind",
+            "/business/person/company",
+            "Jaworski"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "A more recent list included references to Wiener Werkstatte designs , Los Angeles graffiti , a Buddha fountain in Chinatown , a book by Aldous Huxley and an action figure of Ginger Lynn , the pornography star .",
+    "triple_list": [
+        [
+            "Huxley",
+            "/people/deceased_person/place_of_death",
+            "Angeles"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Angeles",
+            "/location/location/contains",
+            "Chinatown"
+        ],
+        [
+            "Chinatown",
+            "/location/neighborhood/neighborhood_of",
+            "Angeles"
+        ]
+    ],
+    "new": [
+        [
+            "Angeles",
+            "/location/location/contains",
+            "Chinatown"
+        ],
+        [
+            "Chinatown",
+            "/location/neighborhood/neighborhood_of",
+            "Angeles"
+        ]
+    ],
+    "lack": [
+        [
+            "Huxley",
+            "/people/deceased_person/place_of_death",
+            "Angeles"
+        ]
+    ]
+}
+{
+    "text": "He has been through four uniform changes , has seen the Angels name changed from California to Anaheim to the Los Angeles Angels of Anaheim .",
+    "triple_list": [
+        [
+            "California",
+            "/location/location/contains",
+            "Anaheim"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "California",
+            "/location/location/contains",
+            "Anaheim"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Like Atlanta 's John Smoltz -LRB- 17 seasons -RRB- and the Astros ' Craig Biggio -LRB- 18 seasons -RRB- , Anderson is a franchise lifer .",
+    "triple_list": [
+        [
+            "Smoltz",
+            "/people/person/place_lived",
+            "Atlanta"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Smoltz",
+            "/people/person/place_lived",
+            "Atlanta"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Nelson McCausland , a Belfast politician and a member of the Democratic Unionists , a hard-line Protestant party , said : '' There is a fundamental anger and alienation .",
+    "triple_list": [
+        [
+            "McCausland",
+            "/people/person/place_of_birth",
+            "Belfast"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "McCausland",
+            "/people/person/place_lived",
+            "Belfast"
+        ]
+    ],
+    "new": [
+        [
+            "McCausland",
+            "/people/person/place_lived",
+            "Belfast"
+        ]
+    ],
+    "lack": [
+        [
+            "McCausland",
+            "/people/person/place_of_birth",
+            "Belfast"
+        ]
+    ]
+}
+{
+    "text": "The Bush administration , condemning the assassination of the former prime minister , Rafik Hariri , in Lebanon , suggested Monday that Syria was to blame and moved to get a new condemnation of Syria 's domination of Lebanon at the United Nations Security Council .",
+    "triple_list": [
+        [
+            "Hariri",
+            "/people/person/nationality",
+            "Lebanon"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Hariri",
+            "/people/person/nationality",
+            "Lebanon"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "And in fact the Syrian foreign minister , Farouk al-Sharaa , speaking at a news conference in Damascus , also condemned the attack .",
+    "triple_list": [
+        [
+            "al-Sharaa",
+            "/people/person/place_of_birth",
+            "Damascus"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "al-Sharaa",
+            "/people/person/place_of_birth",
+            "Damascus"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "In 1999 one of its members , Evan Ziporyn , a composer and clarinetist and a professor at the Massachusetts Institute of Technology , met Kyaw Kyaw Naing , an expatriate Burmese percussion virtuoso now living in New York , at a concert in suburban Boston .",
+    "triple_list": [
+        [
+            "Ziporyn",
+            "/business/person/company",
+            "Technology"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Boston",
+            "/location/location/contains",
+            "Technology"
+        ]
+    ],
+    "new": [
+        [
+            "Boston",
+            "/location/location/contains",
+            "Technology"
+        ]
+    ],
+    "lack": [
+        [
+            "Ziporyn",
+            "/business/person/company",
+            "Technology"
+        ]
+    ]
+}
+{
+    "text": "Certainly the Berlin Philharmonic that appeared at Carnegie Hall on Wednesday night , in the first of four programs through tomorrow night , looks a lot different from the ensemble of even 10 years ago , when the great Claudio Abbado was music director .",
+    "triple_list": [
+        [
+            "Abbado",
+            "/people/person/place_lived",
+            "Berlin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Abbado",
+            "/people/person/place_lived",
+            "Berlin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "A sports article on Aug. 11 about an underground effort by Christopher Vandaele , the owner of a triathlon outfitter in Manhattan , to stage a triathlon in New York City referred incorrectly to a cease-and-desist order demanding that he not use the World Triathlon Corporation 's '' Iron '' brand in promoting the race .",
+    "triple_list": [
+        [
+            "City",
+            "/location/location/contains",
+            "Manhattan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "City",
+            "/location/location/contains",
+            "Manhattan"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "No Tie to Serial Killer Is Found in 7 Deaths Charles Cullen , the nurse who killed patients in New Jersey and Pennsylvania , has so far pleaded guilty to intentionally giving lethal doses of drugs to 24 people during a 16-year career in which he worked at nine hospitals and a nursing home in the two states .",
+    "triple_list": [
+        [
+            "Cullen",
+            "/people/person/place_lived",
+            "Pennsylvania"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Cullen",
+            "/people/person/place_lived",
+            "Pennsylvania"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Matter of fact , we had one guy just two weeks out of training at Fort Hood , Texas .",
+    "triple_list": [
+        [
+            "Texas",
+            "/location/location/contains",
+            "Hood"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Texas",
+            "/location/location/contains",
+            "Hood"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Kharkh has been struck repeatedly , most recently two weeks ago , placing great pressure on Baghdad 's mayor , Alaa al-Tamimi , and the American forces to carry out repairs and keep the plant running .",
+    "triple_list": [
+        [
+            "al-Tamimi",
+            "/people/person/place_lived",
+            "Baghdad"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "al-Tamimi",
+            "/people/person/place_lived",
+            "Baghdad"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Also on Friday , American marines said they were investigating the death of an Iraqi civilian that occurred last Saturday during raids of houses near Haditha , a city in the troubled Anbar Province in western Iraq .",
+    "triple_list": [
+        [
+            "Iraq",
+            "/location/location/contains",
+            "Haditha"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Iraq",
+            "/location/location/contains",
+            "Haditha"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The movie begins in New York City , where the aspiring musician Luke Falcon -LRB- played by the musician and actor Steven Strait -RRB- has a brief but heart-stopping encounter with a willowy model named Brier -LRB- Pell James -RRB- .",
+    "triple_list": [
+        [
+            "Strait",
+            "/people/person/place_lived",
+            "City"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Strait",
+            "/people/person/place_lived",
+            "City"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "His father was a New York City firefighter in Brooklyn and later a chiropractor , who practiced in Eastchester , N.Y. WEDDINGS\\/CELEBRATIONS",
+    "triple_list": [
+        [
+            "City",
+            "/location/location/contains",
+            "Brooklyn"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "City",
+            "/location/location/contains",
+            "Brooklyn"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Jean Rosenbluth , a law professor at the University of Southern California and a former federal prosecutor in Los Angeles , said defense lawyers in similar situations had argued that such dismissals were subterfuges involving jurors who were holding out for acquittal . ''",
+    "triple_list": [
+        [
+            "Angeles",
+            "/location/location/contains",
+            "California"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Angeles",
+            "/location/location/contains",
+            "California"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "She is a second-year resident in psychiatry at Mount Sinai Hospital in New York .",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "Hospital"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "Hospital"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Rose Valentin , a community associate of the New York City clerk 's office , officiated at Boylan Studios , an event space in New York , in a ceremony led by Anthony V. DeMayo , a judge trial referee of the Connecticut Superior Court in New Haven , Conn. .",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "City"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "City"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Margaret Somerville , professor of law and medicine at McGill University , said the ruling '' is extremely important '' in large part because '' the provinces that want to run some form of a complementary private system would probably be able to do so now . ''",
+    "triple_list": [
+        [
+            "Somerville",
+            "/business/person/company",
+            "University"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Somerville",
+            "/business/person/company",
+            "University"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The case was brought to the Supreme Court by Jacques Chaoulli , a Montreal family doctor who argued his own case through the courts , and George Zeliotis , a chemical salesman who was forced to wait a year for a hip replacement while he was prohibited from paying privately for surgery .",
+    "triple_list": [
+        [
+            "Chaoulli",
+            "/people/person/place_lived",
+            "Montreal"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Chaoulli",
+            "/people/person/place_lived",
+            "Montreal"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "In May 2002 , Under Secretary of State John R. Bolton sent a letter to Kofi Annan , secretary general of the United Nations , announcing that the United States did n't consider itself bound by the Rome Statute .",
+    "triple_list": [
+        [
+            "Annan",
+            "/business/person/company",
+            "Nations"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Annan",
+            "/business/person/company",
+            "Nations"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Luis Moreno-Ocampo was the assistant prosecutor and became a household name across Argentina .",
+    "triple_list": [
+        [
+            "Moreno-Ocampo",
+            "/people/person/nationality",
+            "Argentina"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Moreno-Ocampo",
+            "/people/person/nationality",
+            "Argentina"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "More than 50 public schools in nine Nassau County districts locked down their buildings yesterday as the police searched for three bank robbery suspects in the Baldwin area .",
+    "triple_list": [
+        [
+            "County",
+            "/location/location/contains",
+            "Baldwin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "County",
+            "/location/location/contains",
+            "Baldwin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "His father retired as the manager of plumbing and heating at Manhattan College in Riverdale .",
+    "triple_list": [
+        [
+            "Riverdale",
+            "/location/location/contains",
+            "College"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Riverdale",
+            "/location/location/contains",
+            "College"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Lawrence O. Gostin , the chairman of the panel that conducted the study and a professor of law and public health at Georgetown University , said he hoped to change that .",
+    "triple_list": [
+        [
+            "Gostin",
+            "/business/person/company",
+            "University"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Gostin",
+            "/business/person/company",
+            "University"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "What happened at Holmesburg was just as gruesome as Tuskegee , but at Holmesburg it happened smack dab in the middle of a major city , not in some backwoods in Alabama , '' said Allen M. Hornblum , an urban studies professor at Temple University and the author of '' Acres of Skin , '' a 1998 book about the Holmesburg research . ''",
+    "triple_list": [
+        [
+            "Alabama",
+            "/location/location/contains",
+            "Tuskegee"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alabama",
+            "/location/location/contains",
+            "Holmesburg"
+        ]
+    ],
+    "new": [
+        [
+            "Alabama",
+            "/location/location/contains",
+            "Holmesburg"
+        ]
+    ],
+    "lack": [
+        [
+            "Alabama",
+            "/location/location/contains",
+            "Tuskegee"
+        ]
+    ]
+}
+{
+    "text": "I think we could have stood up stronger to the mayor and not bowed to this annual budget dance process that we go through , '' Councilman Charles Barron of Brooklyn said .",
+    "triple_list": [
+        [
+            "Barron",
+            "/people/person/place_lived",
+            "Brooklyn"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Barron",
+            "/people/person/place_lived",
+            "Brooklyn"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Marsha Lindsey , a black paramedic and former poll worker in Dayton , Ohio , said that after 2004 she stopped arguing with her black friends when they said there was no point in voting .",
+    "triple_list": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Dayton"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Dayton"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "At a recent Democratic fund-raiser in Atlanta , at the home of Representative John Lewis , who is black , conversation centered on perceptions that widespread voter disenfranchisement would haunt the 2006 elections .",
+    "triple_list": [
+        [
+            "Lewis",
+            "/people/person/place_lived",
+            "Atlanta"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Lewis",
+            "/people/person/place_lived",
+            "Atlanta"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "In Missouri , Claire McCaskill , the Democrat trying to unseat Senator Jim Talent , has been running advertisements about sickle cell anemia , a genetic illness that mostly afflicts black people , and the importance of stem cell research in helping to find a cure .",
+    "triple_list": [
+        [
+            "Talent",
+            "/people/person/place_lived",
+            "Missouri"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Talent",
+            "/people/person/place_lived",
+            "Missouri"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Both wanted to go somewhere warm , and they could not resist the tug of Southeast Asia , where they have talked about living and working in a clinic for a few years , possibly in Thailand or Borneo . ''",
+    "triple_list": [
+        [
+            "Asia",
+            "/location/location/contains",
+            "Thailand"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Asia",
+            "/location/location/contains",
+            "Thailand"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "All those things went against the Yankees on Wednesday , yet they beat the Red Sox at Fenway Park , 8-6 , winning this series and closing to within a half-game of Boston in the American League East . ''",
+    "triple_list": [
+        [
+            "Boston",
+            "/location/location/contains",
+            "Park"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Boston",
+            "/location/location/contains",
+            "Park"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Even the setting of the convention , Long Island , was a reminder of how bad things have gotten for Republicans in New York .",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "Island"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "Island"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Totaling up the dead in Africa 's wars has always been particularly challenging , from the mass killing in Rwanda -LRB- in which somewhere around 800,000 people died -RRB- to the continuing war in Congo -LRB- where the toll is now estimated to be in the neighborhood of 3.8 million -RRB- .",
+    "triple_list": [
+        [
+            "Africa",
+            "/location/location/contains",
+            "Rwanda"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Africa",
+            "/location/location/contains",
+            "Rwanda"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "But it is making an exception with two concurrent master of arts thesis exhibitions by 2005 graduates from the Center for Curatorial Studies at Bard College in Annandale-on-Hudson , N.Y. One show , organized by Cecilia Alemani and Simone Subal , is of sculpture , which by now , of course , has many tradition-challenging , media-crossing definitions , a few of which are in evidence here in work by three remarkable young artists .",
+    "triple_list": [
+        [
+            "Annandale-on-Hudson",
+            "/location/location/contains",
+            "College"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Annandale-on-Hudson",
+            "/location/location/contains",
+            "College"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "He is , as Julie Gilhart , fashion director of Barneys New York , suggested , '' probably the only designer you could name who has 60-year-olds who think he 's incredible and 17-year-olds who think he 's way cool . ''",
+    "triple_list": [
+        [
+            "Gilhart",
+            "/business/person/company",
+            "York"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Gilhart",
+            "/business/person/company",
+            "York"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Had it ever occurred to Yamamoto in those early days , he was asked , that he would one day preside over an international empire , with shops in New York , London and Paris and 120 stores in Japan ?",
+    "triple_list": [
+        [
+            "Japan",
+            "/location/location/contains",
+            "Yamamoto"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Japan",
+            "/location/location/contains",
+            "Yamamoto"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The official said it was possible that the two men could be in close proximity during a luncheon this afternoon that the United Nations secretary general , Kofi Annan , is holding , and that '' nobody 's going to body-block Ahmadinejad if he comes up with outstretched hand . ''",
+    "triple_list": [
+        [
+            "Annan",
+            "/business/person/company",
+            "Nations"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Annan",
+            "/business/person/company",
+            "Nations"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The '' they '' in question were Mr. Bush and President Mahmoud Ahmadinejad of Iran , one of Mr. Bush 's most prominent Middle Eastern foils .",
+    "triple_list": [
+        [
+            "Ahmadinejad",
+            "/people/person/nationality",
+            "Iran"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ahmadinejad",
+            "/people/person/nationality",
+            "Iran"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Senator Trent Lott of Mississippi announced Tuesday that he would seek a fourth term in office , presenting a setback to Democratic hopes of winning control of the Senate in November and a threat of upheaval in the Senate Republican leadership next year .",
+    "triple_list": [
+        [
+            "Lott",
+            "/people/person/place_lived",
+            "Mississippi"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Lott",
+            "/people/person/place_lived",
+            "Mississippi"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "It would not be easy : Senator Mitch McConnell of Kentucky is viewed as having broad support to win the post .",
+    "triple_list": [
+        [
+            "McConnell",
+            "/people/person/place_lived",
+            "Kentucky"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "McConnell",
+            "/people/person/place_lived",
+            "Kentucky"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Family will be receiving mourners at the home of Mr. and Mrs. Arnold Winer of 43 Sheridan Road , Scarsdale , New York .",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "Scarsdale"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "Scarsdale"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Interment at the Kensico Cemetery in Valhalla , New York .",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "Valhalla"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "Valhalla"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Services will be held Friday , 10 AM at Riverside Memorial Chapel , 21 West Broad Street , Mount Vernon , New York , 914-664-6800 .",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "Vernon"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "Vernon"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The sea of concrete in Uniondale , for instance , covers an area almost literally at the center of affluent Nassau County .",
+    "triple_list": [
+        [
+            "County",
+            "/location/location/contains",
+            "Uniondale"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "County",
+            "/location/location/contains",
+            "Uniondale"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "But in the undertaking , Nassau County , one of New York 's oldest suburbs , joins a raft of others in trying to figure out how to solve what planners consider a cluster of fundamental problems facing every aging suburban community in the United States .",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "County"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "County"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "If recent history is any guide , Eliot Spitzer 's chances of becoming governor of New York next year are greatly enhanced by the presence of the words '' attorney general '' on his resume .",
+    "triple_list": [
+        [
+            "Spitzer",
+            "/business/person/company",
+            "York"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Spitzer",
+            "/business/person/company",
+            "York"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Jacob Hacker , a Yale University political scientist , found that the income of the average family was about twice as volatile in 2000 as it was in the 1970 's -- a result of rising health and education costs , the increasing rate at which people change jobs and the shift from pensions with guaranteed benefits to 401 -LRB- k -RRB- 's .",
+    "triple_list": [
+        [
+            "Hacker",
+            "/business/person/company",
+            "University"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Hacker",
+            "/business/person/company",
+            "University"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Israel imposed new travel restrictions on Palestinians in the West Bank on Monday and suspended contacts with the Palestinian Authority in response to two drive-by shootings that killed three young Israelis and wounded several other people a day earlier . ''",
+    "triple_list": [
+        [
+            "Israel",
+            "/location/location/contains",
+            "Bank"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Israel",
+            "/location/location/contains",
+            "Bank"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Israel 's military also stepped up its presence in and around the West Bank towns of Bethlehem and Hebron , which are close to the sites of the shootings on Sunday .",
+    "triple_list": [
+        [
+            "Israel",
+            "/location/location/contains",
+            "Bank"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Israel",
+            "/location/location/contains",
+            "Bank"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Israel 's withdrawal of soldiers and settlers from the Gaza Strip has removed Israeli targets from that territory , and Israel 's separation barrier in the West Bank has made it increasingly difficult for Palestinians to reach Israeli cities to carry out suicide bombings and other attacks .",
+    "triple_list": [
+        [
+            "Israel",
+            "/location/location/contains",
+            "Bank"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Israel",
+            "/location/location/contains",
+            "Bank"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "President Hu Jintao of China , on the second day of his visit to the United States , continued a charm offensive directed mainly at commercial interests and offered an overview of economic relations that broke little new ground but displayed a prodigious memory for statistical data .",
+    "triple_list": [
+        [
+            "Jintao",
+            "/people/person/nationality",
+            "China"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Jintao",
+            "/people/person/nationality",
+            "China"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Love Me or Leave Me , '' a biopic about the torch singer Ruth Etting , won Fuchs an Oscar for original story in 1955 , thanks to a bravura performance by James Cagney -- who , in the role of a gimpy Chicago hoodlum , brilliantly captured the comic ferocity that laces through Fuchs 's best writing .",
+    "triple_list": [
+        [
+            "Etting",
+            "/people/person/place_lived",
+            "Chicago"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Etting",
+            "/people/person/place_lived",
+            "Chicago"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "JESSI KLEINMAN of Bellmore was filled with anticipation when she arrived in New Orleans on Aug. 24 with her father , mother and brother , three days before freshman orientation was set to begin at Tulane University . ''",
+    "triple_list": [
+        [
+            "Orleans",
+            "/location/location/contains",
+            "University"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Orleans",
+            "/location/location/contains",
+            "University"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Now she is enrolled at Columbia University in Manhattan as a nonresidential visiting undergraduate , along with 166 other Tulane students , mainly from the New York metropolitan area . ''",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "Manhattan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "Manhattan"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "An equally important question is why , for almost 10 days , China 's government did not think the people of Harbin deserved to share its knowledge of the cancer-causing chemicals that were streaming their way .",
+    "triple_list": [
+        [
+            "China",
+            "/location/location/contains",
+            "Harbin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "China",
+            "/location/location/contains",
+            "Harbin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "People everywhere watched with sympathy as the people of Harbin , a rust-belt metropolis in China 's frozen northeast , coped with the challenges of doing without toilets , showers , and cooking and drinking water last weekend .",
+    "triple_list": [
+        [
+            "China",
+            "/location/location/contains",
+            "Harbin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "China",
+            "/location/location/contains",
+            "Harbin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Mr. Howard , who worked at CBS News for 23 years in a variety of roles , including deputy to Don Hewitt , the creator of '' 60 Minutes , '' will be CNBC 's vice president for specials and long-form programming , said Mark Hoffman , president of the cable channel .",
+    "triple_list": [
+        [
+            "Hewitt",
+            "/business/person/company",
+            "News"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Hewitt",
+            "/business/person/company",
+            "News"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Plushenko , the favorite to win here in his home country , ended the evening in third place , behind Stephane Lambiel of Switzerland , who skated flawlessly , and Brian Joubert of France .",
+    "triple_list": [
+        [
+            "Joubert",
+            "/people/person/nationality",
+            "France"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Joubert",
+            "/people/person/nationality",
+            "France"
+        ],
+        [
+            "Lambiel",
+            "/people/person/nationality",
+            "Switzerland"
+        ]
+    ],
+    "new": [
+        [
+            "Lambiel",
+            "/people/person/nationality",
+            "Switzerland"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "The steady rain caused flash floods across the Ampara district of eastern Sri Lanka on Friday and Saturday .",
+    "triple_list": [
+        [
+            "Lanka",
+            "/location/location/contains",
+            "Ampara"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Lanka",
+            "/location/location/contains",
+            "Ampara"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Still , with the last name Fujimori , as in Alberto Fujimori , the former strongman who ruled Peru with an iron hand , the candidate , Keiko Fujimori , is very likely to do more than win a seat in Congress in Sunday 's general election .",
+    "triple_list": [
+        [
+            "Fujimori",
+            "/people/person/nationality",
+            "Peru"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Fujimori",
+            "/people/person/nationality",
+            "Peru"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "In 2003 , the clinic says it filed for more patents per research dollar than the Mayo Clinic , Johns Hopkins Medical Center or Massachusetts General Hospital , the Harvard-affiliated Boston hospital . ''",
+    "triple_list": [
+        [
+            "Boston",
+            "/location/location/contains",
+            "Hospital"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Boston",
+            "/location/location/contains",
+            "Hospital"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Then she met Mr. Coleman , known for compositions like '' Hey , Look Me Over , '' '' If My Friends Could See Me Now '' and '' The Best Is Yet to Come , '' at a party in San Miguel de Allende , Mexico , and married him on Oct. 1 , 1997 , next to Niagara Falls .",
+    "triple_list": [
+        [
+            "Mexico",
+            "/location/location/contains",
+            "Allende"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Mexico",
+            "/location/location/contains",
+            "Allende"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Later he moved to New York and , for a time , to Florence , Italy , working as a commercial artist and a painter and finding a mentor in the painter Willard Cummings .",
+    "triple_list": [
+        [
+            "Italy",
+            "/location/location/contains",
+            "Florence"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Italy",
+            "/location/location/contains",
+            "Florence"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Munir Said Thalib was one of Indonesia 's most respected human rights lawyers .",
+    "triple_list": [
+        [
+            "Thalib",
+            "/people/person/nationality",
+            "Indonesia"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Thalib",
+            "/people/person/nationality",
+            "Indonesia"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "It 's really extraordinary , '' said Senator Susan Collins , Republican of Maine . ''",
+    "triple_list": [
+        [
+            "Collins",
+            "/people/person/place_lived",
+            "Maine"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Collins",
+            "/people/person/place_lived",
+            "Maine"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "New York is unique , '' said John Caruana , the administrative manager for Pathmark 's north region , which includes New York City . ''",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "City"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "City"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "According to the Westchester County district attorney , Jeanine F. Pirro , the woman , whose name was withheld to protect the victims , took her 13-year-old daughter and two friends , aged 13 and 14 , to White Plains last month to shop .",
+    "triple_list": [
+        [
+            "County",
+            "/location/location/contains",
+            "Plains"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "County",
+            "/location/location/contains",
+            "Plains"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Born in New York City , NY , he formerly resided in Manhattan , Manhasset , Long Island and Honeybrook , PA. .",
+    "triple_list": [
+        [
+            "City",
+            "/location/location/contains",
+            "Manhattan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "City",
+            "/location/location/contains",
+            "Manhattan"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "PAGE A3 Texas-Oklahoma Fires Kill 5 Grass fires in Oklahoma and Texas destroyed more than 100 houses , many of them in Cross Plains , Tex . , a town of 1,000 .",
+    "triple_list": [
+        [
+            "Texas",
+            "/location/location/contains",
+            "Plains"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Texas",
+            "/location/location/contains",
+            "Plains"
+        ],
+        [
+            "Oklahoma",
+            "/location/location/contains",
+            "Plains"
+        ]
+    ],
+    "new": [
+        [
+            "Oklahoma",
+            "/location/location/contains",
+            "Plains"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "You almost have no reason not to do it , '' said Dr. Davor Solter , the director of the Max Planck Institute for Immunobiology in Freiburg , Germany .",
+    "triple_list": [
+        [
+            "Germany",
+            "/location/location/contains",
+            "Freiburg"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Germany",
+            "/location/location/contains",
+            "Freiburg"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "California 's attorney general , Bill Lockyer , filed the charges , which stem from an internal H.P . investigation into leaks of confidential discussions among its directors .",
+    "triple_list": [
+        [
+            "Lockyer",
+            "/people/person/place_of_birth",
+            "California"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Lockyer",
+            "/people/person/place_of_birth",
+            "California"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "To the Editor : As principal of the School for Human Rights in Brooklyn and a former teacher , I believe it is unrealistic to think that New York City school reforms would drastically improve test scores and achieve system stability within two years , given the fact that the system has been dysfunctional for decades .",
+    "triple_list": [
+        [
+            "City",
+            "/location/location/contains",
+            "Brooklyn"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "City",
+            "/location/location/contains",
+            "Brooklyn"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "In fact , the starkest contrast to Zeguo might be Dongyang , a city a few hours down the road in the same coastal province , Zhejiang .",
+    "triple_list": [
+        [
+            "Zhejiang",
+            "/location/location/contains",
+            "Dongyang"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Zhejiang",
+            "/location/location/contains",
+            "Dongyang"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "I learned a ton from the older guys , '' said one of them , David G. Petrina , 39 , of Vancouver , British Columbia . ''",
+    "triple_list": [
+        [
+            "Columbia",
+            "/location/location/contains",
+            "Vancouver"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Columbia",
+            "/location/location/contains",
+            "Vancouver"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The one-hour debate , sponsored by the CBS affiliates in Manhattan and Philadelphia and The New York Times , was taped yesterday at the studios of WCBS in Manhattan , and was to be broadcast at 8 this morning in New York and Philadelphia .",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "Manhattan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "Manhattan"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "His mother , Beverley R. Perez of Mississauga , Ontario , is a special education teacher in the public schools there .",
+    "triple_list": [
+        [
+            "Ontario",
+            "/location/location/contains",
+            "Mississauga"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ontario",
+            "/location/location/contains",
+            "Mississauga"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Mrs. Karachuk , 43 , is a director of asset management at Red Capital Group , a real estate investment firm in Columbus , Ohio .",
+    "triple_list": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Columbus"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Columbus"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Shakira , the half-Lebanese singer and writher from Colombia , is fearless in a more literal and more absolute sense .",
+    "triple_list": [
+        [
+            "Shakira",
+            "/people/person/nationality",
+            "Colombia"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Shakira",
+            "/people/person/nationality",
+            "Colombia"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Born in Philadelphia , Kenneth Wilson grew up in Harrisburg , Pa. , and received fine arts degrees from Lehigh University and the University of Pennsylvania .",
+    "triple_list": [
+        [
+            "Philadelphia",
+            "/location/location/contains",
+            "Pennsylvania"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Philadelphia",
+            "/location/location/contains",
+            "Pennsylvania"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Tikka Shatrujit Singh , scion of the Maharajah of Kapurthala , in western Punjab State , and today an adviser to the Louis Vuitton brand in India , described the new attitude this way : '' There is no need to feel offended .",
+    "triple_list": [
+        [
+            "India",
+            "/location/location/contains",
+            "Kapurthala"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "India",
+            "/location/location/contains",
+            "Kapurthala"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "It hurts me that the E.U . expects Turkey to be something it 's not , '' said Nilgun Yun , a stylish 26-year-old eating a chocolate muffin in a downtown Istanbul cafe on Sunday .",
+    "triple_list": [
+        [
+            "Turkey",
+            "/location/location/contains",
+            "Istanbul"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Turkey",
+            "/location/location/contains",
+            "Istanbul"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Indeed , in 2002 , Valery Giscard d'Estaing , the former French president , said Turkey 's admission to the union would mean '' the end of Europe . ''",
+    "triple_list": [
+        [
+            "Europe",
+            "/location/location/contains",
+            "Turkey"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Europe",
+            "/location/location/contains",
+            "Turkey"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The delay with Europe , for instance , '' fans up the disappointment , the disillusionment , '' said Namik Tan , the spokesman for Turkey 's Foreign Ministry . ''",
+    "triple_list": [
+        [
+            "Europe",
+            "/location/location/contains",
+            "Turkey"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Europe",
+            "/location/location/contains",
+            "Turkey"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "While Europe is still Turkey 's largest trading partner , business with other neighbors , including Syria , Iraq and Iran , has picked up substantially in recent years , said Omer Bolat , the head of one of the country 's largest business associations , whose members are mostly pro-Islamic .",
+    "triple_list": [
+        [
+            "Europe",
+            "/location/location/contains",
+            "Turkey"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Europe",
+            "/location/location/contains",
+            "Turkey"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Despite growing pains , a neglected Kurdish minority in the south , a thin skin for any reference to the Armenian genocide , and failure to scrap a law that makes insulting Turkishness a crime , Turkey stands out as lively democracy in a larger Middle East riddled with restrictions , and its acceptance by the West is a test case for others , officials said .",
+    "triple_list": [
+        [
+            "East",
+            "/location/location/contains",
+            "Turkey"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "East",
+            "/location/location/contains",
+            "Turkey"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The United States began holding Muslims without charge at Guantanamo Bay , Cuba ; it invaded Iraq and abused prisoners at Abu Ghraib .",
+    "triple_list": [
+        [
+            "Iraq",
+            "/location/location/contains",
+            "Ghraib"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Iraq",
+            "/location/location/contains",
+            "Ghraib"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "A front-page article on Feb. 6 about Tom Brady , the quarterback of the New England Patriots , misspelled the given name of a coach of his at the University of Michigan , who was a graduate assistant then and is the quarterbacks coach now .",
+    "triple_list": [
+        [
+            "Brady",
+            "/business/person/company",
+            "Patriots"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Brady",
+            "/business/person/company",
+            "Patriots"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "A month ago , four State Department security officers were killed in Mosul by a roadside bomb , and the city , Iraq 's third largest , was not deemed safe enough for her to visit .",
+    "triple_list": [
+        [
+            "Iraq",
+            "/location/location/contains",
+            "Mosul"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Iraq",
+            "/location/location/contains",
+            "Mosul"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "While they have questioned his management of Madison Square Garden , they have generally applauded him for the hiring of Thomas Rutledge as chief operating officer of Cablevision 's cable systems business .",
+    "triple_list": [
+        [
+            "Rutledge",
+            "/business/person/company",
+            "Cablevision"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Rutledge",
+            "/business/person/company",
+            "Cablevision"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "She noted that James Dolan 's $ 1.6 million salary and $ 2.8 million annual bonus exceed the median for a company of Cablevision 's size by over 20 percent .",
+    "triple_list": [
+        [
+            "Dolan",
+            "/business/person/company",
+            "Cablevision"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Dolan",
+            "/business/person/company",
+            "Cablevision"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "What 's more , in cities like Minneapolis , Denver and Toledo , Ohio , where the death rattle of the middle class is still comparatively faint , the civic spirit often feels more vigorous than in global cities like Los Angeles and New York , which increasingly resemble playgrounds for the rich .",
+    "triple_list": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Toledo"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Toledo"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Toledo , Ohio Hotel Hilton Toledo Located on the sprawling campus of the Medical College of Ohio , about eight miles from the art museum .",
+    "triple_list": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Toledo"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Toledo"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "In Europe , as he says , the growth patterns of a place like Arles , France , are guided by its ancient Roman grid .",
+    "triple_list": [
+        [
+            "Europe",
+            "/location/location/contains",
+            "France"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Europe",
+            "/location/location/contains",
+            "France"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "That shift was prompted by the World 's Columbian Exposition held in Chicago in 1893 , a demonstration of cultural ambition that the architect Louis Sullivan said would spread like a disease through the country .",
+    "triple_list": [
+        [
+            "Sullivan",
+            "/people/deceased_person/place_of_death",
+            "Chicago"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Sullivan",
+            "/people/deceased_person/place_of_death",
+            "Chicago"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "In a 2003 complaint filed in a Florida state court in West Palm Beach , he contended that the bank had participated in a '' massive fraud '' that involved '' concealing Sunbeam 's true financial condition . ''",
+    "triple_list": [
+        [
+            "Florida",
+            "/location/location/contains",
+            "Beach"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Florida",
+            "/location/location/contains",
+            "Beach"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "MR. KEMPF appeared in the Florida courtroom on March 22 , telling Judge Maass that he had decided to fire Kirkland that very day without giving advance notice to the Kirkland lawyer handling the case in West Palm Beach .",
+    "triple_list": [
+        [
+            "Florida",
+            "/location/location/contains",
+            "Beach"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Florida",
+            "/location/location/contains",
+            "Beach"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The cruise , a 14-day trip up the Pacific Coast of South America and through the Panama Canal , left Valpariso , Chile , on Sunday and was to end in Fort Lauderdale on April 2 .",
+    "triple_list": [
+        [
+            "America",
+            "/location/location/contains",
+            "Chile"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "America",
+            "/location/location/contains",
+            "Chile"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Another , City Councilwoman Yvette D. Clarke , trotted out an icon of the antiwar movement , Representative John P. Murtha , to appeal for votes in brownstone Brooklyn yesterday .",
+    "triple_list": [
+        [
+            "Clarke",
+            "/people/person/place_lived",
+            "Brooklyn"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Clarke",
+            "/people/person/place_lived",
+            "Brooklyn"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "He could have chosen to paint a modern , thriving factory or mill in one of the nearby Connecticut towns , or across New England , but instead settled for a symbol of a lost , elusive past .",
+    "triple_list": [
+        [
+            "England",
+            "/location/location/contains",
+            "Connecticut"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "England",
+            "/location/location/contains",
+            "Connecticut"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Dirk Nowitzki , the sure-shooting 7-foot Mavericks forward from Germany , can add another talent to his basketball repertory . ''",
+    "triple_list": [
+        [
+            "Nowitzki",
+            "/people/person/nationality",
+            "Germany"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Nowitzki",
+            "/people/person/nationality",
+            "Germany"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Cotecna employed Kojo Annan , Kofi Annan 's son , as a contractor at the time it received the aid inspection contract .",
+    "triple_list": [
+        [
+            "Annan",
+            "/people/person/children",
+            "Annan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Annan",
+            "/people/person/children",
+            "Annan"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The statement also accused Senator Coleman of political motivations , saying his accusations were aimed at harming Kofi Annan and the United Nations .",
+    "triple_list": [
+        [
+            "Annan",
+            "/business/person/company",
+            "Nations"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Annan",
+            "/business/person/company",
+            "Nations"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "In a 5-to-4 decision last year in a Connecticut case , Kelo v. City of New London , the United States Supreme Court ruled that economic development is an appropriate use of the government 's power of eminent domain .",
+    "triple_list": [
+        [
+            "Connecticut",
+            "/location/location/contains",
+            "London"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Connecticut",
+            "/location/location/contains",
+            "London"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "China opposes a blockade or other new punitive measures and says it is , in fact , pressing North Korea by holding out the promise of a state visit by President Hu Jintao , should North Korea agree to disarm .",
+    "triple_list": [
+        [
+            "Jintao",
+            "/people/person/nationality",
+            "China"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Jintao",
+            "/people/person/nationality",
+            "China"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "A wah-wah guitar , a Louisiana drawl and a lot of local color go into Tony Joe White 's songs .",
+    "triple_list": [
+        [
+            "White",
+            "/people/person/place_lived",
+            "Louisiana"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "White",
+            "/people/person/place_lived",
+            "Louisiana"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Mexico , as well as the rest of Latin America , has a long history of people who have used the desperation of the poor as a tool to whip up anger against the rich and gain power .",
+    "triple_list": [
+        [
+            "America",
+            "/location/location/contains",
+            "Mexico"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "America",
+            "/location/location/contains",
+            "Mexico"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "With less than three weeks before the July 2 election , Mr. Lopez Obrador , a leftist former Mexico City mayor , is locked in a dead heat with Felipe Calderon , the conservative candidate from President Vicente Fox 's National Action Party .",
+    "triple_list": [
+        [
+            "Fox",
+            "/people/person/place_of_birth",
+            "City"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Fox",
+            "/people/person/place_of_birth",
+            "City"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The man seems very honest , very simple , '' said Maria Consuelo Ayala Perez , a mother of 10 in Cintalapa , Chiapas , last week . ''",
+    "triple_list": [
+        [
+            "Chiapas",
+            "/location/location/contains",
+            "Cintalapa"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Chiapas",
+            "/location/location/contains",
+            "Cintalapa"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "I think Amlo truly feels he 's the Redeemer of Mexico , but his reign is of this world , '' said Enrique Krauze , a historian . ''",
+    "triple_list": [
+        [
+            "Krauze",
+            "/people/person/nationality",
+            "Mexico"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Krauze",
+            "/people/person/nationality",
+            "Mexico"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Others , including John Carmack , a legendary game designer , and Elon Musk , creator of PayPal , have formed ventures of their own .",
+    "triple_list": [
+        [
+            "PayPal",
+            "/business/company/founders",
+            "Musk"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "PayPal",
+            "/business/company/founders",
+            "Musk"
+        ],
+        [
+            "PayPal",
+            "/business/company/founders",
+            "Carmack"
+        ]
+    ],
+    "new": [
+        [
+            "PayPal",
+            "/business/company/founders",
+            "Carmack"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "On a visit , Russia 's defense minister , Sergei B. Ivanov , agreed to provide Kyrgyzstan with $ 3 million in military aid and equipment and said Russia wanted to keep its air base at Kant .",
+    "triple_list": [
+        [
+            "Kyrgyzstan",
+            "/location/location/contains",
+            "Kant"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Russia",
+            "/location/location/contains",
+            "Kant"
+        ]
+    ],
+    "new": [
+        [
+            "Russia",
+            "/location/location/contains",
+            "Kant"
+        ]
+    ],
+    "lack": [
+        [
+            "Kyrgyzstan",
+            "/location/location/contains",
+            "Kant"
+        ]
+    ]
+}
+{
+    "text": "But in much more conciliatory remarks , President Mohammad Khatami said Iran expected its talks with Britain , France and Germany to become more serious . ''",
+    "triple_list": [
+        [
+            "Khatami",
+            "/people/person/nationality",
+            "Iran"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Khatami",
+            "/people/person/nationality",
+            "Iran"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "GROSS -- Gloria Lipson , of Great Neck , New York on November 19 , 2006 .",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "Neck"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "Neck"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Not even Mr. Suskind 's friend Bernd Eichinger , who took over Constantin Film in 1979 and now produces for the company .",
+    "triple_list": [
+        [
+            "Eichinger",
+            "/business/person/company",
+            "Film"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Eichinger",
+            "/business/person/company",
+            "Film"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "83 , whose career as a journalist and public relations executive spanned 55 years , died Friday , October 20 , 2006 , at Good Samaritan Hospital in Suffern , New York .",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "Suffern"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "Suffern"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "My dad always believed in being a force for good on Long Island , '' said his son , James Bennett , of Garden City , a former supervisor of the Town of Hempstead . ''",
+    "triple_list": [
+        [
+            "Island",
+            "/location/location/contains",
+            "Hempstead"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Island",
+            "/location/location/contains",
+            "Hempstead"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Gene Munster , a senior research analyst with Piper Jaffray in Minneapolis , compared Mac notebooks with similarly equipped notebook computers running Windows and discovered that the premium for a Mac is now only about 10 percent . ''",
+    "triple_list": [
+        [
+            "Jaffray",
+            "/business/company/place_founded",
+            "Minneapolis"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Jaffray",
+            "/business/company/place_founded",
+            "Minneapolis"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Using unadjusted figures , the jobless rate fell to 9.8 percent -- the first dip below 10 percent in Germany , Europe 's biggest economy , since November 2002 .",
+    "triple_list": [
+        [
+            "Europe",
+            "/location/location/contains",
+            "Germany"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Europe",
+            "/location/location/contains",
+            "Germany"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Ms . True wrote that it was '' helpful '' to know that the pieces '' came from Cerveteri and the area of Monte Abatone , '' an area in central Italy rich in archaeological sites . ''",
+    "triple_list": [
+        [
+            "Italy",
+            "/location/location/contains",
+            "Cerveteri"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Italy",
+            "/location/location/contains",
+            "Cerveteri"
+        ],
+        [
+            "Italy",
+            "/location/location/contains",
+            "Abatone"
+        ]
+    ],
+    "new": [
+        [
+            "Italy",
+            "/location/location/contains",
+            "Abatone"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "Miami Beach might be quicker to do Flagler a favor , after Miami-Dade County voters last fall approved spending $ 1 million to restore the Flagler Memorial and spruce up Monument Island .",
+    "triple_list": [
+        [
+            "County",
+            "/location/location/contains",
+            "Beach"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "County",
+            "/location/location/contains",
+            "Beach"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "One council member suggested putting the statue at the Flagler Museum , and another suggested a park named for E.R . Bradley , who opened a casino in Palm Beach after Flagler established it as a playground for the ultrarich .",
+    "triple_list": [
+        [
+            "Beach",
+            "/location/location/contains",
+            "Museum"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bradley",
+            "/people/deceased_person/place_of_death",
+            "Beach"
+        ]
+    ],
+    "new": [
+        [
+            "Bradley",
+            "/people/deceased_person/place_of_death",
+            "Beach"
+        ]
+    ],
+    "lack": [
+        [
+            "Beach",
+            "/location/location/contains",
+            "Museum"
+        ]
+    ]
+}
+{
+    "text": "In a classified briefing to senior Pentagon officials last month , the top American commander in the Middle East outlined a plan that would gradually reduce American forces in Iraq by perhaps 20,000 to 30,000 troops by next spring , three senior military officers and Defense Department officials said Saturday .",
+    "triple_list": [
+        [
+            "East",
+            "/location/location/contains",
+            "Iraq"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "East",
+            "/location/location/contains",
+            "Iraq"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "There 's a lot of confidence in Pakistan 's economy , '' said Ishrat Husain , the state bank chief .",
+    "triple_list": [
+        [
+            "Husain",
+            "/people/person/nationality",
+            "Pakistan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Husain",
+            "/people/person/nationality",
+            "Pakistan"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "You know , the one that goes , '' I was standing on a corner in Winslow , Arizona . ''",
+    "triple_list": [
+        [
+            "Arizona",
+            "/location/location/contains",
+            "Winslow"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Arizona",
+            "/location/location/contains",
+            "Winslow"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Sally Jones , who was visiting from Wrexham , Wales , with a friend on a sightseeing trip , said , '' You do wonder if it is historical , considering there is n't even a signpost . ''",
+    "triple_list": [
+        [
+            "Wales",
+            "/location/location/contains",
+            "Wrexham"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Wales",
+            "/location/location/contains",
+            "Wrexham"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The killing became '' a defining moment in the history of racial violence in the United States , '' and helped turn sentiment against lynching , wrote William D. Carrigan , an associate professor of history at Rowan University in Glassboro , N.J. , in a second new book studying the case , '' The Making of a Lynching Culture : Violence and Vigilantism in Central Texas 1836-1916 '' -LRB- University of Illinois Press -RRB- , published last November .",
+    "triple_list": [
+        [
+            "Glassboro",
+            "/location/location/contains",
+            "University"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Glassboro",
+            "/location/location/contains",
+            "University"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "For most of a century marred by racial atrocities , a devastating tornado that some took as divine vengeance , and a deadly siege at an outlying cult compound that left Waco branded as aberrant , the people of this '' Athens of Texas '' buried the memory of the lynching , which was featured in a 2000 exhibition and book , '' Without Sanctuary : Lynching Photography in America . ''",
+    "triple_list": [
+        [
+            "Texas",
+            "/location/location/contains",
+            "Waco"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Texas",
+            "/location/location/contains",
+            "Waco"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Mr. Carrigan linked the spate of virulent Texas lynchings to a culture of mob violence and repression going back to warfare against the Indians and Mexicans , cattle rustlers and escaped slaves , but he said in an interview that the Waco lynching was seen as '' going too far -- it was out of control . ''",
+    "triple_list": [
+        [
+            "Texas",
+            "/location/location/contains",
+            "Waco"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Texas",
+            "/location/location/contains",
+            "Waco"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Waco , named for an Indian tribe , has halls of fame for the Texas Rangers law officers and for Texas sports legends .",
+    "triple_list": [
+        [
+            "Texas",
+            "/location/location/contains",
+            "Waco"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Texas",
+            "/location/location/contains",
+            "Waco"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Kremlin Rising : Vladimir Putin 's Russia and the End of Revolution '' echoes that dismal judgment .",
+    "triple_list": [
+        [
+            "Putin",
+            "/people/person/nationality",
+            "Russia"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Putin",
+            "/people/person/nationality",
+            "Russia"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "KREMLIN RISING Vladimir Putin 's Russia and the End of Revolution .",
+    "triple_list": [
+        [
+            "Putin",
+            "/people/person/nationality",
+            "Russia"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Putin",
+            "/people/person/nationality",
+            "Russia"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Born in Passaic in 1938 , Smithson grew up in Rutherford where his childhood doctor was the poet -LRB- and pediatrician -RRB- William Carlos Williams , author of the epic poem '' Paterson , '' which glosses the Passaic River , its prehistory , history and industrial ruin .",
+    "triple_list": [
+        [
+            "Williams",
+            "/people/person/place_of_birth",
+            "Rutherford"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Williams",
+            "/people/person/place_of_birth",
+            "Rutherford"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "New Jersey-oriented works on view in the Whitney retrospective are many , including a 1960 sketch of a quarry in Montclair , and a 1962 pen-and-ink drawing that includes area codes for many New Jersey towns .",
+    "triple_list": [
+        [
+            "Jersey",
+            "/location/location/contains",
+            "Montclair"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Jersey",
+            "/location/location/contains",
+            "Montclair"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The leader of Israel 's left-leaning Labor Party , Amir Peretz , plans to meet Thursday in the West Bank with the Palestinian Authority president , Mahmoud Abbas .",
+    "triple_list": [
+        [
+            "Israel",
+            "/location/location/contains",
+            "Bank"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Israel",
+            "/location/location/contains",
+            "Bank"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Israel has national elections planned for March 28 , and the Labor Party is running a distant second to the centrist Kadima Party , led by the acting prime minister , Ehud Olmert .",
+    "triple_list": [
+        [
+            "Olmert",
+            "/people/person/nationality",
+            "Israel"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Olmert",
+            "/people/person/nationality",
+            "Israel"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Israel 's foreign minister , Tzipi Livni , began a European tour on Wednesday by calling on European countries not to finance a Palestinian Authority government led by the militant group Hamas . ''",
+    "triple_list": [
+        [
+            "Livni",
+            "/people/person/nationality",
+            "Israel"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Livni",
+            "/people/person/nationality",
+            "Israel"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Shawn Hausman , a production designer in Ojai , Calif. , who has designed the interiors of all of Mr. Balazs 's Standard hotels -- Miami is the third -- said he drew on both '' light and airy '' Scandinavian design and the colors of southern Florida in creating the spa 's interiors .",
+    "triple_list": [
+        [
+            "Florida",
+            "/location/location/contains",
+            "Miami"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Florida",
+            "/location/location/contains",
+            "Miami"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The bar , above right , has walls covered in beige wool , set off with midcentury modern chairs by the Danish designer Ole Wanscher newly upholstered in red-orange wool , and leads through the entrance on the right to the hotel 's sun-filled restaurant , where Eric Ripert of Le Bernardin is the chef . ''",
+    "triple_list": [
+        [
+            "Ripert",
+            "/business/person/company",
+            "Bernardin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ripert",
+            "/business/person/company",
+            "Bernardin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Correction : February 24 , 2006 , Friday Because of an editing error , a note with the Down Time column on Feb. 3 , about visiting the Franklin Institute Science Museum in Philadelphia , misstated the directions from the 30th Street Station , and a correction last Friday repeated the error .",
+    "triple_list": [
+        [
+            "Philadelphia",
+            "/location/location/contains",
+            "Museum"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Philadelphia",
+            "/location/location/contains",
+            "Museum"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "To the Editor : We now have 50 million people in Iraq and Afghanistan with a chance for freedom ; democracy inching forward in the Middle East ; hope in the Israeli-Palestinian conflict ; 5 percent unemployment ; a 3.8 percent rise in the gross domestic product ; several million jobs created ; minority achievement gap narrowing ; two Supreme Court justices and counting .",
+    "triple_list": [
+        [
+            "East",
+            "/location/location/contains",
+            "Iraq"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "East",
+            "/location/location/contains",
+            "Iraq"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "WHEN the Westchester County executive , Andrew J. Spano , last month called on New York 's Empire State Development Corporation to spend $ 5.8 million to convert part of the legendary Sing Sing prison into a museum , news reports around the world presented it as a curiosity piece .",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "County"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "County"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Isle of Capri Casino in Bettendorf , Iowa , is giving away 7,777 gallons of gas starting tomorrow until Nov. 6 .",
+    "triple_list": [
+        [
+            "Iowa",
+            "/location/location/contains",
+            "Bettendorf"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Iowa",
+            "/location/location/contains",
+            "Bettendorf"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Earlier this month , the Clearview Community Church in Sioux City , Iowa , began handing out $ 10 fuel vouchers to first-time visitors .",
+    "triple_list": [
+        [
+            "Iowa",
+            "/location/location/contains",
+            "City"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Iowa",
+            "/location/location/contains",
+            "City"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Her mother is a research psychologist in Minneapolis at the center for twin and family research of the University of Minnesota .",
+    "triple_list": [
+        [
+            "Minneapolis",
+            "/location/location/contains",
+            "Minnesota"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Minneapolis",
+            "/location/location/contains",
+            "Minnesota"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Austrian Airlines is starting service from Vienna to six cities in Eastern Europe , including Yekaterinburg , Russia , and Ostrava in the Czech Republic .",
+    "triple_list": [
+        [
+            "Republic",
+            "/location/location/contains",
+            "Ostrava"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Republic",
+            "/location/location/contains",
+            "Ostrava"
+        ],
+        [
+            "Russia",
+            "/location/location/contains",
+            "Yekaterinburg"
+        ]
+    ],
+    "new": [
+        [
+            "Russia",
+            "/location/location/contains",
+            "Yekaterinburg"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "RHODA GOLD was in her mid-30 's in 1950 when she moved from Queens with her husband and three young children to a new ranch-style house in a development called Lake Hiawatha in Parsippany , N.J. She had first heard about the Morris County community from her sister , who had bought a home in the area a few years earlier .",
+    "triple_list": [
+        [
+            "County",
+            "/location/location/contains",
+            "Parsippany"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "County",
+            "/location/location/contains",
+            "Parsippany"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The tunnel is 60 feet below ground at some points , five feet high , and nearly half a mile long , extending from a warehouse near the international airport in Tijuana , Mexico , to a vacant industrial building in Otay Mesa , Calif. , about 20 miles southeast of downtown San Diego .",
+    "triple_list": [
+        [
+            "Mexico",
+            "/location/location/contains",
+            "Tijuana"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Mexico",
+            "/location/location/contains",
+            "Tijuana"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Meanwhile , State Senator Wayne R. Bryant , Democrat of Camden and the deputy majority leader , clarified his position on extending the sales tax to professional services like legal and accounting work . ''",
+    "triple_list": [
+        [
+            "Bryant",
+            "/people/person/place_lived",
+            "Camden"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bryant",
+            "/people/person/place_lived",
+            "Camden"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "He is a son of the late Ada Marie Hinds and the late Dr. Hinds , both of Dayton , Ohio , where the bridegroom 's mother was a librarian and his father was a professor of physics at Sinclair Community College .",
+    "triple_list": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Dayton"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Dayton"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Staten Island was on the verge of seceding from New York City , and the five East End towns on Long Island flirted with breaking off from Suffolk County and creating a Peconic County .",
+    "triple_list": [
+        [
+            "City",
+            "/location/location/contains",
+            "Island"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "City",
+            "/location/location/contains",
+            "Island"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "I like being part of New York , there 's no place like New York City , I do n't care what anybody says . ''",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "City"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "City"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The fishing off La Guaira is renowned in elite angling circles abroad , even if it is little known within Venezuela .",
+    "triple_list": [
+        [
+            "Venezuela",
+            "/location/location/contains",
+            "Guaira"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Venezuela",
+            "/location/location/contains",
+            "Guaira"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The most expensive work in Sotheby 's sale -- '' Death of the Strong Wicked Man '' -- was bought by Friends of the Louvre in Paris on behalf of the museum for $ 1.5 million , right at its high estimate .",
+    "triple_list": [
+        [
+            "Paris",
+            "/location/location/contains",
+            "Louvre"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Paris",
+            "/location/location/contains",
+            "Louvre"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Italy 's defenders were ubiquitous , and Shevchenko was left to jog impotently through a maze of blue-shirted Italians , whose famous defense held despite the absence of its centerpiece , Alessandro Nesta , who sat out with a thigh injury .",
+    "triple_list": [
+        [
+            "Nesta",
+            "/people/person/nationality",
+            "Italy"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Nesta",
+            "/people/person/nationality",
+            "Italy"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Led by Luca Toni , who scored two goals , Italy can now look forward to a semifinal match Tuesday against Germany , which eliminated Argentina earlier in the day in a penalty-kick shootout . ''",
+    "triple_list": [
+        [
+            "Toni",
+            "/people/person/nationality",
+            "Italy"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Toni",
+            "/people/person/nationality",
+            "Italy"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "-LRB- In a telephone interview on Friday , Dr. James F. Marion , an assistant clinical professor of medicine at the Mount Sinai School of Medicine in Manhattan , said : '' We do n't understand the essential nature of the disease , which is quite frustrating for the patients and makes it difficult for doctors as well .",
+    "triple_list": [
+        [
+            "Manhattan",
+            "/location/location/contains",
+            "Medicine"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Manhattan",
+            "/location/location/contains",
+            "Medicine"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "An article yesterday about efforts by President Vicente Fox of Mexico to defuse concerns about United States plans to use National Guard troops for border security misstated the surname of a political analyst who said Mexico needed to show it was willing to accept such measures .",
+    "triple_list": [
+        [
+            "Fox",
+            "/business/person/company",
+            "Mexico"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Fox",
+            "/business/person/company",
+            "Mexico"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Councilwoman Yvette D. Clarke , a candidate for Congress in Brooklyn , acknowledged yesterday that she had fallen a few credits short of graduating from Oberlin College despite past claims in campaign literature that she had graduated from there .",
+    "triple_list": [
+        [
+            "Clarke",
+            "/people/person/place_lived",
+            "Brooklyn"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Clarke",
+            "/people/person/place_lived",
+            "Brooklyn"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "His completion percentages in the past three games -- 72.1 percent against Philadelphia , 66.7 percent against Seattle and 69.7 percent against Washington -- are each higher than Manning had in any game last season . ''",
+    "triple_list": [
+        [
+            "Washington",
+            "/location/location/contains",
+            "Seattle"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Washington",
+            "/location/location/contains",
+            "Seattle"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "In that incident , the two pilots of Flight 2811 from Newark were able to land the plane at the Port Columbus International Airport in Columbus , Ohio , and the plane was evacuated .",
+    "triple_list": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Columbus"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Columbus"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Since then , he said , politicians and businessmen from the British foreign secretary , Jack Straw , to Stephen Green , the chief of HSBC , have inquired on his behalf , to no avail .",
+    "triple_list": [
+        [
+            "Green",
+            "/business/person/company",
+            "HSBC"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Green",
+            "/business/person/company",
+            "HSBC"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "In Zurich , despite Switzerland 's neutrality , the reaction was against the futile war raging across Europe .",
+    "triple_list": [
+        [
+            "Europe",
+            "/location/location/contains",
+            "Switzerland"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Europe",
+            "/location/location/contains",
+            "Switzerland"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "But now the company is entering the New York City real estate market , with five sites in various stages of development from the East Village to the Gowanus Canal neighborhood in Brooklyn .",
+    "triple_list": [
+        [
+            "City",
+            "/location/location/contains",
+            "Brooklyn"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "City",
+            "/location/location/contains",
+            "Brooklyn"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The two-mile canal , which passes through a once heavily industrialized area of Brooklyn , would certainly seem like an unlikely place for Toll Brothers to make its first move in New York City .",
+    "triple_list": [
+        [
+            "City",
+            "/location/location/contains",
+            "Brooklyn"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "City",
+            "/location/location/contains",
+            "Brooklyn"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "On Third Avenue between 13th and 14th Streets in Manhattan , Toll Brothers has begun excavation for One Ten Third , a 77-unit 21-story tower that will have one - to three-bedroom units priced at $ 850,000 to $ 2.2 million , the upper limit of all the New York City apartments being built by the company .",
+    "triple_list": [
+        [
+            "City",
+            "/location/location/contains",
+            "Manhattan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "City",
+            "/location/location/contains",
+            "Manhattan"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Santiago Creel , Mexico 's former interior minister , had that most rare of assets among Mexican politicians : a squeaky clean image .",
+    "triple_list": [
+        [
+            "Creel",
+            "/people/person/nationality",
+            "Mexico"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Creel",
+            "/people/person/nationality",
+            "Mexico"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Sales of the latest version are up 20 percent at Genoa Chevrolet outside Toledo , Ohio , said Mike Pauley , the dealership 's executive manager .",
+    "triple_list": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Toledo"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Toledo"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "One recent customer was Gary McKeel , a retired salesman from Perrysburg , Ohio , who switched to the Impala after owning Buicks for the last 17 years . ''",
+    "triple_list": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Perrysburg"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Perrysburg"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "In 2006 , it expects to make about 275,000 Impalas at a plant in Oshawa , Ontario , the only one where the Impala is built .",
+    "triple_list": [
+        [
+            "Ontario",
+            "/location/location/contains",
+            "Oshawa"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ontario",
+            "/location/location/contains",
+            "Oshawa"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "For the American market , Toyota builds Camrys in Georgetown , Ky. , and it imports more from Japan and soon will be able to build another 100,000 a year when it begins production in 2007 at Subaru 's plant in Lafayette , Ind . .",
+    "triple_list": [
+        [
+            "Japan",
+            "/location/location/contains",
+            "Toyota"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Japan",
+            "/location/location/contains",
+            "Toyota"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Angie 's List has a lot of listings in smaller cities like Indianapolis and Columbus , Ohio , where it has been operating longer , than it does in larger cities it has just started to cover .",
+    "triple_list": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Columbus"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Columbus"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "It is in 67 cities , including New York and Albany , and wants to be in the top 60 markets .",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "Albany"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "Albany"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "And also , do you agree with New York City mayor , Michael Bloomberg , that Con Ed C.E.O . Kevin Burke deserves praise ?",
+    "triple_list": [
+        [
+            "Bloomberg",
+            "/people/person/place_lived",
+            "City"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bloomberg",
+            "/people/person/place_lived",
+            "City"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Six billion of that 11 is dedicated to the property tax cut , that Ive explained in great detail , focused on the middle-class taxpayers who need it across the State of New York , and the renters in New York City who also pay those taxes through their rent .",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "City"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "City"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The hour-long debate is also being seen on News 12 on Long Island and News 12 Westchester and heard on radio stations across upstate New York .",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "Island"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "Island"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "That leads me to ask you if you , as governor , would move the epicenter of government back to New York back to Albany if not just with the appearance of doing business in the capital upstate ?",
+    "triple_list": [
+        [
+            "York",
+            "/location/location/contains",
+            "Albany"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "/location/location/contains",
+            "Albany"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "You can also burnish the metal with a towel and WD-40 , said Jorge Almada , a co-owner of Casamidy , a design firm in San Miguel de Allende , Mexico -LRB- casamidy.com , 011-52-415-152-0403 -RRB- .",
+    "triple_list": [
+        [
+            "Mexico",
+            "/location/location/contains",
+            "Allende"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Mexico",
+            "/location/location/contains",
+            "Allende"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Former President Ion Iliescu , who dominated Romania 's post-Communist political scene and is now honorary president of the Social Democratic Party , is mentioned in the report as an important ideologue of the Communist Party .",
+    "triple_list": [
+        [
+            "Iliescu",
+            "/people/person/nationality",
+            "Romania"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Iliescu",
+            "/people/person/nationality",
+            "Romania"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Her father is a partner at the law firm of Reimer , Lorber & Arnovitz and Associates in Twinsburg , Ohio .",
+    "triple_list": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Twinsburg"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ohio",
+            "/location/location/contains",
+            "Twinsburg"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Gary Bertini , a conductor and composer who played a significant role in shaping the musical life of Israel , died on March 17 in Tel Hashomer , Israel .",
+    "triple_list": [
+        [
+            "Bertini",
+            "/people/person/nationality",
+            "Israel"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Israel",
+            "/location/location/contains",
+            "Hashomer"
+        ]
+    ],
+    "new": [
+        [
+            "Israel",
+            "/location/location/contains",
+            "Hashomer"
+        ]
+    ],
+    "lack": [
+        [
+            "Bertini",
+            "/people/person/nationality",
+            "Israel"
+        ]
+    ]
+}
+{
+    "text": "But when the Military Ocean Terminal closed in 1999 , the city got a 430-acre tract almost the size of Hoboken and a ticket in the Gold Coast lottery -- the continuing reclamation of the ramshackle mudflats of New Jersey 's Hudson River shoreline .",
+    "triple_list": [
+        [
+            "Jersey",
+            "/location/location/contains",
+            "River"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Jersey",
+            "/location/location/contains",
+            "River"
+        ],
+        [
+            "Jersey",
+            "/location/location/contains",
+            "Hoboken"
+        ]
+    ],
+    "new": [
+        [
+            "Jersey",
+            "/location/location/contains",
+            "Hoboken"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "Indeed , the extraordinary power of oil to transform world politics today extends far beyond Iran , or even the Middle East .",
+    "triple_list": [
+        [
+            "East",
+            "/location/location/contains",
+            "Iran"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "East",
+            "/location/location/contains",
+            "Iran"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}

@@ -1,0 +1,5386 @@
+{
+    "text": "A.D. Isidro Metapán are at Estadio Jorge Calero Suárez whose full name is Isidro Metapan and has 10000 members .",
+    "triple_list": [
+        [
+            "A.D. Isidro Metapán",
+            "ground",
+            "Estadio Jorge Calero Suárez"
+        ],
+        [
+            "A.D. Isidro Metapán",
+            "numberOfMembers",
+            "10000"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "A.D. Isidro Metapán",
+            "ground",
+            "Estadio Jorge Calero Suárez"
+        ],
+        [
+            "A.D. Isidro Metapán",
+            "numberOfMembers",
+            "10000"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Stuart Parker is a member of the UNK Town F.C . as well as the manager of A.F.C . Blackpool and has also represented the KV Mechelen club .",
+    "triple_list": [
+        [
+            "A.F.C . Blackpool",
+            "manager",
+            "Stuart Parker"
+        ],
+        [
+            "Stuart Parker",
+            "club",
+            "KV Mechelen"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Stuart Parker",
+            "club",
+            "KV Mechelen"
+        ],
+        [
+            "A.F.C . Blackpool",
+            "manager",
+            "Stuart Parker"
+        ],
+        [
+            "Stuart Parker",
+            "club",
+            "UNK Town"
+        ]
+    ],
+    "new": [
+        [
+            "Stuart Parker",
+            "club",
+            "UNK Town"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "AZAL PFK play their home matches at the AZAL Arena , and are in the Azerbaijan Premier League , who 's UNK name is the Qarabag FK .",
+    "triple_list": [
+        [
+            "AZAL PFK",
+            "league",
+            "Azerbaijan Premier League"
+        ],
+        [
+            "AZAL PFK",
+            "ground",
+            "AZAL Arena"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "AZAL PFK",
+            "league",
+            "Azerbaijan Premier League"
+        ],
+        [
+            "AZAL PFK",
+            "ground",
+            "AZAL Arena"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Alkmaar Zaanstreek is the full name of AZ Alkmaar who played in the 2014 season and has 17023 members .",
+    "triple_list": [
+        [
+            "AZ Alkmaar",
+            "numberOfMembers",
+            "17023"
+        ],
+        [
+            "AZ Alkmaar",
+            "season",
+            "2014"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "AZ Alkmaar",
+            "numberOfMembers",
+            "17023"
+        ],
+        [
+            "AZ Alkmaar",
+            "season",
+            "2014"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Agremiação Sportiva Arapiraquense play at their ground Estadio Minicipal Coaracy da Mata Fonseca in the Campeonato Brasileiro Série C league . The champions of this league are Vila Nova Futebol Clube .",
+    "triple_list": [
+        [
+            "Agremiação Sportiva Arapiraquense",
+            "league",
+            "Campeonato Brasileiro Série C"
+        ],
+        [
+            "Campeonato Brasileiro Série C",
+            "champions",
+            "Vila Nova Futebol Clube"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Agremiação Sportiva Arapiraquense",
+            "league",
+            "Campeonato Brasileiro Série C"
+        ],
+        [
+            "Campeonato Brasileiro Série C",
+            "champions",
+            "Vila Nova Futebol Clube"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "St Vincent-St Mary High School is the ground of Akron Summit Assault who play in the Premier Development League , of which K-W United FC have been champions .",
+    "triple_list": [
+        [
+            "Akron Summit Assault",
+            "league",
+            "Premier Development League"
+        ],
+        [
+            "Premier Development League",
+            "champions",
+            "K-W United FC"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Akron Summit Assault",
+            "league",
+            "Premier Development League"
+        ],
+        [
+            "Premier Development League",
+            "champions",
+            "K-W United FC"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The ground of A.S. Gubbio 1910 is located in Italy where Sergio Mattarella is a leader of the Italian people .",
+    "triple_list": [
+        [
+            "A.S. Gubbio 1910",
+            "ground",
+            "Italy"
+        ],
+        [
+            "Italy",
+            "leader",
+            "Sergio Mattarella"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "A.S. Gubbio 1910",
+            "ground",
+            "Italy"
+        ],
+        [
+            "Italy",
+            "demonym",
+            "Italian people"
+        ],
+        [
+            "Italy",
+            "leader",
+            "Sergio Mattarella"
+        ]
+    ],
+    "new": [
+        [
+            "Italy",
+            "demonym",
+            "Italian people"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "The Baku Turkish Martyr 's memorial which is dedicated to the soldiers of the Ottoman army who were killed in the Battle of Baku is located in Azerbaijan . At present Artur Rasizade is the leader of the country .",
+    "triple_list": [
+        [
+            "Azerbaijan",
+            "leader",
+            "Artur Rasizade"
+        ],
+        [
+            "Baku Turkish",
+            "location",
+            "Azerbaijan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Azerbaijan",
+            "capital",
+            "Baku"
+        ],
+        [
+            "Azerbaijan",
+            "leaderName",
+            "Artur Rasizade"
+        ],
+        [
+            "Baku Turkish",
+            "location",
+            "Azerbaijan"
+        ]
+    ],
+    "new": [
+        [
+            "Azerbaijan",
+            "leaderName",
+            "Artur Rasizade"
+        ],
+        [
+            "Azerbaijan",
+            "capital",
+            "Baku"
+        ]
+    ],
+    "lack": [
+        [
+            "Azerbaijan",
+            "leader",
+            "Artur Rasizade"
+        ]
+    ]
+}
+{
+    "text": "Azerbaijan , where the leader is Artur Rasizade , is the location of the Baku Turkish Martyrs Memorial . The memorial was designed by Huseyin Butuner and Hilmi Guner .",
+    "triple_list": [
+        [
+            "Azerbaijan",
+            "leaderName",
+            "Artur Rasizade"
+        ],
+        [
+            "Baku Turkish Martyrs",
+            "location",
+            "Azerbaijan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Azerbaijan",
+            "leaderName",
+            "Artur Rasizade"
+        ],
+        [
+            "Baku Turkish Martyrs",
+            "location",
+            "Azerbaijan"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Alan Bean was under commander David Scott on Nasa 's Apollo 12 mission .",
+    "triple_list": [
+        [
+            "Alan Bean",
+            "was a crew member of",
+            "Apollo 12"
+        ],
+        [
+            "Apollo 12",
+            "commander",
+            "David Scott"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alan Bean",
+            "was a crew member of",
+            "Apollo 12"
+        ],
+        [
+            "Apollo 12",
+            "commander",
+            "David Scott"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Dianne Feinstein is a senator in California where Alan Shepard died on July 21 1998 .",
+    "triple_list": [
+        [
+            "California",
+            "senators",
+            "Dianne Feinstein"
+        ],
+        [
+            "Alan Shepard",
+            "deathPlace",
+            "California"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "California",
+            "senators",
+            "Dianne Feinstein"
+        ],
+        [
+            "Alan Shepard",
+            "deathPlace",
+            "California"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Buzz Aldrin , who was a member of the Apollo 11 crew and spent 52 minutes in space , was born in Glen Ridge New Jersey .",
+    "triple_list": [
+        [
+            "Buzz Aldrin",
+            "was a crew member of",
+            "Apollo 11"
+        ],
+        [
+            "Buzz Aldrin",
+            "birthPlace",
+            "Glen Ridge"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Buzz Aldrin",
+            "was a crew member of",
+            "Apollo 11"
+        ],
+        [
+            "Buzz Aldrin",
+            "birthPlace",
+            "Glen Ridge"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Born on October 17th , 1933 in British Hong Kong , William Anders would serve as a crew member on Apollo 8 .",
+    "triple_list": [
+        [
+            "William Anders",
+            "birthPlace",
+            "British Hong Kong"
+        ],
+        [
+            "William Anders",
+            "was a crew member of",
+            "Apollo 8"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "William Anders",
+            "birthPlace",
+            "British Hong Kong"
+        ],
+        [
+            "William Anders",
+            "was a crew member of",
+            "Apollo 8"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The 14L/32R runway of the Adolfo Suarez Madrid - Barajas Airport in Madrid has a length of 4100.0 .",
+    "triple_list": [
+        [
+            "Adolfo",
+            "runwayLength",
+            "4100.0"
+        ],
+        [
+            "Adolfo",
+            "location",
+            "Madrid"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Adolfo",
+            "runwayLength",
+            "4100.0"
+        ],
+        [
+            "Adolfo",
+            "location",
+            "Madrid"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Indian Air Force in India , operates Agra Airport which uses VIAG as its ICAO location identifier .",
+    "triple_list": [
+        [
+            "Agra Airport",
+            "location",
+            "India"
+        ],
+        [
+            "Agra Airport",
+            "operatingOrganisation",
+            "Indian Air Force"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Indian Air Force",
+            "location",
+            "India"
+        ],
+        [
+            "Agra Airport",
+            "operatingOrganisation",
+            "Indian Air Force"
+        ]
+    ],
+    "new": [
+        [
+            "Indian Air Force",
+            "location",
+            "India"
+        ]
+    ],
+    "lack": [
+        [
+            "Agra Airport",
+            "location",
+            "India"
+        ]
+    ]
+}
+{
+    "text": "Located in Wilson Township , Alpena County , Michigan , Alpena County Regional Airport has an elevation of 210 metres above sea level and a runway length of 1,533 metres .",
+    "triple_list": [
+        [
+            "Alpena County Regional Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "210"
+        ],
+        [
+            "Alpena County Regional Airport",
+            "location",
+            "Wilson Township , Alpena County , Michigan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alpena County Regional Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "210"
+        ],
+        [
+            "Alpena County Regional Airport",
+            "location",
+            "Wilson Township , Alpena County , Michigan"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Amsterdam airport , Schipol which serves the city of Amsterdam is located at -3.3528 metres above sea level and has a runway length of 3500 .",
+    "triple_list": [
+        [
+            "Amsterdam",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "-3.3528"
+        ],
+        [
+            "Amsterdam",
+            "cityServed",
+            "Amsterdam"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Amsterdam",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "-3.3528"
+        ],
+        [
+            "Amsterdam",
+            "cityServed",
+            "Amsterdam"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Flemish department of Mobility and Public Works is the operating organisation and owner of Antwerp International Airport that serves the city of Antwerp .",
+    "triple_list": [
+        [
+            "Antwerp International Airport",
+            "cityServed",
+            "Antwerp"
+        ],
+        [
+            "Antwerp International Airport",
+            "owner",
+            "Flemish"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Antwerp International Airport",
+            "cityServed",
+            "Antwerp"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Antwerp International Airport",
+            "owner",
+            "Flemish"
+        ]
+    ]
+}
+{
+    "text": "The 3rd runway at Ardmore Airport ( New Zealand ) is made of Poaceae which is of the order Poales and belongs to the division of flowering plants .",
+    "triple_list": [
+        [
+            "Ardmore Airport ( New Zealand )",
+            "3rd_runway_SurfaceType",
+            "Poaceae"
+        ],
+        [
+            "Poaceae",
+            "order",
+            "Poales"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ardmore Airport ( New Zealand )",
+            "3rd_runway_SurfaceType",
+            "Poaceae"
+        ],
+        [
+            "Poaceae",
+            "order",
+            "Poales"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Ashgabat International Airport ( located in Ashgabat ) is elevated 211 metres above sea level and has a runway length of 3800 .",
+    "triple_list": [
+        [
+            "Ashgabat International Airport",
+            "location",
+            "Ashgabat"
+        ],
+        [
+            "Ashgabat International Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "211"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ashgabat International Airport",
+            "location",
+            "Ashgabat"
+        ],
+        [
+            "Ashgabat International Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "211"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Atlantic City International Airport , which has a runway with the name is 4/22 , is located in Egg Harbor Township , in New Jersey , United States .",
+    "triple_list": [
+        [
+            "Egg Harbor Township ,",
+            "country",
+            "United States"
+        ],
+        [
+            "Atlantic City International Airport",
+            "location",
+            "Egg Harbor Township ,"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Egg Harbor Township ,",
+            "country",
+            "United States"
+        ],
+        [
+            "Atlantic City International Airport",
+            "location",
+            "Egg Harbor Township ,"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Antwerp International Airport serves the city of Antwerp in Belgium where the leader is Phillipe of Belgium .",
+    "triple_list": [
+        [
+            "Antwerp",
+            "country",
+            "Belgium"
+        ],
+        [
+            "Antwerp International Airport",
+            "cityServed",
+            "Antwerp"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Antwerp",
+            "country",
+            "Belgium"
+        ],
+        [
+            "Antwerp International Airport",
+            "cityServed",
+            "Antwerp"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "11 Diagonal Street is located in South Africa , a country in which UNK are one of the ethnic groups and Jacob Zuma is the leader .",
+    "triple_list": [
+        [
+            "South Africa",
+            "leaderName",
+            "Jacob Zuma"
+        ],
+        [
+            "11 Diagonal Street",
+            "location",
+            "South Africa"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "South Africa",
+            "leaderName",
+            "Jacob Zuma"
+        ],
+        [
+            "11 Diagonal Street",
+            "location",
+            "South Africa"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "11 Diagonal Street is in South Africa where the leader is Jacob Zuma . An ethnic group found there are white South Africans .",
+    "triple_list": [
+        [
+            "South Africa",
+            "leaderName",
+            "Jacob Zuma"
+        ],
+        [
+            "11 Diagonal Street",
+            "location",
+            "South Africa"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "South Africa",
+            "leaderName",
+            "Jacob Zuma"
+        ],
+        [
+            "11 Diagonal Street",
+            "location",
+            "South Africa"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Populous was the architect of 3Arena in Dublin which was completed in December 2008 .",
+    "triple_list": [
+        [
+            "3Arena",
+            "architect",
+            "Populous"
+        ],
+        [
+            "3Arena",
+            "location",
+            "Dublin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "3Arena",
+            "architect",
+            "Populous"
+        ],
+        [
+            "3Arena",
+            "location",
+            "Dublin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The owner of 3Arena is Live Nation Entertainment which is located in Dublin , Ireland .",
+    "triple_list": [
+        [
+            "3Arena",
+            "owner",
+            "Live Nation Entertainment"
+        ],
+        [
+            "3Arena",
+            "location",
+            "Dublin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Dublin",
+            "country",
+            "Ireland"
+        ],
+        [
+            "3Arena",
+            "owner",
+            "Live Nation Entertainment"
+        ]
+    ],
+    "new": [
+        [
+            "Dublin",
+            "country",
+            "Ireland"
+        ]
+    ],
+    "lack": [
+        [
+            "3Arena",
+            "location",
+            "Dublin"
+        ]
+    ]
+}
+{
+    "text": "James Pain was the architect of Adare Manor which was completed in 1862 and is owned by J P McManus .",
+    "triple_list": [
+        [
+            "Adare Manor",
+            "architect",
+            "James Pain"
+        ],
+        [
+            "Adare Manor",
+            "completionDate",
+            "1862"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Adare Manor",
+            "architect",
+            "James Pain"
+        ],
+        [
+            "Adare Manor",
+            "completionDate",
+            "1862"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Akita Museum of Art has a floor area of 3746.66 square metres over 3 floors and was inaugurated on 28 September 2013 .",
+    "triple_list": [
+        [
+            "Akita Museum of Art",
+            "floorCount",
+            "3"
+        ],
+        [
+            "Akita Museum of Art",
+            "floorArea",
+            "3746.66"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Akita Museum of Art",
+            "floorCount",
+            "3"
+        ],
+        [
+            "Akita Museum of Art",
+            "floorArea",
+            "3746.66"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The College of William and Mary is the owner of the Alan B. Miller Hall in Virginia . The building was begun on 30 March 2007 .",
+    "triple_list": [
+        [
+            "Alan B. Miller Hall",
+            "location",
+            "Virginia"
+        ],
+        [
+            "Alan B. Miller Hall",
+            "owner",
+            "College of William"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alan B. Miller Hall",
+            "location",
+            "Virginia"
+        ],
+        [
+            "Alan B. Miller Hall",
+            "owner",
+            "College of William"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Mason School of Business in the US are the current tenants of Alan B Miller Hall in Virginia .",
+    "triple_list": [
+        [
+            "Alan",
+            "currentTenants",
+            "Mason School of Business"
+        ],
+        [
+            "Alan",
+            "location",
+            "Virginia"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alan",
+            "currentTenants",
+            "Mason School of Business"
+        ],
+        [
+            "Alan",
+            "location",
+            "Virginia"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Alan B. Miller Hall , the building of which began 30 March , 2007 , is located in Williamsburg , Virginia and owned by the College of William and Mary .",
+    "triple_list": [
+        [
+            "Alan B. Miller Hall",
+            "location",
+            "Williamsburg , Virginia"
+        ],
+        [
+            "Alan B. Miller Hall",
+            "owner",
+            "College of William"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alan B. Miller Hall",
+            "location",
+            "Williamsburg , Virginia"
+        ],
+        [
+            "Alan B. Miller Hall",
+            "owner",
+            "College of William"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Asser Levy Public Baths are located in New York City , U.S. Manhattan is a UNK in New York City .",
+    "triple_list": [
+        [
+            "New York City",
+            "isPartOf",
+            "Manhattan"
+        ],
+        [
+            "Asser Levy Public Baths",
+            "location",
+            "New York City"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "New York City",
+            "isPartOf",
+            "Manhattan"
+        ],
+        [
+            "Asser Levy Public Baths",
+            "location",
+            "New York City"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "T S Thakur and Sumitra Mahajan are leaders in India where Amdavad ni Gufa is located .",
+    "triple_list": [
+        [
+            "Amdavad ni Gufa",
+            "country",
+            "India"
+        ],
+        [
+            "India",
+            "leaderName",
+            "Sumitra Mahajan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Amdavad ni Gufa",
+            "country",
+            "India"
+        ],
+        [
+            "India",
+            "leaderName",
+            "Sumitra Mahajan"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The School of Business and Social Sciences at the Aarhus University was established in 1928 . It has 737 academic staff and 16,000 students .",
+    "triple_list": [
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "established",
+            "1928"
+        ],
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "academicStaffSize",
+            "737"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "established",
+            "1928"
+        ],
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "academicStaffSize",
+            "737"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The comic character Auron was created by Walt Simonson and the American , Karl Kesel .",
+    "triple_list": [
+        [
+            "Auron",
+            "creator",
+            "Walt Simonson"
+        ],
+        [
+            "Auron",
+            "creator",
+            "Karl Kesel"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Auron",
+            "creator",
+            "Walt Simonson"
+        ],
+        [
+            "Auron",
+            "creator",
+            "Karl Kesel"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The creator of Bibbo Bibbowski , who is often called Bibbo , are Jerry Ordway and Marv Wolfman .",
+    "triple_list": [
+        [
+            "Bibbo Bibbowski",
+            "creator",
+            "Jerry Ordway"
+        ],
+        [
+            "Bibbo Bibbowski",
+            "creator",
+            "Marv Wolfman"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bibbo Bibbowski",
+            "creator",
+            "Jerry Ordway"
+        ],
+        [
+            "Bibbo Bibbowski",
+            "creator",
+            "Marv Wolfman"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The comic character Blockbuster , also known as Roland Desmond , was created by Roger Stern and Tom Lyle .",
+    "triple_list": [
+        [
+            "Blockbuster",
+            "creator",
+            "Tom Lyle"
+        ],
+        [
+            "Blockbuster",
+            "creator",
+            "Roger Stern"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Blockbuster",
+            "creator",
+            "Tom Lyle"
+        ],
+        [
+            "Blockbuster",
+            "creator",
+            "Roger Stern"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The comic character Bolt has the alternative name of Larry Bolatinsky and was created by Ernie Colon and Dan Mishkin .",
+    "triple_list": [
+        [
+            "Bolt",
+            "creator",
+            "Ernie"
+        ],
+        [
+            "Bolt",
+            "creator",
+            "Dan Mishkin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bolt",
+            "creator",
+            "Ernie"
+        ],
+        [
+            "Bolt",
+            "creator",
+            "Dan Mishkin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "An alternative name for the comic character Bolt is Larry Bolatinsky and he was created by Paris Cullins and Dan Mishkin .",
+    "triple_list": [
+        [
+            "Bolt",
+            "creator",
+            "Dan Mishkin"
+        ],
+        [
+            "Bolt",
+            "creator",
+            "Paris Cullins"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bolt",
+            "creator",
+            "Dan Mishkin"
+        ],
+        [
+            "Bolt",
+            "creator",
+            "Paris Cullins"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Ajoblanco is from Andalusia , in Spain . Ajoblanco contains water .",
+    "triple_list": [
+        [
+            "Ajoblanco",
+            "country",
+            "Spain"
+        ],
+        [
+            "Ajoblanco",
+            "region",
+            "Andalusia"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ajoblanco",
+            "country",
+            "Spain"
+        ],
+        [
+            "Ajoblanco",
+            "region",
+            "Andalusia"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Arem arem originates from the country of Indonesia , where two of the leaders are , Joko Widodo and Jusuf Kalla .",
+    "triple_list": [
+        [
+            "Indonesia",
+            "leaderName",
+            "Jusuf Kalla"
+        ],
+        [
+            "Indonesia",
+            "leaderName",
+            "Joko Widodo"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Indonesia",
+            "leaderName",
+            "Jusuf Kalla"
+        ],
+        [
+            "Indonesia",
+            "leaderName",
+            "Joko Widodo"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Arem-arem is a food found nationwide in Indonesia , but is more specific to Java . Jusuf Kalla is the leader of Indonesia .",
+    "triple_list": [
+        [
+            "Indonesia",
+            "leaderName",
+            "Jusuf Kalla"
+        ],
+        [
+            "Arem-arem",
+            "country",
+            "Indonesia"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Indonesia",
+            "leaderName",
+            "Jusuf Kalla"
+        ],
+        [
+            "Arem-arem",
+            "country",
+            "Indonesia"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The leader of Italy is Sergio Mattarella , it is also where Italian is spoken and the arrabbiata sauce is from .",
+    "triple_list": [
+        [
+            "Italy",
+            "leaderName",
+            "Sergio Mattarella"
+        ],
+        [
+            "Italy",
+            "language",
+            "Italian"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Italy",
+            "leaderName",
+            "Sergio Mattarella"
+        ],
+        [
+            "Italy",
+            "language",
+            "Italian"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Arrabbiata sauce , a traditional dish from Rome in Italy , has chili pepper as one of its important ingredients .",
+    "triple_list": [
+        [
+            "Arrabbiata sauce",
+            "country",
+            "Italy"
+        ],
+        [
+            "Arrabbiata sauce",
+            "region",
+            "Rome"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Arrabbiata sauce",
+            "country",
+            "Italy"
+        ],
+        [
+            "Arrabbiata sauce",
+            "region",
+            "Rome"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Ayam penyet is made from squeezed or UNK chicken served with UNK and is a popular dish in Java , Malaysia .",
+    "triple_list": [
+        [
+            "Ayam penyet",
+            "region",
+            "Malaysia"
+        ],
+        [
+            "Ayam penyet",
+            "country",
+            "Java"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ayam penyet",
+            "region",
+            "Malaysia"
+        ],
+        [
+            "Ayam penyet",
+            "country",
+            "Java"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Bacon and sausage are the main ingredients in a Bacon Explosion , which comes from the United States .",
+    "triple_list": [
+        [
+            "Bacon Explosion",
+            "country",
+            "United States"
+        ],
+        [
+            "Bacon Explosion",
+            "ingredient",
+            "Bacon"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bacon Explosion",
+            "country",
+            "United States"
+        ],
+        [
+            "Bacon Explosion",
+            "mainIngredients",
+            "Bacon"
+        ]
+    ],
+    "new": [
+        [
+            "Bacon Explosion",
+            "mainIngredients",
+            "Bacon"
+        ]
+    ],
+    "lack": [
+        [
+            "Bacon Explosion",
+            "ingredient",
+            "Bacon"
+        ]
+    ]
+}
+{
+    "text": "Barny Cakes come from France where UNK Larcher and Claude Bartolone are leaders .",
+    "triple_list": [
+        [
+            "Barny Cakes",
+            "country",
+            "France"
+        ],
+        [
+            "France",
+            "leaderName",
+            "Claude Bartolone"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Barny Cakes",
+            "country",
+            "France"
+        ],
+        [
+            "France",
+            "leaderName",
+            "Claude Bartolone"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Bhajji originates from India , country of Indians where the leader is T. S. Thakur .",
+    "triple_list": [
+        [
+            "India",
+            "leaderName",
+            "T. S. Thakur"
+        ],
+        [
+            "Bhajji",
+            "country",
+            "India"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "India",
+            "leaderName",
+            "T. S. Thakur"
+        ],
+        [
+            "Bhajji",
+            "country",
+            "India"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Containing raisins , Bionico is found in the region of Jalisco , in Mexico .",
+    "triple_list": [
+        [
+            "Bionico",
+            "region",
+            "Jalisco"
+        ],
+        [
+            "Bionico",
+            "country",
+            "Mexico"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bionico",
+            "region",
+            "Jalisco"
+        ],
+        [
+            "Bionico",
+            "country",
+            "Mexico"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Ayam penyet originates from Java where the Banyumasan are an ethnic group . It can be found nationwide and also in Singapore and Malaysia .",
+    "triple_list": [
+        [
+            "Java",
+            "ethnicGroup",
+            "Banyumasan"
+        ],
+        [
+            "Ayam penyet",
+            "country",
+            "Java"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ayam penyet",
+            "country",
+            "Java"
+        ],
+        [
+            "Java",
+            "ethnicGroup",
+            "Banyumasan"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The leader of Spain is Felipe VI and it is also where Spanish is spoken and the dish arros negre is from .",
+    "triple_list": [
+        [
+            "Spain",
+            "language",
+            "Spanish"
+        ],
+        [
+            "Spain",
+            "leaderName",
+            "Felipe VI"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Spain",
+            "language",
+            "Spanish"
+        ],
+        [
+            "Spain",
+            "leaderName",
+            "Felipe VI"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "A.T. Charlie Johnson , who lives in the US , is the editor of AIP Advances which is published by the American Institute of Physics .",
+    "triple_list": [
+        [
+            "AIP Advances",
+            "publisher",
+            "American Institute of Physics"
+        ],
+        [
+            "AIP Advances",
+            "editor",
+            "A.T. Charlie Johnson"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "AIP Advances",
+            "publisher",
+            "American Institute of Physics"
+        ],
+        [
+            "AIP Advances",
+            "editor",
+            "A.T. Charlie Johnson"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Diane Duane wrote A Wizard of Mars which was published in hardback and has the OCLC number 318875313 .",
+    "triple_list": [
+        [
+            "A Wizard of Mars",
+            "OCLC_number",
+            "318875313"
+        ],
+        [
+            "A Wizard of Mars",
+            "author",
+            "Diane Duane"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "A Wizard of Mars",
+            "OCLC_number",
+            "318875313"
+        ],
+        [
+            "A Wizard of Mars",
+            "author",
+            "Diane Duane"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Above the Veil , from Australia , is the third book in a series after Aenir and Castle .",
+    "triple_list": [
+        [
+            "Aenir",
+            "precededBy",
+            "Castle"
+        ],
+        [
+            "Above the Veil",
+            "precededBy",
+            "Aenir"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Above the Veil",
+            "country",
+            "Australia"
+        ],
+        [
+            "Aenir",
+            "precededBy",
+            "Castle"
+        ],
+        [
+            "Above the Veil",
+            "precededBy",
+            "Aenir"
+        ]
+    ],
+    "new": [
+        [
+            "Above the Veil",
+            "country",
+            "Australia"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "The Acta Mathematica Hungarica ISSN number is `` 0236-5294 '' and the abbreviation is Acta Math . Hungar . It comes under the academic discipline of Math .",
+    "triple_list": [
+        [
+            "Acta Mathematica Hungarica",
+            "ISSN_number",
+            "`` 0236-5294 ''"
+        ],
+        [
+            "Acta Mathematica Hungarica",
+            "abbreviation",
+            "``"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Acta Mathematica Hungarica",
+            "ISSN_number",
+            "`` 0236-5294 ''"
+        ],
+        [
+            "Acta Mathematica Hungarica",
+            "abbreviation",
+            "``"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Aenir , written by Garth Nix , was produced in print and has the OCLC number 45644811 .",
+    "triple_list": [
+        [
+            "Aenir",
+            "author",
+            "Garth Nix"
+        ],
+        [
+            "Aenir",
+            "OCLC_number",
+            "45644811"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Aenir",
+            "author",
+            "Garth Nix"
+        ],
+        [
+            "Aenir",
+            "OCLC_number",
+            "45644811"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Administrative Science Quarterly ( Admin . Sci . Q ) is published by SAGE Publications which was founded by Sara Miller McCune .",
+    "triple_list": [
+        [
+            "Administrative Science Quarterly",
+            "publisher",
+            "SAGE Publications"
+        ],
+        [
+            "SAGE Publications",
+            "founder",
+            "Sara Miller McCune"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Administrative Science Quarterly",
+            "publisher",
+            "SAGE Publications"
+        ],
+        [
+            "SAGE Publications",
+            "founder",
+            "Sara Miller McCune"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Alan Shepard was born on Nov 18 , 1923 in New Hampshire , USA . He graduated from NWC in 1957 with an M.A . He worked as a test pilot before passing away in California .",
+    "triple_list": [
+        [
+            "Alan Shepard",
+            "deathPlace",
+            "California"
+        ],
+        [
+            "Alan Shepard",
+            "birthPlace",
+            "New Hampshire"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alan Shepard",
+            "deathPlace",
+            "California"
+        ],
+        [
+            "Alan Shepard",
+            "birthPlace",
+            "New Hampshire"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Retired American fighter pilot Buzz Aldrin , also known as Edwin E. Aldrin Jr. , was born in Glen Ridge , New Jersey . He graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science and was a crew member on Apollo 11 .",
+    "triple_list": [
+        [
+            "Buzz Aldrin",
+            "was a crew member of",
+            "Apollo 11"
+        ],
+        [
+            "Buzz Aldrin",
+            "birthPlace",
+            "Glen Ridge , New Jersey"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Buzz Aldrin",
+            "was a crew member of",
+            "Apollo 11"
+        ],
+        [
+            "Buzz Aldrin",
+            "birthPlace",
+            "Glen Ridge , New Jersey"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Elliot See was born on July 23 , 1927 in Dallas . He graduated from U of Texas at Austin which is part of the U of Texas system . He worked as a test pilot before he died in St. Louis .",
+    "triple_list": [
+        [
+            "Elliot See",
+            "deathPlace",
+            "St. Louis"
+        ],
+        [
+            "Elliot See",
+            "birthPlace",
+            "Dallas"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Elliot See",
+            "deathPlace",
+            "St. Louis"
+        ],
+        [
+            "Elliot See",
+            "birthPlace",
+            "Dallas"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Elliot See was born in Dallas on the 23rd of July in 1927 before attending the University of Texas at Austin . Elliot was a test pilot before passing away in St Louis in 1966 .",
+    "triple_list": [
+        [
+            "Elliot See",
+            "birthPlace",
+            "Dallas"
+        ],
+        [
+            "Elliot See",
+            "almaMater",
+            "University of Texas at Austin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Elliot See",
+            "birthPlace",
+            "Dallas"
+        ],
+        [
+            "Elliot See",
+            "almaMater",
+            "University of Texas at Austin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "William Anders ( born on the 17th of October 1933 in British Hong Kong ) graduated from AFIT , M.S . in 1962 . He was a US National and served as a Fighter pilot before he retired on the 1st of September in 1969 .",
+    "triple_list": [
+        [
+            "William Anders",
+            "occupation",
+            "Fighter pilot"
+        ],
+        [
+            "William Anders",
+            "birthPlace",
+            "British Hong Kong"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "William Anders",
+            "birthPlace",
+            "British Hong Kong"
+        ],
+        [
+            "William Anders",
+            "occupation",
+            "Fighter pilot"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Baku , the capital of Azerbaijan is the location of the Turkish Martyrs memorial dedicated to the soldiers of the Ottoman army killed in the Battle of Baku . The memorial was designed by Huseyin Butuner and Hilmi Guner .",
+    "triple_list": [
+        [
+            "Azerbaijan",
+            "capital",
+            "Baku"
+        ],
+        [
+            "Baku",
+            "location",
+            "Azerbaijan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Turkish Martyrs",
+            "location",
+            "Azerbaijan"
+        ],
+        [
+            "Azerbaijan",
+            "capital",
+            "Baku ,"
+        ]
+    ],
+    "new": [
+        [
+            "Turkish Martyrs",
+            "location",
+            "Azerbaijan"
+        ],
+        [
+            "Azerbaijan",
+            "capital",
+            "Baku ,"
+        ]
+    ],
+    "lack": [
+        [
+            "Azerbaijan",
+            "capital",
+            "Baku"
+        ],
+        [
+            "Baku",
+            "location",
+            "Azerbaijan"
+        ]
+    ]
+}
+{
+    "text": "The red granite and white marble Baku Turkish Martyrs ' Memorial is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku , and is located in Baku , Azerbaijan , where the leader is Artur Rasizade .",
+    "triple_list": [
+        [
+            "Azerbaijan",
+            "leader",
+            "Artur Rasizade"
+        ],
+        [
+            "Baku Turkish Martyrs ' Memorial",
+            "location",
+            "Azerbaijan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Azerbaijan",
+            "capital",
+            "Baku"
+        ],
+        [
+            "Azerbaijan",
+            "leaderName",
+            "Artur Rasizade"
+        ],
+        [
+            "Baku Turkish Martyrs ' Memorial",
+            "location",
+            "Azerbaijan"
+        ],
+        [
+            "Azerbaijan",
+            "leader",
+            "Artur Rasizade"
+        ]
+    ],
+    "new": [
+        [
+            "Azerbaijan",
+            "leaderName",
+            "Artur Rasizade"
+        ],
+        [
+            "Azerbaijan",
+            "capital",
+            "Baku"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "Italian born Rolando Maran manages Associazione Calcio Chievo Verona . He is also in the Unione Triestina 2012 S.S.D . club as well as playing for Carrarese Calcio .",
+    "triple_list": [
+        [
+            "Rolando Maran",
+            "club",
+            "Unione Triestina 2012"
+        ],
+        [
+            "Rolando Maran",
+            "club",
+            "Carrarese Calcio"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Rolando Maran",
+            "club",
+            "Unione Triestina 2012"
+        ],
+        [
+            "Rolando Maran",
+            "club",
+            "Carrarese Calcio"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The fullname of A.S. Livorno Calcio is Livorno Calcio S.p.A. and their home ground is the Stadio Armando Picchi . They competed in Serie B during the 2014-15 season and has 19238 members .",
+    "triple_list": [
+        [
+            "A.S. Livorno Calcio",
+            "ground",
+            "Stadio Armando Picchi"
+        ],
+        [
+            "A.S. Livorno Calcio",
+            "numberOfMembers",
+            "19238"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "A.S. Livorno Calcio",
+            "ground",
+            "Stadio Armando Picchi"
+        ],
+        [
+            "A.S. Livorno Calcio",
+            "numberOfMembers",
+            "19238"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "A.S. Roma 's fullname is Associazione Sportiva Roma S.p.A. and they have 70634 members . Their ground is in Rome and the club played in Serie A in 2014-15 .",
+    "triple_list": [
+        [
+            "A.S. Roma",
+            "numberOfMembers",
+            "70634"
+        ],
+        [
+            "A.S. Roma",
+            "ground",
+            "Rome"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "A.S. Roma",
+            "numberOfMembers",
+            "70634"
+        ],
+        [
+            "A.S. Roma",
+            "ground",
+            "Rome"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "American test pilot Alan Shepard died in California and was born in New Hampshire .",
+    "triple_list": [
+        [
+            "Alan Shepard",
+            "deathPlace",
+            "California"
+        ],
+        [
+            "Alan Shepard",
+            "birthPlace",
+            "New Hampshire"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alan Shepard",
+            "deathPlace",
+            "California"
+        ],
+        [
+            "Alan Shepard",
+            "birthPlace",
+            "New Hampshire"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Elliot See attended the University of Texas in Austin . He became a test pilot . He died in St. Louis on 1966-02-28 .",
+    "triple_list": [
+        [
+            "Elliot See",
+            "deathPlace",
+            "St. Louis"
+        ],
+        [
+            "Elliot See",
+            "almaMater",
+            "University of Texas"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Elliot See",
+            "deathPlace",
+            "St. Louis"
+        ],
+        [
+            "Elliot See",
+            "almaMater",
+            "University of Texas"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Elliot See attended the University of Texas in Austin which is affiliated to the University of Texas system . He died in St Louis which is part of the Kingdom of France .",
+    "triple_list": [
+        [
+            "University of Texas",
+            "affiliations",
+            "University of Texas"
+        ],
+        [
+            "Elliot See",
+            "almaMater",
+            "University of Texas"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "University of Texas",
+            "affiliations",
+            "University of Texas"
+        ],
+        [
+            "Elliot See",
+            "almaMater",
+            "University of Texas"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Elliot See was born on July 23rd , 1927 in Dallas , and died in St. Louis on February 28th , 1966 .",
+    "triple_list": [
+        [
+            "Elliot See",
+            "deathPlace",
+            "St. Louis"
+        ],
+        [
+            "Elliot See",
+            "birthPlace",
+            "Dallas"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Elliot See",
+            "deathPlace",
+            "St. Louis"
+        ],
+        [
+            "Elliot See",
+            "birthPlace",
+            "Dallas"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Ardmore Airport in New Zealand is 34 meters above sea level and has a runway length of 597.0 . It has the runway name 03R/21L and the 3rd runway is made of Poaceae .",
+    "triple_list": [
+        [
+            "Ardmore Airport",
+            "3rd_runway_SurfaceType",
+            "Poaceae"
+        ],
+        [
+            "Ardmore Airport",
+            "runwayLength",
+            "597.0"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ardmore Airport",
+            "3rd_runway_SurfaceType",
+            "Poaceae"
+        ],
+        [
+            "Ardmore Airport",
+            "runwayLength",
+            "597.0"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Poaceae , of the class Monocotyledon and the order of commelinids belongs to the division of flowering plants and is used as the surface of the second runway of Ardmore airport , New Zealand .",
+    "triple_list": [
+        [
+            "Ardmore",
+            "2nd_runway_SurfaceType",
+            "Poaceae"
+        ],
+        [
+            "Poaceae",
+            "class",
+            "Monocotyledon"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ardmore",
+            "2nd_runway_SurfaceType",
+            "Poaceae"
+        ],
+        [
+            "Poaceae",
+            "class",
+            "Monocotyledon"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Tim Brooke-Taylor was the star of Bananaman , an STV series first aired on 10/03/1983 and created by Steve Bright .",
+    "triple_list": [
+        [
+            "Bananaman",
+            "creator",
+            "Steve Bright"
+        ],
+        [
+            "Bananaman",
+            "starring",
+            "Tim Brooke-Taylor"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bananaman",
+            "creator",
+            "Steve Bright"
+        ],
+        [
+            "Bananaman",
+            "starring",
+            "Tim Brooke-Taylor"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Big Hero 6 starred UNK Rudolph and the character of Baymax who was created by the American , Duncan Rouleau .",
+    "triple_list": [
+        [
+            "Baymax",
+            "creator",
+            "Duncan Rouleau"
+        ],
+        [
+            "Baymax",
+            "series",
+            "Big Hero 6"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Baymax",
+            "creator",
+            "Duncan Rouleau"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Baymax",
+            "series",
+            "Big Hero 6"
+        ]
+    ]
+}
+{
+    "text": "Arrabbiata sauce originates from the region of Rome in Italy . It is made with tomatoes , red chili , garlic and olive oil .",
+    "triple_list": [
+        [
+            "Arrabbiata sauce",
+            "country",
+            "Italy"
+        ],
+        [
+            "Arrabbiata sauce",
+            "region",
+            "Rome"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Arrabbiata sauce",
+            "country",
+            "Italy"
+        ],
+        [
+            "Arrabbiata sauce",
+            "region",
+            "Rome"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The main ingredients of Arròs negre , which is from Spain , are white rice , cuttlefish or squid , cephalopod ink , cubanelle and cubanelle peppers . Arròs negre is from the Catalonia region .",
+    "triple_list": [
+        [
+            "Arròs negre",
+            "country",
+            "Spain"
+        ],
+        [
+            "Arròs negre",
+            "region",
+            "Catalonia"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Arròs negre",
+            "country",
+            "Spain"
+        ],
+        [
+            "Arròs negre",
+            "region",
+            "Catalonia"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Bacon Explosion comes from the Kansas city metro area in the U.S . The main ingredient in it is bacon and also includes sausage .",
+    "triple_list": [
+        [
+            "Bacon Explosion",
+            "region",
+            "Kansas"
+        ],
+        [
+            "Bacon Explosion",
+            "mainIngredients",
+            "Bacon"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bacon Explosion",
+            "ingredient",
+            "Bacon"
+        ],
+        [
+            "Bacon Explosion",
+            "region",
+            "Kansas"
+        ]
+    ],
+    "new": [
+        [
+            "Bacon Explosion",
+            "ingredient",
+            "Bacon"
+        ]
+    ],
+    "lack": [
+        [
+            "Bacon Explosion",
+            "mainIngredients",
+            "Bacon"
+        ]
+    ]
+}
+{
+    "text": "Bacon sandwiches are popular in the UK , have a variant called a BLT , include the ingredient bacon and sometimes go by the name of : bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm and bacon muffin .",
+    "triple_list": [
+        [
+            "Bacon",
+            "ingredient",
+            "Bacon"
+        ],
+        [
+            "Bacon",
+            "dishVariation",
+            "BLT"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bacon",
+            "ingredient",
+            "Bacon"
+        ],
+        [
+            "Bacon",
+            "dishVariation",
+            "BLT"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Bacon sandwich is a dish from the United Kingdom and a variation is the BLT . An ingredient used is brown sauce and it 's different names include Bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm and bacon muffin .",
+    "triple_list": [
+        [
+            "Bacon sandwich",
+            "country",
+            "United Kingdom"
+        ],
+        [
+            "Bacon sandwich",
+            "dishVariation",
+            "BLT"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bacon sandwich",
+            "country",
+            "United Kingdom"
+        ],
+        [
+            "Bacon sandwich",
+            "dishVariation",
+            "BLT"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Bakewell tart is a variation of Bakewell pudding that originates from the Derbyshire Dales . It is a dessert that has the main ingredients of ground almond , jam , butter and eggs .",
+    "triple_list": [
+        [
+            "Bakewell pudding",
+            "region",
+            "Derbyshire Dales"
+        ],
+        [
+            "Bakewell pudding",
+            "dishVariation",
+            "Bakewell tart"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bakewell pudding",
+            "region",
+            "Derbyshire Dales"
+        ],
+        [
+            "Bakewell pudding",
+            "dishVariation",
+            "Bakewell tart"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Bandeja paisa is a UNK dish from the Paisa region . Its main ingredients include red beans , pork belly , white rice , ground meat , chicharon , fried egg , plantain ( patacones ) , chorizo , arepa , hogao sauce , black pudding ( morcilla ) , avocado and lemon .",
+    "triple_list": [
+        [
+            "Bandeja paisa",
+            "region",
+            "Paisa"
+        ],
+        [
+            "Bandeja paisa",
+            "country",
+            "UNK"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bandeja paisa",
+            "region",
+            "Paisa"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Bandeja paisa",
+            "country",
+            "UNK"
+        ]
+    ]
+}
+{
+    "text": "Beef kway teow is known to come from the Singapore region and also Indonesia . It 's main ingredients are Kway teow , beef tender loin , gula Melaka , sliced , dried black beans , garlic , dark soy sauce , lengkuas , oyster sauce , soya sauce , chilli and UNK oil .",
+    "triple_list": [
+        [
+            "Beef kway teow",
+            "country",
+            "Indonesia"
+        ],
+        [
+            "Beef kway teow",
+            "region",
+            "Singapore"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Beef kway teow",
+            "region",
+            "Singapore"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Beef kway teow",
+            "country",
+            "Indonesia"
+        ]
+    ]
+}
+{
+    "text": "Sour cream , chopped fruits , UNK milk . granola , raisins and shredded coconut are the main ingredients in Bionico , a food found in Guadalajara , in Mexico .",
+    "triple_list": [
+        [
+            "Bionico",
+            "country",
+            "Mexico"
+        ],
+        [
+            "Bionico",
+            "region",
+            "Guadalajara"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bionico",
+            "country",
+            "Mexico"
+        ],
+        [
+            "Bionico",
+            "region",
+            "Guadalajara"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Bionico is a food found in the Jalisco region of Mexico ; its ingredients contain the following : sour cream , chopped fruits , UNK milk . granola , raisins and shredded coconut .",
+    "triple_list": [
+        [
+            "Bionico",
+            "region",
+            "Jalisco"
+        ],
+        [
+            "Bionico",
+            "country",
+            "Mexico"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bionico",
+            "region",
+            "Jalisco"
+        ],
+        [
+            "Bionico",
+            "country",
+            "Mexico"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Bakso comes from Indonesia , and celery is a main ingredient . UNK Kalla is a leader in Indonesia .",
+    "triple_list": [
+        [
+            "Bakso",
+            "region",
+            "Indonesia"
+        ],
+        [
+            "Bakso",
+            "country",
+            "Indonesia"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bakso",
+            "country",
+            "Indonesia"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Bakso",
+            "region",
+            "Indonesia"
+        ]
+    ]
+}
+{
+    "text": "Ayam penyet comes from the UNK region and Halimah Yacob is the country 's UNK can be found in Java as well where Baduy people is an ethnic group .",
+    "triple_list": [
+        [
+            "Java",
+            "ethnicGroup",
+            "Baduy"
+        ],
+        [
+            "Ayam penyet",
+            "country",
+            "Java"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Java",
+            "ethnicGroup",
+            "Baduy people"
+        ],
+        [
+            "Ayam penyet",
+            "country",
+            "Java"
+        ],
+        [
+            "Ayam penyet",
+            "region",
+            "UNK"
+        ],
+        [
+            "UNK",
+            "leaderName",
+            "Halimah Yacob"
+        ]
+    ],
+    "new": [
+        [
+            "Java",
+            "ethnicGroup",
+            "Baduy people"
+        ],
+        [
+            "Ayam penyet",
+            "region",
+            "UNK"
+        ],
+        [
+            "UNK",
+            "leaderName",
+            "Halimah Yacob"
+        ]
+    ],
+    "lack": [
+        [
+            "Java",
+            "ethnicGroup",
+            "Baduy"
+        ]
+    ]
+}
+{
+    "text": "The language spoken in the Philippines is Philippine Spanish and batchoy is eaten there . Ethnic groups include the llocano people and the Moro people .",
+    "triple_list": [
+        [
+            "Philippines",
+            "ethnicGroup",
+            "Moro people"
+        ],
+        [
+            "Philippines",
+            "language",
+            "Philippine Spanish"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Philippines",
+            "ethnicGroup",
+            "Moro people"
+        ],
+        [
+            "Philippines",
+            "language",
+            "Philippine Spanish"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "A Fortress of Grey Ice was written by J. V. Jones and is available in print . Th book which has the ISBN number 0-7653-0633-6 . It also has the OCLC number 51969173 .",
+    "triple_list": [
+        [
+            "A Fortress of Grey Ice",
+            "author",
+            "J. V. Jones"
+        ],
+        [
+            "A Fortress of Grey Ice",
+            "OCLC_number",
+            "51969173"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "A Fortress of Grey Ice",
+            "author",
+            "J. V. Jones"
+        ],
+        [
+            "A Fortress of Grey Ice",
+            "OCLC_number",
+            "51969173"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "A Wizard of Mars , written by Diane Duane , is available in hardcover , has the ISBN number 978-0-15-204770-2 and the OCLC number 318875313 .",
+    "triple_list": [
+        [
+            "A Wizard of Mars",
+            "OCLC_number",
+            "318875313"
+        ],
+        [
+            "A Wizard of Mars",
+            "author",
+            "Diane Duane"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "A Wizard of Mars",
+            "OCLC_number",
+            "318875313"
+        ],
+        [
+            "A Wizard of Mars",
+            "author",
+            "Diane Duane"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The academic discipline of the American Journal of Mathematics is Mathematics , published in 1878 .",
+    "triple_list": [
+        [
+            "American Journal of Mathematics",
+            "firstPublicationYear",
+            "1878"
+        ],
+        [
+            "American Journal of Mathematics",
+            "academicDiscipline",
+            "Mathematics"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "American Journal of Mathematics",
+            "firstPublicationYear",
+            "1878"
+        ],
+        [
+            "American Journal of Mathematics",
+            "academicDiscipline",
+            "Mathematics"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Acharya Institute of Technology is located in Soldevanahalli , Acharya Dr. Sarvapalli UNK Road , Hessarghatta Main Road , Bangalore - 560090 , India . It has 700 postgraduate students .",
+    "triple_list": [
+        [
+            "Acharya Institute of Technology",
+            "city",
+            "Bangalore"
+        ],
+        [
+            "Acharya Institute of Technology",
+            "numberOfPostgraduateStudents",
+            "700"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Acharya Institute of Technology",
+            "city",
+            "Bangalore"
+        ],
+        [
+            "Acharya Institute of Technology",
+            "numberOfPostgraduateStudents",
+            "700"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Acharya Institute of Technology ( Director - Dr. G. P. Prabhukumar ) , is located in India , was established in 2000 and is affiliated with Visvesvaraya Technological University .",
+    "triple_list": [
+        [
+            "Acharya Institute of Technology",
+            "established",
+            "2000"
+        ],
+        [
+            "Acharya Institute of Technology",
+            "affiliation",
+            "Visvesvaraya Technological University"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Acharya Institute of Technology",
+            "established",
+            "2000"
+        ],
+        [
+            "Acharya Institute of Technology",
+            "affiliation",
+            "Visvesvaraya Technological University"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Construction began in 1927 and finished in 1931 of Adisham Hall in Sri Lanka and was in the Tudor and Jacobean style .",
+    "triple_list": [
+        [
+            "Adisham Hall",
+            "completionDate",
+            "1931"
+        ],
+        [
+            "Adisham Hall",
+            "location",
+            "Sri Lanka"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Adisham Hall",
+            "completionDate",
+            "1931"
+        ],
+        [
+            "Adisham Hall",
+            "location",
+            "Sri Lanka"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Buzz Aldrin was a fighter pilot who was born in Glen Ridge , New Jersey om January 20th , 1930 . His real name is Edwin E. Aldrin Jr. and after graduating from MIT with a doctorate in Science in 1963 , he became a member of Apollo 11 .",
+    "triple_list": [
+        [
+            "Buzz Aldrin",
+            "was a crew member of",
+            "Apollo 11"
+        ],
+        [
+            "Buzz Aldrin",
+            "birthPlace",
+            "Glen Ridge , New Jersey"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Buzz Aldrin",
+            "was a crew member of",
+            "Apollo 11"
+        ],
+        [
+            "Buzz Aldrin",
+            "birthPlace",
+            "Glen Ridge , New Jersey"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Elliot See was born in Dallas as US national and graduated from the University of Texas at Austin . Elliot See has died on the 28th of February 1966 in St Louis .",
+    "triple_list": [
+        [
+            "Elliot See",
+            "birthPlace",
+            "Dallas"
+        ],
+        [
+            "Elliot See",
+            "almaMater",
+            "University of Texas at Austin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Elliot See",
+            "birthPlace",
+            "Dallas"
+        ],
+        [
+            "Elliot See",
+            "almaMater",
+            "University of Texas at Austin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "William Anders was born on October 17 , 1933 , in British Hong Kong . He graduated from AFIT in 1962 with an M.S. , and would go on to serve as a fighter pilot , and as a crew member on Apollo 8 . Anders retired on September 1 , 1969 .",
+    "triple_list": [
+        [
+            "William Anders",
+            "birthPlace",
+            "British Hong Kong"
+        ],
+        [
+            "William Anders",
+            "was a crew member of",
+            "Apollo 8"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "William Anders",
+            "birthPlace",
+            "British Hong Kong"
+        ],
+        [
+            "William Anders",
+            "was a crew member of",
+            "Apollo 8"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "AIDS journal is from the United Kingdom whose leader is Elizabeth II .",
+    "triple_list": [
+        [
+            "AIDS",
+            "country",
+            "United Kingdom"
+        ],
+        [
+            "United Kingdom",
+            "leaderName",
+            "Elizabeth II"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "AIDS",
+            "country",
+            "United Kingdom"
+        ],
+        [
+            "United Kingdom",
+            "leaderName",
+            "Elizabeth II"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "A Loyal Character Dancer is published in the United States where the Asian Americans are one of the ethnic groups .",
+    "triple_list": [
+        [
+            "United States",
+            "ethnicGroup",
+            "Asian Americans"
+        ],
+        [
+            "A Loyal Character Dancer",
+            "country",
+            "United States"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "United States",
+            "ethnicGroup",
+            "Asian Americans"
+        ],
+        [
+            "A Loyal Character Dancer",
+            "country",
+            "United States"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "A Loyal Character Dancer is published by Soho Press which is located in the United States .",
+    "triple_list": [
+        [
+            "A Loyal Character Dancer",
+            "publisher",
+            "Soho Press"
+        ],
+        [
+            "Soho Press",
+            "country",
+            "United States"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "A Loyal Character Dancer",
+            "publisher",
+            "Soho Press"
+        ],
+        [
+            "Soho Press",
+            "country",
+            "United States"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "A Wizard of Mars was written by Diane Duane with on OCLC number 318875313 .",
+    "triple_list": [
+        [
+            "A Wizard of Mars",
+            "OCLC_number",
+            "318875313"
+        ],
+        [
+            "A Wizard of Mars",
+            "author",
+            "Diane Duane"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "A Wizard of Mars",
+            "OCLC_number",
+            "318875313"
+        ],
+        [
+            "A Wizard of Mars",
+            "author",
+            "Diane Duane"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Above the Veil followed the book Aenir and is written in English .",
+    "triple_list": [
+        [
+            "Above the Veil",
+            "language",
+            "English"
+        ],
+        [
+            "Aenir",
+            "followedBy",
+            "Above the Veil"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Above the Veil",
+            "language",
+            "English"
+        ],
+        [
+            "Aenir",
+            "followedBy",
+            "Above the Veil"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Above the Veil is the sequel to Aenir , which was written after Castle .",
+    "triple_list": [
+        [
+            "Aenir",
+            "precededBy",
+            "Castle"
+        ],
+        [
+            "Above the Veil",
+            "precededBy",
+            "Aenir"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Aenir",
+            "precededBy",
+            "Castle"
+        ],
+        [
+            "Above the Veil",
+            "precededBy",
+            "Aenir"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Acta Mathematica Hungarica is the publisher of Springer Science Business Media , founded by Julius Springer .",
+    "triple_list": [
+        [
+            "Acta Mathematica Hungarica",
+            "publisher",
+            "Springer Science Business Media"
+        ],
+        [
+            "Springer Science Business Media",
+            "founder",
+            "Julius Springer"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Springer",
+            "founder",
+            "Julius Springer"
+        ]
+    ],
+    "new": [
+        [
+            "Springer",
+            "founder",
+            "Julius Springer"
+        ]
+    ],
+    "lack": [
+        [
+            "Acta Mathematica Hungarica",
+            "publisher",
+            "Springer Science Business Media"
+        ],
+        [
+            "Springer Science Business Media",
+            "founder",
+            "Julius Springer"
+        ]
+    ]
+}
+{
+    "text": "The Administrative Science Quarterly has a Coden code of `` ASCQAG '' and the abbreviation of Admin.Sci.Q .",
+    "triple_list": [
+        [
+            "Administrative Science Quarterly",
+            "CODEN_code",
+            "`` ASCQAG ''"
+        ],
+        [
+            "Administrative Science Quarterly",
+            "abbreviation",
+            "``"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Administrative Science Quarterly",
+            "CODEN_code",
+            "`` ASCQAG ''"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Administrative Science Quarterly",
+            "abbreviation",
+            "``"
+        ]
+    ]
+}
+{
+    "text": "Cornell University is affiliated with the Association of Public and Land grant Universities and published Administrative Science Quarterly .",
+    "triple_list": [
+        [
+            "Administrative Science Quarterly",
+            "publisher",
+            "Cornell University"
+        ],
+        [
+            "Cornell University",
+            "affiliation",
+            "Association of Public and"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Administrative Science Quarterly",
+            "publisher",
+            "Cornell University"
+        ],
+        [
+            "Cornell University",
+            "affiliation",
+            "Association of Public and"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Written by Garth Nix , Aenir , has the ISBN number of `` 0-439-17684-0 .",
+    "triple_list": [
+        [
+            "Aenir",
+            "author",
+            "Garth Nix"
+        ],
+        [
+            "Aenir",
+            "ISBN_number",
+            "`` 0-439-17684-0"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Aenir",
+            "author",
+            "Garth Nix"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Aenir",
+            "ISBN_number",
+            "`` 0-439-17684-0"
+        ]
+    ]
+}
+{
+    "text": "AIDS ( journal ) comes under the academic discipline HIV which belongs to the family Orthoretrovirinae .",
+    "triple_list": [
+        [
+            "HIV",
+            "family",
+            "Orthoretrovirinae"
+        ],
+        [
+            "AIDS ( journal )",
+            "academicDiscipline",
+            "HIV"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "HIV",
+            "family",
+            "Orthoretrovirinae"
+        ],
+        [
+            "AIDS ( journal )",
+            "academicDiscipline",
+            "HIV"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "A Fortress of Grey Ice is from the United States where the language is English .",
+    "triple_list": [
+        [
+            "A Fortress of Grey Ice",
+            "country",
+            "United States"
+        ],
+        [
+            "United States",
+            "language",
+            "English"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "A Fortress of Grey Ice",
+            "country",
+            "United States"
+        ],
+        [
+            "United States",
+            "language",
+            "English"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "UNK Graeme Garden , Bananaman , the TV series was shown on the BBC .",
+    "triple_list": [
+        [
+            "Bananaman",
+            "starring",
+            "Graeme Garden"
+        ],
+        [
+            "Bananaman",
+            "broadcastedBy",
+            "BBC"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bananaman",
+            "broadcastedBy",
+            "BBC"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Bananaman",
+            "starring",
+            "Graeme Garden"
+        ]
+    ]
+}
+{
+    "text": "Bill Oddie , who stars in Bananaman , was born in Lancashire .",
+    "triple_list": [
+        [
+            "Bananaman",
+            "starring",
+            "Bill Oddie"
+        ],
+        [
+            "Bill Oddie",
+            "birthPlace",
+            "Lancashire"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bananaman",
+            "starring",
+            "Bill Oddie"
+        ],
+        [
+            "Bill Oddie",
+            "birthPlace",
+            "Lancashire"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The comic character Blockbuster was created by Roger Stern and Tom Lyle .",
+    "triple_list": [
+        [
+            "Blockbuster",
+            "creator",
+            "Tom Lyle"
+        ],
+        [
+            "Blockbuster",
+            "creator",
+            "Roger Stern"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Blockbuster",
+            "creator",
+            "Tom Lyle"
+        ],
+        [
+            "Blockbuster",
+            "creator",
+            "Roger Stern"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Paris UNK and Gary Cohn are the creators of the comics character Bolt .",
+    "triple_list": [
+        [
+            "Bolt",
+            "creator",
+            "Paris"
+        ],
+        [
+            "Bolt",
+            "creator",
+            "Gary Cohn"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bolt",
+            "creator",
+            "Paris"
+        ],
+        [
+            "Bolt",
+            "creator",
+            "Gary Cohn"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Bread is an ingredient of Ajoblanco which originates from Spain .",
+    "triple_list": [
+        [
+            "Ajoblanco",
+            "ingredient",
+            "Bread"
+        ],
+        [
+            "Ajoblanco",
+            "country",
+            "Spain"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ajoblanco",
+            "ingredient",
+            "Bread"
+        ],
+        [
+            "Ajoblanco",
+            "country",
+            "Spain"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Tomato is an ingredient in Amatriciana sauce which comes from Lazio .",
+    "triple_list": [
+        [
+            "Amatriciana sauce",
+            "region",
+            "Lazio"
+        ],
+        [
+            "Amatriciana sauce",
+            "ingredient",
+            "Tomato"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Amatriciana sauce",
+            "region",
+            "Lazio"
+        ],
+        [
+            "Amatriciana sauce",
+            "ingredient",
+            "Tomato"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Bandeja paisa comes from the Antioquia Department of Colombia .",
+    "triple_list": [
+        [
+            "Antioquia Department",
+            "country",
+            "Colombia"
+        ],
+        [
+            "Bandeja paisa",
+            "region",
+            "Antioquia Department"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Antioquia Department",
+            "country",
+            "Colombia"
+        ],
+        [
+            "Bandeja paisa",
+            "region",
+            "Antioquia Department"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Olive oil is an ingredient used in the preparation of Arrabbiata sauce , found in Italy .",
+    "triple_list": [
+        [
+            "Arrabbiata sauce",
+            "ingredient",
+            "Olive oil"
+        ],
+        [
+            "Arrabbiata sauce",
+            "country",
+            "Italy"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Arrabbiata sauce",
+            "ingredient",
+            "Olive oil"
+        ],
+        [
+            "Arrabbiata sauce",
+            "country",
+            "Italy"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Arrabbiata sauce is found in Italy where the capital city is Rome .",
+    "triple_list": [
+        [
+            "Italy",
+            "capital",
+            "Rome"
+        ],
+        [
+            "Arrabbiata sauce",
+            "country",
+            "Italy"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Italy",
+            "capital",
+            "Rome"
+        ],
+        [
+            "Arrabbiata sauce",
+            "country",
+            "Italy"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Ayam penyet is a food found in Java and the main ingredients are `` squeezed '' or `` smashed '' chicken served with sambal .",
+    "triple_list": [
+        [
+            "Ayam penyet",
+            "mainIngredients",
+            "``"
+        ],
+        [
+            "Ayam penyet",
+            "country",
+            "Java"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ayam penyet",
+            "mainIngredients",
+            "``"
+        ],
+        [
+            "Ayam penyet",
+            "country",
+            "Java"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The United States , where John Roberts is a leader , is the country of the Bacon Explosion .",
+    "triple_list": [
+        [
+            "United States",
+            "leaderName",
+            "John Roberts"
+        ],
+        [
+            "Bacon Explosion",
+            "country",
+            "United States"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "United States",
+            "leaderName",
+            "John Roberts"
+        ],
+        [
+            "Bacon Explosion",
+            "country",
+            "United States"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Baked Alaska comes from China , where Standard Chinese is spoken .",
+    "triple_list": [
+        [
+            "Baked Alaska",
+            "country",
+            "China"
+        ],
+        [
+            "China",
+            "language",
+            "Standard Chinese"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Baked Alaska",
+            "country",
+            "China"
+        ],
+        [
+            "China",
+            "language",
+            "Standard Chinese"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Lemon ( part of genus Citrus ) is an ingredient in Bandeja paisa .",
+    "triple_list": [
+        [
+            "Lemon",
+            "genus",
+            "Citrus"
+        ],
+        [
+            "Bandeja paisa",
+            "ingredient",
+            "Lemon"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Lemon",
+            "genus",
+            "Citrus"
+        ],
+        [
+            "Bandeja paisa",
+            "ingredient",
+            "Lemon"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Beef kway teow is a dish of Singapore where Tony Tan is a leader .",
+    "triple_list": [
+        [
+            "Singapore",
+            "leaderName",
+            "Tony Tan"
+        ],
+        [
+            "Beef kway teow",
+            "region",
+            "Singapore"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Beef kway teow",
+            "country",
+            "Singapore"
+        ],
+        [
+            "Singapore",
+            "leaderName",
+            "Tony Tan"
+        ]
+    ],
+    "new": [
+        [
+            "Beef kway teow",
+            "country",
+            "Singapore"
+        ]
+    ],
+    "lack": [
+        [
+            "Beef kway teow",
+            "region",
+            "Singapore"
+        ]
+    ]
+}
+{
+    "text": "Bhajji originates from India and Sumitra Mahajan is it 's leader .",
+    "triple_list": [
+        [
+            "Bhajji",
+            "country",
+            "India"
+        ],
+        [
+            "India",
+            "leaderName",
+            "Sumitra Mahajan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bhajji",
+            "country",
+            "India"
+        ],
+        [
+            "India",
+            "leaderName",
+            "Sumitra Mahajan"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The All India Council for Technical Education UNK the Acharya Institute of Technology the status of `` Technical Campus '' . The official school colours are blue , white and orange .",
+    "triple_list": [
+        [
+            "Acharya Institute of Technology",
+            "was given the 'Technical Campus' status by",
+            "All India Council for Technical Education"
+        ],
+        [
+            "Acharya Institute of Technology",
+            "officialSchoolColour",
+            "``"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Acharya Institute of Technology",
+            "was given the 'Technical Campus' status by",
+            "All India Council for Technical Education"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Acharya Institute of Technology",
+            "officialSchoolColour",
+            "``"
+        ]
+    ]
+}
+{
+    "text": "The International Tennis Federation , which is the sport 's governing body , has UNK to UNK Acharya Institute of Technology offer tennis at the school .",
+    "triple_list": [
+        [
+            "Tennis",
+            "sportsGoverningBody",
+            "International Tennis Federation"
+        ],
+        [
+            "Acharya Institute of Technology",
+            "sportsOffered",
+            "Tennis"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Tennis",
+            "sportsGoverningBody",
+            "International Tennis Federation"
+        ],
+        [
+            "Acharya Institute of Technology",
+            "sportsOffered",
+            "Tennis"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The School of Business and Social Sciences at the Aarhus University is affiliated to the European University Association which has its headquarters in Brussels .",
+    "triple_list": [
+        [
+            "European University Association",
+            "headquarters",
+            "Brussels"
+        ],
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "affiliation",
+            "European University Association"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "European University Association",
+            "headquarters",
+            "Brussels"
+        ],
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "affiliation",
+            "European University Association"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Acharya Institue of Technology is located in the state of Karnataka which has the Arabian Sea to the west .",
+    "triple_list": [
+        [
+            "Karnataka",
+            "has to its west",
+            "Arabian Sea"
+        ],
+        [
+            "Acharya",
+            "state",
+            "Karnataka"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Karnataka",
+            "has to its west",
+            "Arabian Sea"
+        ],
+        [
+            "Acharya",
+            "state",
+            "Karnataka"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Abilene is in Texas and is served by the Abilene regional airport .",
+    "triple_list": [
+        [
+            "Abilene",
+            "isPartOf",
+            "Texas"
+        ],
+        [
+            "Abilene",
+            "cityServed",
+            "Abilene"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Abilene",
+            "cityServed",
+            "Abilene"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Abilene",
+            "isPartOf",
+            "Texas"
+        ]
+    ]
+}
+{
+    "text": "Al Asad Airbase is operated by the United States Air Force who fought in The Operation of Enduring Freedom battle .",
+    "triple_list": [
+        [
+            "Al Asad Airbase",
+            "operatingOrganisation",
+            "United States Air Force"
+        ],
+        [
+            "United States Air Force",
+            "battles",
+            "Operation"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Al Asad Airbase",
+            "operatingOrganisation",
+            "United States Air Force"
+        ],
+        [
+            "United States Air Force",
+            "battles",
+            "Operation of Enduring Freedom"
+        ]
+    ],
+    "new": [
+        [
+            "United States Air Force",
+            "battles",
+            "Operation of Enduring Freedom"
+        ]
+    ],
+    "lack": [
+        [
+            "United States Air Force",
+            "battles",
+            "Operation"
+        ]
+    ]
+}
+{
+    "text": "The United States invasion of Panama was a battle involving the United States Air Force who operate the Al Asad Airbase .",
+    "triple_list": [
+        [
+            "United States Air Force",
+            "battles",
+            "United States invasion of Panama"
+        ],
+        [
+            "Al Asad Airbase",
+            "operatingOrganisation",
+            "United States Air Force"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Al Asad Airbase",
+            "operatingOrganisation",
+            "United States Air Force"
+        ],
+        [
+            "United States Air Force",
+            "battles",
+            "United States"
+        ]
+    ],
+    "new": [
+        [
+            "United States Air Force",
+            "battles",
+            "United States"
+        ]
+    ],
+    "lack": [
+        [
+            "United States Air Force",
+            "battles",
+            "United States invasion of Panama"
+        ]
+    ]
+}
+{
+    "text": "Adolfo Suarez MadridBarajas Airport is located in Alcobendas which is part of the Community of Madrid .",
+    "triple_list": [
+        [
+            "Alcobendas",
+            "isPartOf",
+            "Community of Madrid"
+        ],
+        [
+            "Adolfo Suarez MadridBarajas Airport",
+            "location",
+            "Alcobendas"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alcobendas",
+            "isPartOf",
+            "Community of Madrid"
+        ],
+        [
+            "Adolfo Suarez MadridBarajas Airport",
+            "location",
+            "Alcobendas"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Poaceae is the surface of the 1st runway at Alderney Airport which has a runway with the length of 877.0 metres .",
+    "triple_list": [
+        [
+            "Alderney Airport",
+            "1st_runway_SurfaceType",
+            "Poaceae"
+        ],
+        [
+            "Alderney Airport",
+            "runwayLength",
+            "877.0"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alderney Airport",
+            "1st_runway_SurfaceType",
+            "Poaceae"
+        ],
+        [
+            "Alderney Airport",
+            "runwayLength",
+            "877.0"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Allama Iqbal International Airport is operated by Pakistan Civil Aviation Authority , the HQ of which is at Jinnah International Airport .",
+    "triple_list": [
+        [
+            "Allama Iqbal International Airport",
+            "operatingOrganisation",
+            "Pakistan Civil Aviation Authority"
+        ],
+        [
+            "Pakistan Civil Aviation Authority",
+            "headquarter",
+            "Jinnah International Airport"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Allama Iqbal International Airport",
+            "operatingOrganisation",
+            "Pakistan Civil Aviation Authority"
+        ],
+        [
+            "Pakistan Civil Aviation Authority",
+            "headquarter",
+            "Jinnah International Airport"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The location of Alpena County Regional Airport is Wilson Township , Alpena County , Michigan , United States .",
+    "triple_list": [
+        [
+            "Alpena County Regional Airport",
+            "location",
+            "Wilson Township , Alpena County , Michigan"
+        ],
+        [
+            "Wilson Township , Alpena County , Michigan",
+            "isPartOf",
+            "United States"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Wilson Township , Alpena County , Michigan",
+            "country",
+            "United States"
+        ],
+        [
+            "Alpena County Regional Airport",
+            "location",
+            "Wilson Township , Alpena County , Michigan"
+        ]
+    ],
+    "new": [
+        [
+            "Wilson Township , Alpena County , Michigan",
+            "country",
+            "United States"
+        ]
+    ],
+    "lack": [
+        [
+            "Wilson Township , Alpena County , Michigan",
+            "isPartOf",
+            "United States"
+        ]
+    ]
+}
+{
+    "text": "The Schipol Group are the operators of Amsterdam Airport Schiphol , which is -3.3528 above sea level .",
+    "triple_list": [
+        [
+            "Amsterdam Airport Schiphol",
+            "operatingOrganisation",
+            "Schiphol"
+        ],
+        [
+            "Amsterdam Airport Schiphol",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "-3.3528"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Amsterdam Airport Schiphol",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "-3.3528"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Amsterdam Airport Schiphol",
+            "operatingOrganisation",
+            "Schiphol"
+        ]
+    ]
+}
+{
+    "text": "Andrews County Airport is located in Texas , the capital of which is Austin .",
+    "triple_list": [
+        [
+            "Andrews County Airport",
+            "location",
+            "Texas"
+        ],
+        [
+            "Texas",
+            "capital",
+            "Austin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Andrews County Airport",
+            "location",
+            "Texas"
+        ],
+        [
+            "Texas",
+            "capital",
+            "Austin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Angola International Airport is located in Ícolo e Bengo , Angola .",
+    "triple_list": [
+        [
+            "Ícolo e Bengo",
+            "country",
+            "Angola"
+        ],
+        [
+            "Angola International Airport",
+            "location",
+            "Ícolo e Bengo"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ícolo e Bengo",
+            "country",
+            "Angola"
+        ],
+        [
+            "Angola International Airport",
+            "location",
+            "Ícolo e Bengo"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Appleton , Grand Chute , Wisconsin is a city which is served by Appleton International Airport .",
+    "triple_list": [
+        [
+            "Appleton International Airport",
+            "cityServed",
+            "Appleton ,"
+        ],
+        [
+            "Appleton ,",
+            "isPartOf",
+            "Grand Chute , Wisconsin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Appleton International Airport",
+            "cityServed",
+            "Appleton ,"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Appleton ,",
+            "isPartOf",
+            "Grand Chute , Wisconsin"
+        ]
+    ]
+}
+{
+    "text": "New Zealand 's Ardmore Airport 's second runway has the surface type Poaceae which is part of the Poales order .",
+    "triple_list": [
+        [
+            "Poaceae",
+            "order",
+            "Poales"
+        ],
+        [
+            "Ardmore Airport",
+            "2nd_runway_SurfaceType",
+            "Poaceae"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Poaceae",
+            "order",
+            "Poales"
+        ],
+        [
+            "Ardmore Airport",
+            "3rd_runway_SurfaceType",
+            "Poaceae"
+        ]
+    ],
+    "new": [
+        [
+            "Ardmore Airport",
+            "3rd_runway_SurfaceType",
+            "Poaceae"
+        ]
+    ],
+    "lack": [
+        [
+            "Ardmore Airport",
+            "2nd_runway_SurfaceType",
+            "Poaceae"
+        ]
+    ]
+}
+{
+    "text": "Ardmore Airport ( New Zealand ) 's 3rd runway surface type is Poaceae of the class Monocotyledon .",
+    "triple_list": [
+        [
+            "Ardmore Airport ( New Zealand )",
+            "3rd_runway_SurfaceType",
+            "Poaceae"
+        ],
+        [
+            "Poaceae",
+            "class",
+            "Monocotyledon"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ardmore Airport ( New Zealand )",
+            "3rd_runway_SurfaceType",
+            "Poaceae"
+        ],
+        [
+            "Poaceae",
+            "class",
+            "Monocotyledon"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The runway length at Ashgabat International airport , located in Ashgabat , is 3800.0 .",
+    "triple_list": [
+        [
+            "Ashgabat International",
+            "runwayLength",
+            "3800.0"
+        ],
+        [
+            "Ashgabat International",
+            "location",
+            "Ashgabat"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ashgabat International",
+            "location",
+            "Ashgabat"
+        ],
+        [
+            "Ashgabat International",
+            "runwayLength",
+            "3800.0"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Athens International Airport is in Spata and serves the city of Athens .",
+    "triple_list": [
+        [
+            "Athens International Airport",
+            "cityServed",
+            "Athens"
+        ],
+        [
+            "Athens International Airport",
+            "location",
+            "Spata"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Athens International Airport",
+            "cityServed",
+            "Athens"
+        ],
+        [
+            "Athens International Airport",
+            "location",
+            "Spata"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Athens International Airport serves the city of Athens and has a runway length of 3800.0 .",
+    "triple_list": [
+        [
+            "Athens International Airport",
+            "cityServed",
+            "Athens"
+        ],
+        [
+            "Athens International Airport",
+            "runwayLength",
+            "3800.0"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Athens International Airport",
+            "cityServed",
+            "Athens"
+        ],
+        [
+            "Athens International Airport",
+            "runwayLength",
+            "3800.0"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "San Sebastian de los Reyes is part of the Community of Madrid and is also the location of Adolfo Suarez MadridBarajas Airport .",
+    "triple_list": [
+        [
+            "San",
+            "isPartOf",
+            "Community of Madrid"
+        ],
+        [
+            "Adolfo Suarez MadridBarajas Airport",
+            "location",
+            "San"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "San",
+            "isPartOf",
+            "Community of Madrid"
+        ],
+        [
+            "Adolfo Suarez MadridBarajas Airport",
+            "location",
+            "San"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "A.C. Lumezzane 's ground is in Italy where the leader is Pietro Grasso .",
+    "triple_list": [
+        [
+            "Italy",
+            "leader",
+            "Pietro Grasso"
+        ],
+        [
+            "A.C. Lumezzane",
+            "ground",
+            "Italy"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Italy",
+            "leader",
+            "Pietro Grasso"
+        ],
+        [
+            "A.C. Lumezzane",
+            "ground",
+            "Italy"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Jorge Humberto Rodríguez manages the A.D. Isidro Metapan , he played for the C.D . FAS .",
+    "triple_list": [
+        [
+            "Jorge Humberto Rodríguez",
+            "club",
+            "C.D . FAS"
+        ],
+        [
+            "A.D. Isidro",
+            "manager",
+            "Jorge Humberto Rodríguez"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Jorge Humberto Rodríguez",
+            "club",
+            "C.D . FAS"
+        ],
+        [
+            "A.D. Isidro",
+            "manager",
+            "Jorge Humberto Rodríguez"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The manager of A.F.C . Blackpool is Stuart Parker ( footballer ) who plays for Runcorn F.C . Halton .",
+    "triple_list": [
+        [
+            "A.F.C . Blackpool",
+            "manager",
+            "Stuart Parker ( footballer )"
+        ],
+        [
+            "Stuart Parker ( footballer )",
+            "club",
+            "Runcorn F.C . Halton"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Stuart Parker ( footballer )",
+            "club",
+            "Runcorn"
+        ],
+        [
+            "A.F.C . Blackpool",
+            "manager",
+            "Stuart Parker ( footballer )"
+        ]
+    ],
+    "new": [
+        [
+            "Stuart Parker ( footballer )",
+            "club",
+            "Runcorn"
+        ]
+    ],
+    "lack": [
+        [
+            "Stuart Parker ( footballer )",
+            "club",
+            "Runcorn F.C . Halton"
+        ]
+    ]
+}
+{
+    "text": "The manager of A.F.C . Blackpool is Stuart Parker ( footballer ) , who plays at the Sparta Rotterdam club .",
+    "triple_list": [
+        [
+            "Stuart Parker ( footballer )",
+            "club",
+            "Sparta Rotterdam"
+        ],
+        [
+            "A.F.C . Blackpool",
+            "manager",
+            "Stuart Parker ( footballer )"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Stuart Parker ( footballer )",
+            "club",
+            "Sparta Rotterdam"
+        ],
+        [
+            "A.F.C . Blackpool",
+            "manager",
+            "Stuart Parker ( footballer )"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "A.S. Livorno Calcio is managed by Christian Panucci who plays for the Italy national football team .",
+    "triple_list": [
+        [
+            "Christian Panucci",
+            "club",
+            "Italy national football team"
+        ],
+        [
+            "A.S. Livorno Calcio",
+            "manager",
+            "Christian Panucci"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Christian Panucci",
+            "club",
+            "Italy national football team"
+        ],
+        [
+            "A.S. Livorno Calcio",
+            "manager",
+            "Christian Panucci"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "ACF Fiorentina play in Serie A which is based in Italy .",
+    "triple_list": [
+        [
+            "ACF Fiorentina",
+            "league",
+            "Serie A"
+        ],
+        [
+            "Serie A",
+            "country",
+            "Italy"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "ACF Fiorentina",
+            "league",
+            "Serie A"
+        ],
+        [
+            "Serie A",
+            "country",
+            "Italy"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The manager of AFC Ajax is Frank de Boer who is in the Ajax Youth Academy .",
+    "triple_list": [
+        [
+            "AFC Ajax",
+            "manager",
+            "Frank de Boer"
+        ],
+        [
+            "Frank de Boer",
+            "club",
+            "Ajax Youth Academy"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "AFC Ajax",
+            "manager",
+            "Frank de Boer"
+        ],
+        [
+            "Frank de Boer",
+            "club",
+            "Ajax Youth Academy"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "AFC Ajax has 53502 members and is the owner of AFC Ajax NV .",
+    "triple_list": [
+        [
+            "AFC Ajax",
+            "numberOfMembers",
+            "53502"
+        ],
+        [
+            "AFC Ajax",
+            "owner",
+            "AFC Ajax"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "AFC Ajax",
+            "numberOfMembers",
+            "53502"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "AFC Ajax",
+            "owner",
+            "AFC Ajax"
+        ]
+    ]
+}
+{
+    "text": "AFC Ajax is based in Amsterdam where the leader is Eberhard van der Laan .",
+    "triple_list": [
+        [
+            "Amsterdam",
+            "leader",
+            "Eberhard van der Laan"
+        ],
+        [
+            "AFC Ajax",
+            "ground",
+            "Amsterdam"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Amsterdam",
+            "leader",
+            "Eberhard van der Laan"
+        ],
+        [
+            "AFC Ajax",
+            "ground",
+            "Amsterdam"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Massimo Drago 's club is the S.S. Chieti Calcio and he manages A.C. Cesena .",
+    "triple_list": [
+        [
+            "Massimo Drago",
+            "club",
+            "S.S. Chieti Calcio"
+        ],
+        [
+            "A.C. Cesena",
+            "manager",
+            "Massimo Drago"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Massimo Drago",
+            "club",
+            "S.S. Chieti Calcio"
+        ],
+        [
+            "A.C. Cesena",
+            "manager",
+            "Massimo Drago"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Apollo 11 program was organized by NASA and included Buzz Aldrin as one of its crew members .",
+    "triple_list": [
+        [
+            "Buzz Aldrin",
+            "was a crew member of",
+            "Apollo 11"
+        ],
+        [
+            "Apollo 11",
+            "operator",
+            "NASA"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Buzz Aldrin",
+            "was a crew member of",
+            "Apollo 11"
+        ],
+        [
+            "Apollo 11",
+            "operator",
+            "NASA"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "11 Diagonal Street is in South Africa . One South African group is the Coloured .",
+    "triple_list": [
+        [
+            "11 Diagonal Street",
+            "location",
+            "South Africa"
+        ],
+        [
+            "South Africa",
+            "ethnicGroup",
+            "Coloured"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "11 Diagonal Street",
+            "location",
+            "South Africa"
+        ],
+        [
+            "South Africa",
+            "ethnicGroup",
+            "Coloured"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "There are 45 floors at 200 Public Square in Cleveland .",
+    "triple_list": [
+        [
+            "200 Public Square",
+            "floorCount",
+            "45"
+        ],
+        [
+            "200 Public Square",
+            "location",
+            "Cleveland"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "200 Public Square",
+            "floorCount",
+            "45"
+        ],
+        [
+            "200 Public Square",
+            "location",
+            "Cleveland"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "20 Fenchurch Street is located in London , which is currently led by the European Parliament .",
+    "triple_list": [
+        [
+            "London",
+            "leaderTitle",
+            "European Parliament"
+        ],
+        [
+            "20 Fenchurch Street",
+            "location",
+            "London"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "London",
+            "leaderTitle",
+            "European Parliament"
+        ],
+        [
+            "20 Fenchurch Street",
+            "location",
+            "London"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "250 Delaware Avenue is located in the United States , the leader of which was Barack Obama .",
+    "triple_list": [
+        [
+            "250 Delaware Avenue",
+            "location",
+            "United States"
+        ],
+        [
+            "United States",
+            "leaderName",
+            "Barack Obama"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "250 Delaware Avenue",
+            "location",
+            "United States"
+        ],
+        [
+            "United States",
+            "leaderName",
+            "Barack Obama"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "There are 60 floors at 300 North LaSalle in Illinois .",
+    "triple_list": [
+        [
+            "300 North LaSalle",
+            "location",
+            "Illinois"
+        ],
+        [
+            "300 North LaSalle",
+            "floorCount",
+            "60"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "300 North LaSalle",
+            "location",
+            "Illinois"
+        ],
+        [
+            "300 North LaSalle",
+            "floorCount",
+            "60"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "3Arena , owned by Live Nation Entertainment , is located in UNK UNK , California .",
+    "triple_list": [
+        [
+            "3Arena",
+            "owner",
+            "Live Nation Entertainment"
+        ],
+        [
+            "Live Nation Entertainment",
+            "location",
+            "UNK UNK , California"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "3Arena",
+            "owner",
+            "Live Nation Entertainment"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Live Nation Entertainment",
+            "location",
+            "UNK UNK , California"
+        ]
+    ]
+}
+{
+    "text": "Marriott International is the tenant of AC Hotel Bella Sky Copenhagen and it has 23 floors .",
+    "triple_list": [
+        [
+            "AC Hotel Bella Sky Copenhagen",
+            "floorCount",
+            "23"
+        ],
+        [
+            "AC Hotel Bella Sky Copenhagen",
+            "tenant",
+            "Marriott International"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "AC Hotel Bella Sky Copenhagen",
+            "floorCount",
+            "23"
+        ],
+        [
+            "AC Hotel Bella Sky Copenhagen",
+            "tenant",
+            "Marriott International"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Adisham Hall is located in Sri Lanka , where they speak the Tamil language .",
+    "triple_list": [
+        [
+            "Sri Lanka",
+            "language",
+            "Tamil language"
+        ],
+        [
+            "Adisham Hall",
+            "country",
+            "Sri Lanka"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Sri Lanka",
+            "language",
+            "Tamil language"
+        ],
+        [
+            "Adisham Hall",
+            "country",
+            "Sri Lanka"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Alan B Miller Hall is owned by The College of William and Mary and located in Williamsburg , Virginia .",
+    "triple_list": [
+        [
+            "Alan",
+            "location",
+            "Williamsburg , Virginia"
+        ],
+        [
+            "Alan",
+            "owner",
+            "College of William"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alan",
+            "location",
+            "Williamsburg , Virginia"
+        ],
+        [
+            "Alan",
+            "owner",
+            "College of William"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Robert A. M. Stern is the architect of the Alan B. Miller Hall where the Mason School of Business is located .",
+    "triple_list": [
+        [
+            "Alan B. Miller Hall",
+            "architect",
+            "Robert A. M. Stern"
+        ],
+        [
+            "Alan B. Miller Hall",
+            "tenant",
+            "Mason School of Business"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alan B. Miller Hall",
+            "currentTenants",
+            "Mason School of Business"
+        ],
+        [
+            "Alan B. Miller Hall",
+            "architect",
+            "Robert A. M. Stern"
+        ]
+    ],
+    "new": [
+        [
+            "Alan B. Miller Hall",
+            "currentTenants",
+            "Mason School of Business"
+        ]
+    ],
+    "lack": [
+        [
+            "Alan B. Miller Hall",
+            "tenant",
+            "Mason School of Business"
+        ]
+    ]
+}
+{
+    "text": "Ampara Hospital is located in the Ampara District in Sri Lanka .",
+    "triple_list": [
+        [
+            "Ampara Hospital",
+            "country",
+            "Sri Lanka"
+        ],
+        [
+            "Ampara Hospital",
+            "region",
+            "Ampara District"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ampara Hospital",
+            "country",
+            "Sri Lanka"
+        ],
+        [
+            "Ampara Hospital",
+            "region",
+            "Ampara District"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Sri Jayawardenepura Kotte is the capital of Sri Lanka , where Ampara Hospital is located .",
+    "triple_list": [
+        [
+            "Ampara Hospital",
+            "country",
+            "Sri Lanka"
+        ],
+        [
+            "Sri Lanka",
+            "capital",
+            "Sri Jayawardenepura Kotte"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ampara Hospital",
+            "country",
+            "Sri Lanka"
+        ],
+        [
+            "Sri Lanka",
+            "capital",
+            "Sri Jayawardenepura Kotte"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Asser Levy Public Baths is located on 23rd Street , Manhattan , and was constructed in 1904 .",
+    "triple_list": [
+        [
+            "Asser Levy Public Baths",
+            "location",
+            "23rd Street"
+        ],
+        [
+            "Asser Levy Public Baths",
+            "yearOfConstruction",
+            "1904"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Asser Levy Public Baths",
+            "location",
+            "23rd Street"
+        ],
+        [
+            "Asser Levy Public Baths",
+            "yearOfConstruction",
+            "1904"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Alan Shepard , born in New Hampshire on November 18 , 1923 , graduated from NWC in 1957 with a M.A . He died in California on July 21 , 1998 .",
+    "triple_list": [
+        [
+            "Alan Shepard",
+            "deathPlace",
+            "California"
+        ],
+        [
+            "Alan Shepard",
+            "birthPlace",
+            "New Hampshire"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alan Shepard",
+            "deathPlace",
+            "California"
+        ],
+        [
+            "Alan Shepard",
+            "birthPlace",
+            "New Hampshire"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Alan Shepard , born in New Hampshire , has died in California . After graduating from NWC , MA in 1957 he served as a test pilot .",
+    "triple_list": [
+        [
+            "Alan Shepard",
+            "deathPlace",
+            "California"
+        ],
+        [
+            "Alan Shepard",
+            "birthPlace",
+            "New Hampshire"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alan Shepard",
+            "deathPlace",
+            "California"
+        ],
+        [
+            "Alan Shepard",
+            "birthPlace",
+            "New Hampshire"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Baku Turkish Martyrs ' Memorial in Azerbaijan is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku and was designed by Huseyin Butuner and Hilmi Guner . The monument is also known by the native name Türk Şehitleri Anıtı . Azerbaijan 's leader is Artur Rasizade .",
+    "triple_list": [
+        [
+            "Azerbaijan",
+            "leaderName",
+            "Artur Rasizade"
+        ],
+        [
+            "Baku Turkish Martyrs ' Memorial",
+            "location",
+            "Azerbaijan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Azerbaijan",
+            "capital",
+            "Baku"
+        ],
+        [
+            "Azerbaijan",
+            "leaderName",
+            "Artur Rasizade"
+        ],
+        [
+            "Baku Turkish Martyrs ' Memorial",
+            "location",
+            "Azerbaijan"
+        ]
+    ],
+    "new": [
+        [
+            "Azerbaijan",
+            "capital",
+            "Baku"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "The Baku Turkish Martyrs ' Memorial , designed by Huseyin Butuner and Hilmi Guner and made of granite and white marble , is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku . The memorial is found in Azerbaijan whose leader is the Prime Minister .",
+    "triple_list": [
+        [
+            "Azerbaijan",
+            "leaderTitle",
+            "Prime Minister"
+        ],
+        [
+            "Baku Turkish Martyrs ' Memorial",
+            "location",
+            "Azerbaijan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Azerbaijan",
+            "leaderTitle",
+            "Prime Minister"
+        ],
+        [
+            "Baku Turkish Martyrs ' Memorial",
+            "location",
+            "Azerbaijan"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Adolfo Suarez MadridBarajas Airport is operated by ENAIRE and can be found in UNK airport is situated 610.0 meters above sea level and has a 4,349 kilometers long runway whose name is 14L/32R .",
+    "triple_list": [
+        [
+            "Adolfo Suarez MadridBarajas Airport",
+            "operatingOrganisation",
+            "ENAIRE"
+        ],
+        [
+            "Adolfo Suarez MadridBarajas Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "610.0"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Adolfo Suarez MadridBarajas Airport",
+            "operatingOrganisation",
+            "ENAIRE"
+        ],
+        [
+            "Adolfo Suarez MadridBarajas Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "610.0"
+        ],
+        [
+            "Adolfo Suarez MadridBarajas Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "ENAIRE and can be found in UNK airport is situated 610.0"
+        ]
+    ],
+    "new": [
+        [
+            "Adolfo Suarez MadridBarajas Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "ENAIRE and can be found in UNK airport is situated 610.0"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "Adisham Hall in Sri Lanka was constructed between 1927 and 1931 at St Benedicts Monastery , Adisham , Haputhale , Sri Lanka in the Tudor and Jacobean style of architecture .",
+    "triple_list": [
+        [
+            "Adisham Hall",
+            "completionDate",
+            "1931"
+        ],
+        [
+            "Adisham Hall",
+            "location",
+            "Sri Lanka"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Adisham Hall",
+            "completionDate",
+            "1931"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Adisham Hall",
+            "location",
+            "Sri Lanka"
+        ]
+    ]
+}

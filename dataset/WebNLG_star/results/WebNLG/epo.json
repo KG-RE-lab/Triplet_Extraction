@@ -1,0 +1,1140 @@
+{
+    "text": "Cornell University in Ithaca , New York is the publisher of Administrative Science Quarterly . The University is affiliated with the Association of American Universities .",
+    "triple_list": [
+        [
+            "University",
+            "city",
+            "York"
+        ],
+        [
+            "University",
+            "affiliation",
+            "Universities"
+        ],
+        [
+            "Quarterly",
+            "publisher",
+            "University"
+        ],
+        [
+            "University",
+            "state",
+            "York"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "University",
+            "city",
+            "York"
+        ],
+        [
+            "University",
+            "affiliation",
+            "Universities"
+        ],
+        [
+            "Quarterly",
+            "publisher",
+            "University"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "University",
+            "state",
+            "York"
+        ]
+    ]
+}
+{
+    "text": "Alpena County Regional Airport serves Alpena , Michigan and is located at Maple Ridge Township , Alpena County , Michigan . It has a runway length of 1533.0 and is 210 metres above sea level .",
+    "triple_list": [
+        [
+            "Airport",
+            "location",
+            "Michigan"
+        ],
+        [
+            "Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "210"
+        ],
+        [
+            "Airport",
+            "runwayLength",
+            "1533.0"
+        ],
+        [
+            "Airport",
+            "cityServed",
+            "Michigan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Airport",
+            "location",
+            "Michigan"
+        ],
+        [
+            "Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "210"
+        ],
+        [
+            "Airport",
+            "runwayLength",
+            "1533.0"
+        ],
+        [
+            "Airport",
+            "cityServed",
+            "Michigan"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Appleton International Airport ( in Greenville , Wisconsin ) has an elevation of 280 metres above sea level , serves the city of Appleton , and has a runway length of 2,439 .",
+    "triple_list": [
+        [
+            "Airport",
+            "cityServed",
+            "Wisconsin"
+        ],
+        [
+            "Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "280"
+        ],
+        [
+            "Airport",
+            "location",
+            "Wisconsin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Airport",
+            "cityServed",
+            "Wisconsin"
+        ],
+        [
+            "Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "280"
+        ],
+        [
+            "Airport",
+            "location",
+            "Wisconsin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Appleton International airport , which serves Appleton , Wisconsin , is located in Greenville , Wisconsin which is part of both Menasha and Dale .",
+    "triple_list": [
+        [
+            "Wisconsin",
+            "isPartOf",
+            "Wisconsin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Wisconsin",
+            "isPartOf",
+            "Wisconsin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Brazilian football team AgremiaÃ§Ã£o Sportiva Arapiraquense play their football in the Campeonato Brasileiro SÃ©rie C league . Campeonato Brasileiro Serie C is a Brazilian league . AgremiaÃ§Ã£o Sportiva Arapiraquense competed in the 2015 Campeonato Brasileiro SÃ©rie C. The Vila Nova Futebol Clube were the winners at the Campeonato Brasileiro SÃ©rie C .",
+    "triple_list": [
+        [
+            "Arapiraquense",
+            "season",
+            "C"
+        ],
+        [
+            "Arapiraquense",
+            "league",
+            "C"
+        ],
+        [
+            "C",
+            "champions",
+            "Clube"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Arapiraquense",
+            "season",
+            "C"
+        ],
+        [
+            "Arapiraquense",
+            "league",
+            "C"
+        ],
+        [
+            "C",
+            "champions",
+            "Clube"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "200 Public Square is located in Cleveland , Cuyahoga County , Ohio which is governed by Cleveland City Council .",
+    "triple_list": [
+        [
+            "Square",
+            "location",
+            "Cleveland"
+        ],
+        [
+            "Cleveland",
+            "isPartOf",
+            "Ohio"
+        ],
+        [
+            "Cleveland",
+            "governingBody",
+            "Council"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Square",
+            "location",
+            "Cleveland"
+        ],
+        [
+            "Cleveland",
+            "isPartOf",
+            "Ohio"
+        ],
+        [
+            "Cleveland",
+            "governingBody",
+            "Council"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Ampara Hospital is located in the Eastern Province of Sri Lanka , where the currency is the Ski Lankan rupee . One of the leaders of Sri Lanka is Ranil Wickremesinghe .",
+    "triple_list": [
+        [
+            "Hospital",
+            "country",
+            "Lanka"
+        ],
+        [
+            "Lanka",
+            "currency",
+            "rupee"
+        ],
+        [
+            "Lanka",
+            "leaderName",
+            "Wickremesinghe"
+        ],
+        [
+            "Hospital",
+            "state",
+            "Lanka"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Hospital",
+            "country",
+            "Lanka"
+        ],
+        [
+            "Lanka",
+            "currency",
+            "rupee"
+        ],
+        [
+            "Lanka",
+            "leaderName",
+            "Wickremesinghe"
+        ],
+        [
+            "Hospital",
+            "state",
+            "Lanka"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Adams County , Pennsylvania has Carrol County , Maryland to its southeast and Pennsylvania 's Cumberland County is to the north of the Adams County . The 11th Mississippi Infantry Monument is in Adams County of the municipality of Gettysburg Pennsylvania . .",
+    "triple_list": [
+        [
+            "Monument",
+            "location",
+            "Pennsylvania"
+        ],
+        [
+            "Pennsylvania",
+            "has to its north",
+            "Pennsylvania"
+        ],
+        [
+            "Pennsylvania",
+            "has to its southeast",
+            "Maryland"
+        ],
+        [
+            "Monument",
+            "municipality",
+            "Pennsylvania"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Monument",
+            "location",
+            "Pennsylvania"
+        ],
+        [
+            "Pennsylvania",
+            "has to its north",
+            "Pennsylvania"
+        ],
+        [
+            "Pennsylvania",
+            "has to its southeast",
+            "Maryland"
+        ],
+        [
+            "Monument",
+            "municipality",
+            "Pennsylvania"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Bakso comes from Indonesia , and celery is a main ingredient . UNK Kalla is a leader in Indonesia .",
+    "triple_list": [
+        [
+            "Indonesia",
+            "leaderName",
+            "Kalla"
+        ],
+        [
+            "Bakso",
+            "region",
+            "Indonesia"
+        ],
+        [
+            "Bakso",
+            "country",
+            "Indonesia"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bakso",
+            "region",
+            "Indonesia"
+        ],
+        [
+            "Indonesia",
+            "leaderName",
+            "Kalla"
+        ],
+        [
+            "Bakso",
+            "country",
+            "Indonesia"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The language spoken in the Philippines is Philippine Spanish and batchoy is eaten there . Ethnic groups include the llocano people and the Moro people .",
+    "triple_list": [
+        [
+            "Philippines",
+            "ethnicGroup",
+            "people"
+        ],
+        [
+            "Philippines",
+            "language",
+            "Spanish"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Philippines",
+            "ethnicGroup",
+            "people"
+        ],
+        [
+            "Philippines",
+            "language",
+            "Spanish"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Cornell University is in Ithaca , New York and is nicknamed Cornell Big Red . They are the publisher of Administrative Science Quarterly and are affiliated with the Association of American Universities .",
+    "triple_list": [
+        [
+            "University",
+            "city",
+            "York"
+        ],
+        [
+            "University",
+            "affiliation",
+            "Universities"
+        ],
+        [
+            "University",
+            "state",
+            "York"
+        ],
+        [
+            "Quarterly",
+            "publisher",
+            "University"
+        ],
+        [
+            "University",
+            "nickname",
+            "Red"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "University",
+            "city",
+            "York"
+        ],
+        [
+            "University",
+            "affiliation",
+            "Universities"
+        ],
+        [
+            "Quarterly",
+            "publisher",
+            "University"
+        ],
+        [
+            "University",
+            "nickname",
+            "Red"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "University",
+            "state",
+            "York"
+        ]
+    ]
+}
+{
+    "text": "The Administrative Science Quarterly is published by Cornell University , Ithaca , in the state of New York . Cornell University ( nicknamed 'Cornell Big Red ' ) is affiliated with the Association of Public and Land Grant Universities .",
+    "triple_list": [
+        [
+            "University",
+            "city",
+            "York"
+        ],
+        [
+            "University",
+            "affiliation",
+            "Universities"
+        ],
+        [
+            "University",
+            "state",
+            "York"
+        ],
+        [
+            "Quarterly",
+            "publisher",
+            "University"
+        ],
+        [
+            "University",
+            "nickname",
+            "Red"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "University",
+            "city",
+            "York"
+        ],
+        [
+            "University",
+            "state",
+            "York"
+        ],
+        [
+            "University",
+            "affiliation",
+            "Universities"
+        ],
+        [
+            "Quarterly",
+            "publisher",
+            "University"
+        ],
+        [
+            "University",
+            "nickname",
+            "Red"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The 476 bed Ampara Hospital is situated in the Eastern Province state of Sri Lanka where Austin Fernando is the leader . The country 's leader is Ranil Wickremesinghe .",
+    "triple_list": [
+        [
+            "Lanka",
+            "leaderName",
+            "Wickremesinghe"
+        ],
+        [
+            "Lanka",
+            "leaderName",
+            "Fernando"
+        ],
+        [
+            "Hospital",
+            "state",
+            "Lanka"
+        ],
+        [
+            "Hospital",
+            "country",
+            "Lanka"
+        ],
+        [
+            "Hospital",
+            "bedCount",
+            "476"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Lanka",
+            "leaderName",
+            "Wickremesinghe"
+        ],
+        [
+            "Lanka",
+            "leaderName",
+            "Fernando"
+        ],
+        [
+            "Hospital",
+            "state",
+            "Lanka"
+        ],
+        [
+            "Hospital",
+            "country",
+            "Lanka"
+        ],
+        [
+            "Hospital",
+            "bedCount",
+            "476"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The 11th Mississippi Infantry monument is located in the municipality of Gettysburg , Adams County , Pennsylvania . Adams County is east of Franklin County and south of Cumberland County . Maryland 's Carrol county is located to the southeast .",
+    "triple_list": [
+        [
+            "Pennsylvania",
+            "has to its north",
+            "Pennsylvania"
+        ],
+        [
+            "Pennsylvania",
+            "has to its southeast",
+            "Maryland"
+        ],
+        [
+            "Pennsylvania",
+            "has to its west",
+            "Pennsylvania"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Pennsylvania",
+            "has to its north",
+            "Pennsylvania"
+        ],
+        [
+            "Pennsylvania",
+            "has to its southeast",
+            "Maryland"
+        ],
+        [
+            "Pennsylvania",
+            "has to its west",
+            "Pennsylvania"
+        ],
+        [
+            "Pennsylvania",
+            "has to its southwest",
+            "Maryland"
+        ]
+    ],
+    "new": [
+        [
+            "Pennsylvania",
+            "has to its southwest",
+            "Maryland"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "With a runway length of 2194.0 , Abilene regional airport serves UNK , part of Jones County , Texas , in the United States .",
+    "triple_list": [
+        [
+            "Texas",
+            "isPartOf",
+            "Texas"
+        ],
+        [
+            "Texas",
+            "country",
+            "States"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Texas",
+            "isPartOf",
+            "Texas"
+        ],
+        [
+            "Texas",
+            "country",
+            "States"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Located in Texas , and serving Andrews , is Andrews County Airport . The airport is 973.0 below sea level , has a runway length of 896 , and a runway with the name 11/29 .",
+    "triple_list": [
+        [
+            "Airport",
+            "location",
+            "Texas"
+        ],
+        [
+            "Airport",
+            "cityServed",
+            "Texas"
+        ],
+        [
+            "Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "973.0"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Airport",
+            "location",
+            "Texas"
+        ],
+        [
+            "Airport",
+            "cityServed",
+            "Texas"
+        ],
+        [
+            "Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "973.0"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The city of Appleton is served by Appleton International Airport located 280 metres above sea level in Greenville , Wisconsin . The runway at the airport is 3/21 and is 2439 in length .",
+    "triple_list": [
+        [
+            "Airport",
+            "cityServed",
+            "Wisconsin"
+        ],
+        [
+            "Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "280"
+        ],
+        [
+            "Airport",
+            "location",
+            "Wisconsin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "280"
+        ],
+        [
+            "Airport",
+            "cityServed",
+            "Wisconsin"
+        ],
+        [
+            "Airport",
+            "location",
+            "Wisconsin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The city of Appleton is served by Appleton International Airport in Greenville ( part of Menasha ) , Clayton Winnebago County , Wisconsin , United States .",
+    "triple_list": [
+        [
+            "Airport",
+            "cityServed",
+            "Wisconsin"
+        ],
+        [
+            "Wisconsin",
+            "isPartOf",
+            "Wisconsin"
+        ],
+        [
+            "Airport",
+            "location",
+            "Wisconsin"
+        ],
+        [
+            "Wisconsin",
+            "country",
+            "States"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Airport",
+            "cityServed",
+            "Wisconsin"
+        ],
+        [
+            "Wisconsin",
+            "isPartOf",
+            "Wisconsin"
+        ],
+        [
+            "Airport",
+            "location",
+            "Wisconsin"
+        ],
+        [
+            "Wisconsin",
+            "country",
+            "States"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Adirondack Regional Airport serves the city of Lake Placid and Saranac Lake in New York . Saranac Lake is part of Harrietstown and Essex County in New York in the U.S .",
+    "triple_list": [
+        [
+            "York",
+            "isPartOf",
+            "York"
+        ],
+        [
+            "Airport",
+            "cityServed",
+            "York"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "York",
+            "isPartOf",
+            "York"
+        ],
+        [
+            "Airport",
+            "cityServed",
+            "York"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Adirondack Regional Airport has a runway length of 1219.0 and serves the cities of Saranac Lake and Lake Placid , New York .",
+    "triple_list": [
+        [
+            "Airport",
+            "runwayLength",
+            "1219.0"
+        ],
+        [
+            "Airport",
+            "cityServed",
+            "York"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Airport",
+            "runwayLength",
+            "1219.0"
+        ],
+        [
+            "Airport",
+            "cityServed",
+            "York"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Appleton International airport serves the city of Appleton which is part of Kimberly , Wisconsin , as is Little Chute .",
+    "triple_list": [
+        [
+            "Wisconsin",
+            "isPartOf",
+            "Wisconsin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Wisconsin",
+            "isPartOf",
+            "Wisconsin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "250 Delaware Avenue is located in Buffalo , Erie County , New York .",
+    "triple_list": [
+        [
+            "Avenue",
+            "location",
+            "York"
+        ],
+        [
+            "York",
+            "isPartOf",
+            "York"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Avenue",
+            "location",
+            "York"
+        ],
+        [
+            "York",
+            "isPartOf",
+            "York"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Ampara Hospital is in Eastern Province , Sri Lanka . Ranil Wickremesinghe is a leader there .",
+    "triple_list": [
+        [
+            "Hospital",
+            "country",
+            "Lanka"
+        ],
+        [
+            "Lanka",
+            "leaderName",
+            "Wickremesinghe"
+        ],
+        [
+            "Hospital",
+            "state",
+            "Lanka"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Hospital",
+            "country",
+            "Lanka"
+        ],
+        [
+            "Lanka",
+            "leaderName",
+            "Wickremesinghe"
+        ],
+        [
+            "Hospital",
+            "state",
+            "Lanka"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Bucharest is the capital of Romania where one of the country 's ethnic groups are the Germans of Romania . The country 's leader is Prime Minister Klaus Iohannis . The patron saint of the country is Andrew the Apostle and the country is the location of the 1 Decembrie 1918 University .",
+    "triple_list": [
+        [
+            "Romania",
+            "leaderName",
+            "Iohannis"
+        ],
+        [
+            "Romania",
+            "leaderTitle",
+            "Romania"
+        ],
+        [
+            "Romania",
+            "patronSaint",
+            "Apostle"
+        ],
+        [
+            "Romania",
+            "capital",
+            "Bucharest"
+        ],
+        [
+            "Romania",
+            "ethnicGroup",
+            "Romania"
+        ],
+        [
+            "University",
+            "country",
+            "Romania"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Romania",
+            "leaderName",
+            "Iohannis"
+        ],
+        [
+            "Romania",
+            "leaderTitle",
+            "Romania"
+        ],
+        [
+            "Romania",
+            "patronSaint",
+            "Apostle"
+        ],
+        [
+            "Romania",
+            "capital",
+            "Bucharest"
+        ],
+        [
+            "Romania",
+            "ethnicGroup",
+            "Romania"
+        ],
+        [
+            "University",
+            "country",
+            "Romania"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The 14th New Jersey Volunteer Infantry Monument is located at the Monocacy National Battlefield near Frederick , Maryland . The monument was established 1907-07-11 and belongs to the category of Historic districts in the United States . The monument has been provided by the National Park Service .",
+    "triple_list": [
+        [
+            "Monument",
+            "district",
+            "Battlefield"
+        ],
+        [
+            "Battlefield",
+            "location",
+            "Maryland"
+        ],
+        [
+            "Monument",
+            "category",
+            "States"
+        ],
+        [
+            "Battlefield",
+            "nearestCity",
+            "Maryland"
+        ],
+        [
+            "Monument",
+            "owningOrganisation",
+            "Service"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Monument",
+            "district",
+            "Battlefield"
+        ],
+        [
+            "Monument",
+            "owningOrganisation",
+            "Service"
+        ],
+        [
+            "Monument",
+            "category",
+            "States"
+        ],
+        [
+            "Battlefield",
+            "nearestCity",
+            "Maryland"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Battlefield",
+            "location",
+            "Maryland"
+        ]
+    ]
+}
+{
+    "text": "1 Decembrie 1918 University is located in the city of Alba Iulia , Romania . The country 's capital is Bucharest and the leader ( title Prime Minister of Romania ) is Klaus Iohannis . An ethnic group of the country is The Germans of Romania and the country 's national anthem is DeÈ™teaptÄƒ-te , romÃ¢ne !",
+    "triple_list": [
+        [
+            "Romania",
+            "leaderName",
+            "Iohannis"
+        ],
+        [
+            "Romania",
+            "leaderTitle",
+            "Romania"
+        ],
+        [
+            "University",
+            "city",
+            "Iulia"
+        ],
+        [
+            "Romania",
+            "capital",
+            "Bucharest"
+        ],
+        [
+            "Romania",
+            "ethnicGroup",
+            "Romania"
+        ],
+        [
+            "University",
+            "country",
+            "Romania"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Romania",
+            "leaderName",
+            "Iohannis"
+        ],
+        [
+            "University",
+            "city",
+            "Iulia"
+        ],
+        [
+            "Iulia",
+            "country",
+            "Romania"
+        ],
+        [
+            "Romania",
+            "capital",
+            "Bucharest"
+        ],
+        [
+            "Romania",
+            "ethnicGroup",
+            "Romania"
+        ],
+        [
+            "Romania",
+            "leaderTitle",
+            "Romania"
+        ]
+    ],
+    "new": [
+        [
+            "Iulia",
+            "country",
+            "Romania"
+        ]
+    ],
+    "lack": [
+        [
+            "University",
+            "country",
+            "Romania"
+        ]
+    ]
+}

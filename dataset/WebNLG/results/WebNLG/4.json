@@ -1,0 +1,4852 @@
+{
+    "text": "Alan Bean was born in Wheeler , Texas and attended UT Austin where he graduated in 1955 with a BS . Prior to his retirement he served as a test pilot and was selected by NASA to serve as a crew member on Apollo 12 alongside commander David Scott .",
+    "triple_list": [
+        [
+            "Apollo 12",
+            "operator",
+            "NASA"
+        ],
+        [
+            "Alan Bean",
+            "birthPlace",
+            "Wheeler , Texas"
+        ],
+        [
+            "Alan Bean",
+            "was a crew member of",
+            "Apollo 12"
+        ],
+        [
+            "Apollo 12",
+            "commander",
+            "David Scott"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Apollo 12",
+            "operator",
+            "NASA"
+        ],
+        [
+            "Alan Bean",
+            "birthPlace",
+            "Wheeler , Texas"
+        ],
+        [
+            "Alan Bean",
+            "was a crew member of",
+            "Apollo 12"
+        ],
+        [
+            "Apollo 12",
+            "commander",
+            "David Scott"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Alan Shepard was born on Nov 18 , 1923 in New Hampshire , US . He graduated from NWC in 1957 with an M.A . In 1959 he began working for NASA and was a member of Apollo 14 . He died in California .",
+    "triple_list": [
+        [
+            "Alan Shepard",
+            "deathPlace",
+            "California"
+        ],
+        [
+            "Alan Shepard",
+            "was selected by NASA",
+            "1959"
+        ],
+        [
+            "Alan Shepard",
+            "was a crew member of",
+            "Apollo 14"
+        ],
+        [
+            "Alan Shepard",
+            "birthPlace",
+            "New Hampshire"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alan Shepard",
+            "birthPlace",
+            "New Hampshire"
+        ],
+        [
+            "Alan Shepard",
+            "deathPlace",
+            "California"
+        ],
+        [
+            "Alan Shepard",
+            "was selected by NASA",
+            "1959"
+        ],
+        [
+            "Alan Shepard",
+            "was a crew member of",
+            "Apollo 14"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Alan Shepard was born on November 18 , 1923 . UNK in California . He was A Test pilot UNK with the Medal of Service Distinguished from The UNK of The United States , Medal of the United States Navy is higher than the Department of Commerce Gold Medal .",
+    "triple_list": [
+        [
+            "Distinguished",
+            "higher",
+            "Department of Commerce Gold Medal"
+        ],
+        [
+            "Alan Shepard",
+            "deathPlace",
+            "California"
+        ],
+        [
+            "Alan Shepard",
+            "occupation",
+            "Test pilot"
+        ],
+        [
+            "Alan Shepard",
+            "awards",
+            "Distinguished"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alan Shepard",
+            "occupation",
+            "Test pilot"
+        ],
+        [
+            "Medal of Service Distinguished",
+            "higher",
+            "Department of Commerce Gold Medal"
+        ],
+        [
+            "Alan Shepard",
+            "birthPlace",
+            "California"
+        ]
+    ],
+    "new": [
+        [
+            "Medal of Service Distinguished",
+            "higher",
+            "Department of Commerce Gold Medal"
+        ],
+        [
+            "Alan Shepard",
+            "birthPlace",
+            "California"
+        ]
+    ],
+    "lack": [
+        [
+            "Distinguished",
+            "higher",
+            "Department of Commerce Gold Medal"
+        ],
+        [
+            "Alan Shepard",
+            "deathPlace",
+            "California"
+        ],
+        [
+            "Alan Shepard",
+            "awards",
+            "Distinguished"
+        ]
+    ]
+}
+{
+    "text": "Buzz Aldrin was born on Jan 20 , 1930 in Glen Ridge , New Jersey . He graduated from MIT with an Sc . D in 1963 . He began working for NASA in 1963 was a member of Apollo 11 which was run by NASA . He is now retired .",
+    "triple_list": [
+        [
+            "Buzz Aldrin",
+            "was a crew member of",
+            "Apollo 11"
+        ],
+        [
+            "Buzz Aldrin",
+            "birthPlace",
+            "Glen Ridge , New Jersey"
+        ],
+        [
+            "Apollo 11",
+            "operator",
+            "NASA"
+        ],
+        [
+            "Buzz Aldrin",
+            "was selected by NASA",
+            "1963"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Buzz Aldrin",
+            "was a crew member of",
+            "Apollo 11"
+        ],
+        [
+            "Buzz Aldrin",
+            "was selected by NASA",
+            "1963"
+        ],
+        [
+            "Apollo 11",
+            "operator",
+            "NASA"
+        ],
+        [
+            "Buzz Aldrin",
+            "birthPlace",
+            "Glen Ridge , New Jersey"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The National Assembly is the official legislature of Azerbaijan which is lead by a Prime Minister . The capital city is Baku which is the location of the memorial designed in red granite and white marble by Huseyin Butuner and Hilmi Guner . The memorial is dedicated to the Ottoman army soldiers who were killed in the Battle of Baku .",
+    "triple_list": [
+        [
+            "Azerbaijan",
+            "capital",
+            "Baku"
+        ],
+        [
+            "Azerbaijan",
+            "leaderTitle",
+            "Prime Minister"
+        ],
+        [
+            "Azerbaijan",
+            "legislature",
+            "National Assembly"
+        ],
+        [
+            "Baku",
+            "location",
+            "Azerbaijan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Azerbaijan",
+            "capital",
+            "Baku"
+        ],
+        [
+            "Azerbaijan",
+            "legislature",
+            "National Assembly"
+        ],
+        [
+            "Azerbaijan",
+            "leaderTitle",
+            "Prime Minister"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Baku",
+            "location",
+            "Azerbaijan"
+        ]
+    ]
+}
+{
+    "text": "Acharya Institute of Technology 's campus is located in Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore , Karnataka , India – 560090 . The Institute ( president B M Reddy ) was established in 2000 and is affiliated with Visvesvaraya Technological University .",
+    "triple_list": [
+        [
+            "Acharya Institute of Technology",
+            "city",
+            "Bangalore"
+        ],
+        [
+            "Acharya Institute of Technology",
+            "state",
+            "Karnataka"
+        ],
+        [
+            "Acharya Institute of Technology",
+            "established",
+            "2000"
+        ],
+        [
+            "Acharya Institute of Technology",
+            "affiliation",
+            "Visvesvaraya Technological University"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Acharya Institute of Technology",
+            "city",
+            "Bangalore"
+        ],
+        [
+            "Acharya Institute of Technology",
+            "state",
+            "Karnataka"
+        ],
+        [
+            "Acharya Institute of Technology",
+            "established",
+            "2000"
+        ],
+        [
+            "Acharya Institute of Technology",
+            "affiliation",
+            "Visvesvaraya Technological University"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Acharya Institute of Technology ( president B M Reddy ) is located in Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore , India – 560090 . The Institute was established in 2000 , has 700 postgraduate students and is affiliated with Visvesvaraya Technological University of Belgaum .",
+    "triple_list": [
+        [
+            "Acharya Institute of Technology",
+            "numberOfPostgraduateStudents",
+            "700"
+        ],
+        [
+            "Visvesvaraya Technological University",
+            "city",
+            "Belgaum"
+        ],
+        [
+            "Acharya Institute of Technology",
+            "established",
+            "2000"
+        ],
+        [
+            "Acharya Institute of Technology",
+            "affiliation",
+            "Visvesvaraya Technological University"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Acharya Institute of Technology",
+            "numberOfPostgraduateStudents",
+            "700"
+        ],
+        [
+            "Acharya Institute of Technology",
+            "established",
+            "2000"
+        ],
+        [
+            "Visvesvaraya Technological University",
+            "city",
+            "Belgaum"
+        ],
+        [
+            "Acharya Institute of Technology",
+            "affiliation",
+            "Visvesvaraya Technological University"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Baku is the capital of Azerbaijan and the leader of the legislature ( the National Assembly ) is Artur Rasizade . Azerbaijan is the location of the Baku Turkish Martyrs memorial .",
+    "triple_list": [
+        [
+            "Azerbaijan",
+            "capital",
+            "Baku"
+        ],
+        [
+            "Azerbaijan",
+            "leader",
+            "Artur Rasizade"
+        ],
+        [
+            "Azerbaijan",
+            "legislature",
+            "National Assembly"
+        ],
+        [
+            "Baku Turkish Martyrs",
+            "location",
+            "Azerbaijan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Azerbaijan",
+            "capital",
+            "Baku"
+        ],
+        [
+            "Azerbaijan",
+            "leaderName",
+            "Artur Rasizade"
+        ],
+        [
+            "Azerbaijan",
+            "legislature",
+            "National Assembly"
+        ],
+        [
+            "Baku Turkish Martyrs",
+            "location",
+            "Azerbaijan"
+        ]
+    ],
+    "new": [
+        [
+            "Azerbaijan",
+            "leaderName",
+            "Artur Rasizade"
+        ]
+    ],
+    "lack": [
+        [
+            "Azerbaijan",
+            "leader",
+            "Artur Rasizade"
+        ]
+    ]
+}
+{
+    "text": "Michele Marcolini , manager of A.C. Lumezzane , was born in Italy , owns Torino F.C . UNK has been associated with F.C . Bari 1908 .",
+    "triple_list": [
+        [
+            "A.C. Lumezzane",
+            "manager",
+            "Michele Marcolini"
+        ],
+        [
+            "Michele Marcolini",
+            "club",
+            "Torino"
+        ],
+        [
+            "Michele Marcolini",
+            "placeOfBirth",
+            "Italy"
+        ],
+        [
+            "Michele Marcolini",
+            "club",
+            "F.C . Bari 1908"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "A.C. Lumezzane",
+            "manager",
+            "Michele Marcolini"
+        ],
+        [
+            "Michele Marcolini",
+            "club",
+            "F.C . Bari 1908"
+        ],
+        [
+            "Michele Marcolini",
+            "club",
+            "Torino"
+        ],
+        [
+            "Michele Marcolini",
+            "placeOfBirth",
+            "Italy"
+        ],
+        [
+            "Michele Marcolini",
+            "club",
+            "Italy , owns Torino"
+        ]
+    ],
+    "new": [
+        [
+            "Michele Marcolini",
+            "club",
+            "Italy , owns Torino"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "3000 member strong Akron Summit Assault , fullname `` Akron Metro Futbol Club Summit Assault '' , play in the 2011 PDL season . Denzil Antonio was previously their manager .",
+    "triple_list": [
+        [
+            "Akron Summit Assault",
+            "season",
+            "2011 PDL season"
+        ],
+        [
+            "Akron Summit Assault",
+            "numberOfMembers",
+            "3000"
+        ],
+        [
+            "Akron Summit Assault",
+            "manager",
+            "Denzil Antonio"
+        ],
+        [
+            "Akron Summit Assault",
+            "fullname",
+            "`` Akron Metro Futbol Club Summit Assault ''"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Akron Summit Assault",
+            "season",
+            "2011 PDL season"
+        ],
+        [
+            "Akron Summit Assault",
+            "numberOfMembers",
+            "3000"
+        ],
+        [
+            "Akron Summit Assault",
+            "manager",
+            "Denzil Antonio"
+        ],
+        [
+            "Akron Summit Assault",
+            "fullname",
+            "`` Akron Metro Futbol Club Summit Assault ''"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Akron Summit Assault team is based in Akron , Ohio , United States . They play in the Premier Development League , which has been won by K-W United FC .",
+    "triple_list": [
+        [
+            "Akron , Ohio",
+            "country",
+            "United States"
+        ],
+        [
+            "Akron Summit Assault",
+            "ground",
+            "Akron , Ohio"
+        ],
+        [
+            "Akron Summit Assault",
+            "league",
+            "Premier Development League"
+        ],
+        [
+            "Premier Development League",
+            "champions",
+            "K-W United FC"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Akron Summit Assault",
+            "ground",
+            "Akron , Ohio"
+        ],
+        [
+            "Akron Summit Assault",
+            "league",
+            "Premier Development League"
+        ],
+        [
+            "Premier Development League",
+            "champions",
+            "K-W United FC"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Akron , Ohio",
+            "country",
+            "United States"
+        ]
+    ]
+}
+{
+    "text": "The ground of A.S. Gubbio 1910 is located in Italy , where the capital is Rome , the leader is Sergio Mattarella and the language spoken is Italian .",
+    "triple_list": [
+        [
+            "A.S. Gubbio 1910",
+            "ground",
+            "Italy"
+        ],
+        [
+            "Italy",
+            "capital",
+            "Rome"
+        ],
+        [
+            "Italy",
+            "leader",
+            "Sergio Mattarella"
+        ],
+        [
+            "Italy",
+            "language",
+            "Italian"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "A.S. Gubbio 1910",
+            "ground",
+            "Italy"
+        ],
+        [
+            "Italy",
+            "capital",
+            "Rome"
+        ],
+        [
+            "Italy",
+            "leader",
+            "Sergio Mattarella"
+        ],
+        [
+            "Italy",
+            "language",
+            "Italian"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The `` Associazione Sportiva Roma S.p.A. '' is the non-abbreviated name of A.S. Roma with their ground in Stadio Olimpico . A.S. Roma play in Serie A whose current champions are Juventus F.C. .",
+    "triple_list": [
+        [
+            "A.S. Roma",
+            "fullname",
+            "`` Associazione Sportiva Roma S.p.A. ''"
+        ],
+        [
+            "Serie A",
+            "champions",
+            "Juventus"
+        ],
+        [
+            "A.S. Roma",
+            "league",
+            "Serie A"
+        ],
+        [
+            "A.S. Roma",
+            "ground",
+            "Stadio Olimpico"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "A.S. Roma",
+            "fullname",
+            "`` Associazione Sportiva Roma S.p.A. ''"
+        ],
+        [
+            "A.S. Roma",
+            "league",
+            "Serie A"
+        ],
+        [
+            "A.S. Roma",
+            "ground",
+            "Stadio Olimpico"
+        ],
+        [
+            "Serie A",
+            "champions",
+            "Juventus"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Alan Bean ( of the United States ) was a crew member of NASA 's Apollo 12 under the commander David Scott .",
+    "triple_list": [
+        [
+            "Apollo 12",
+            "operator",
+            "NASA"
+        ],
+        [
+            "Alan Bean",
+            "was a crew member of",
+            "Apollo 12"
+        ],
+        [
+            "Alan Bean",
+            "nationality",
+            "United States"
+        ],
+        [
+            "Apollo 12",
+            "commander",
+            "David Scott"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Apollo 12",
+            "operator",
+            "NASA"
+        ],
+        [
+            "Alan Bean",
+            "was a crew member of",
+            "Apollo 12"
+        ],
+        [
+            "Apollo 12",
+            "commander",
+            "David Scott"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Alan Bean",
+            "nationality",
+            "United States"
+        ]
+    ]
+}
+{
+    "text": "The backup pilot to Apollo 12 was Alfred Worden and also part of Apollo 12 were Alan Bean and commander David Scott who were all chosen by NASA .",
+    "triple_list": [
+        [
+            "Apollo 12",
+            "operator",
+            "NASA"
+        ],
+        [
+            "Apollo 12",
+            "backup pilot",
+            "Alfred Worden"
+        ],
+        [
+            "Alan Bean",
+            "was a crew member of",
+            "Apollo 12"
+        ],
+        [
+            "Apollo 12",
+            "commander",
+            "David Scott"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Apollo 12",
+            "operator",
+            "NASA"
+        ],
+        [
+            "Apollo 12",
+            "backup pilot",
+            "Alfred Worden"
+        ],
+        [
+            "Alan Bean",
+            "was a crew member of",
+            "Apollo 12"
+        ],
+        [
+            "Apollo 12",
+            "commander",
+            "David Scott"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Buzz Aldrin is a national of the United States whose leader is Joe Biden . He was born in Glen Ridge , Essex County , New Jersey .",
+    "triple_list": [
+        [
+            "Glen Ridge ,",
+            "isPartOf",
+            "Essex County , New Jersey"
+        ],
+        [
+            "Buzz Aldrin",
+            "nationality",
+            "United States"
+        ],
+        [
+            "United States",
+            "leaderName",
+            "Joe Biden"
+        ],
+        [
+            "Buzz Aldrin",
+            "birthPlace",
+            "Glen Ridge ,"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Glen Ridge ,",
+            "isPartOf",
+            "Essex County , New Jersey"
+        ],
+        [
+            "Buzz Aldrin",
+            "nationality",
+            "United States"
+        ],
+        [
+            "United States",
+            "leaderName",
+            "Joe Biden"
+        ],
+        [
+            "Buzz Aldrin",
+            "birthPlace",
+            "Glen Ridge ,"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Adolfo Suarez Madrid Barajas Airport is located in Alcobendas , Spain , and operated by the UNK ENAIRE .",
+    "triple_list": [
+        [
+            "Alcobendas",
+            "country",
+            "Spain"
+        ],
+        [
+            "Adolfo",
+            "operatingOrganisation",
+            "ENAIRE"
+        ],
+        [
+            "ENAIRE",
+            "locationCity",
+            "Madrid"
+        ],
+        [
+            "Adolfo",
+            "location",
+            "Alcobendas"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alcobendas",
+            "country",
+            "Spain"
+        ],
+        [
+            "Adolfo Suarez",
+            "location",
+            "Alcobendas"
+        ]
+    ],
+    "new": [
+        [
+            "Adolfo Suarez",
+            "location",
+            "Alcobendas"
+        ]
+    ],
+    "lack": [
+        [
+            "Adolfo",
+            "operatingOrganisation",
+            "ENAIRE"
+        ],
+        [
+            "ENAIRE",
+            "locationCity",
+            "Madrid"
+        ],
+        [
+            "Adolfo",
+            "location",
+            "Alcobendas"
+        ]
+    ]
+}
+{
+    "text": "Agra airport is in Uttar Pradesh , which is part of Awadh and Bundelkhand , is located 167.94 metres above sea level .",
+    "triple_list": [
+        [
+            "Agra",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "167.94"
+        ],
+        [
+            "Uttar Pradesh",
+            "isPartOf",
+            "Bundelkhand"
+        ],
+        [
+            "Agra",
+            "location",
+            "Uttar Pradesh"
+        ],
+        [
+            "Uttar Pradesh",
+            "isPartOf",
+            "Awadh"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Agra",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "167.94"
+        ],
+        [
+            "Uttar Pradesh",
+            "isPartOf",
+            "Bundelkhand"
+        ],
+        [
+            "Agra",
+            "location",
+            "Uttar Pradesh"
+        ],
+        [
+            "Uttar Pradesh",
+            "isPartOf",
+            "Awadh"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Agra airport is located in Uttar Pradesh ( lead by Ram Naik ) which is part of Awadh and Bundelkhand .",
+    "triple_list": [
+        [
+            "Uttar Pradesh",
+            "leaderName",
+            "Ram Naik"
+        ],
+        [
+            "Uttar Pradesh",
+            "isPartOf",
+            "Bundelkhand"
+        ],
+        [
+            "Agra",
+            "location",
+            "Uttar Pradesh"
+        ],
+        [
+            "Uttar Pradesh",
+            "isPartOf",
+            "Awadh"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Uttar Pradesh",
+            "leaderName",
+            "Ram Naik"
+        ],
+        [
+            "Uttar Pradesh",
+            "isPartOf",
+            "Bundelkhand"
+        ],
+        [
+            "Agra",
+            "location",
+            "Uttar Pradesh"
+        ],
+        [
+            "Uttar Pradesh",
+            "isPartOf",
+            "Awadh"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Al Asad airbase is operated UNK the United States Air Force which carried out the 1986 United States bombing of Libya . Its aircraft fighter is General Dynamics F-16 Fighting Falcon and the Lockheed AC-130 can be found on USAF aircraft carriers .",
+    "triple_list": [
+        [
+            "Al Asad",
+            "operatingOrganisation",
+            "United States Air Force"
+        ],
+        [
+            "United States Air Force",
+            "battles",
+            "1986 United States bombing of Libya"
+        ],
+        [
+            "United States Air Force",
+            "attackAircraft",
+            "Lockheed AC-130"
+        ],
+        [
+            "United States Air Force",
+            "aircraftFighter",
+            "General Dynamics F-16 Fighting Falcon"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Al Asad",
+            "operatingOrganisation",
+            "United States Air Force"
+        ],
+        [
+            "United States Air Force",
+            "attackAircraft",
+            "Lockheed AC-130"
+        ],
+        [
+            "United States Air Force",
+            "battles",
+            "1986"
+        ],
+        [
+            "United States Air Force",
+            "aircraftFighter",
+            "General Dynamics F-16 Fighting Falcon"
+        ]
+    ],
+    "new": [
+        [
+            "United States Air Force",
+            "battles",
+            "1986"
+        ]
+    ],
+    "lack": [
+        [
+            "United States Air Force",
+            "battles",
+            "1986 United States bombing of Libya"
+        ]
+    ]
+}
+{
+    "text": "Al Asad airbase is operated by the United States Air Force who participated in the battles during Operation Enduring Freedom . They deploy the Lockheed AC-130 on their aircraft carriers and also make use of the aircraft fighter General Dynamics F-16 Fighting Falcon .",
+    "triple_list": [
+        [
+            "Al Asad",
+            "operatingOrganisation",
+            "United States Air Force"
+        ],
+        [
+            "United States Air Force",
+            "attackAircraft",
+            "Lockheed AC-130"
+        ],
+        [
+            "United States Air Force",
+            "battles",
+            "Operation Enduring Freedom"
+        ],
+        [
+            "United States Air Force",
+            "aircraftFighter",
+            "General Dynamics F-16 Fighting Falcon"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Al Asad",
+            "operatingOrganisation",
+            "United States Air Force"
+        ],
+        [
+            "United States Air Force",
+            "attackAircraft",
+            "Lockheed AC-130"
+        ],
+        [
+            "United States Air Force",
+            "battles",
+            "Operation Enduring Freedom"
+        ],
+        [
+            "United States Air Force",
+            "aircraftFighter",
+            "General Dynamics F-16 Fighting Falcon"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Al Asad Airbase is operated by the United States Air Force who deploy the Lockheed AC-130 as an attack aircraft and the McDonnell Douglas F-15 Eagle as a fighter aircraft . They also fought in the battles of Operation Enduring Freedom .",
+    "triple_list": [
+        [
+            "United States Air Force",
+            "attackAircraft",
+            "Lockheed AC-130"
+        ],
+        [
+            "United States Air Force",
+            "aircraftFighter",
+            "McDonnell Douglas F-15 Eagle"
+        ],
+        [
+            "Al Asad Airbase",
+            "operatingOrganisation",
+            "United States Air Force"
+        ],
+        [
+            "United States Air Force",
+            "battles",
+            "Operation Enduring Freedom"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "United States Air Force",
+            "attackAircraft",
+            "Lockheed AC-130"
+        ],
+        [
+            "United States Air Force",
+            "aircraftFighter",
+            "McDonnell Douglas F-15 Eagle"
+        ],
+        [
+            "Al Asad Airbase",
+            "operatingOrganisation",
+            "United States Air Force"
+        ],
+        [
+            "United States Air Force",
+            "battles",
+            "Operation Enduring Freedom"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Pakistan Civil Aviation Authority has headquarters at Jinnah International airport and governs the Allama Iqbal International Airport in Punjab , Pakistan which is lead by the Provincial Assembly of the Punjab .",
+    "triple_list": [
+        [
+            "Allama Iqbal International Airport",
+            "operatingOrganisation",
+            "Pakistan Civil Aviation Authority"
+        ],
+        [
+            "Punjab , Pakistan",
+            "leaderTitle",
+            "Provincial Assembly of the Punjab"
+        ],
+        [
+            "Pakistan Civil Aviation Authority",
+            "headquarter",
+            "Jinnah International"
+        ],
+        [
+            "Allama Iqbal International Airport",
+            "location",
+            "Punjab , Pakistan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Allama Iqbal International Airport",
+            "operatingOrganisation",
+            "Pakistan Civil Aviation Authority"
+        ],
+        [
+            "Punjab , Pakistan",
+            "leaderTitle",
+            "Provincial Assembly of the Punjab"
+        ],
+        [
+            "Allama Iqbal International Airport",
+            "location",
+            "Punjab , Pakistan"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Pakistan Civil Aviation Authority",
+            "headquarter",
+            "Jinnah International"
+        ]
+    ]
+}
+{
+    "text": "Alpena County Regional Airport serves Alpena , Michigan and is located at Maple Ridge Township , Alpena County , Michigan . It has a runway length of 1533.0 and is 210 metres above sea level .",
+    "triple_list": [
+        [
+            "Alpena County Regional Airport",
+            "location",
+            "Maple Ridge Township , Alpena County , Michigan"
+        ],
+        [
+            "Alpena County Regional Airport",
+            "cityServed",
+            "Alpena , Michigan"
+        ],
+        [
+            "Alpena County Regional Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "210"
+        ],
+        [
+            "Alpena County Regional Airport",
+            "runwayLength",
+            "1533.0"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alpena County Regional Airport",
+            "location",
+            "Maple Ridge Township , Alpena County , Michigan"
+        ],
+        [
+            "Alpena County Regional Airport",
+            "cityServed",
+            "Alpena , Michigan"
+        ],
+        [
+            "Alpena County Regional Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "210"
+        ],
+        [
+            "Alpena County Regional Airport",
+            "runwayLength",
+            "1533.0"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The demonym for the people of Texas is Tejano and the spoken language is English . The state is the location of Andrews County airport and has the capital city of Austin .",
+    "triple_list": [
+        [
+            "Andrews County",
+            "location",
+            "Texas"
+        ],
+        [
+            "Texas",
+            "language",
+            "English"
+        ],
+        [
+            "Texas",
+            "capital",
+            "Austin"
+        ],
+        [
+            "Texas",
+            "demonym",
+            "Tejano"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Andrews County",
+            "location",
+            "Texas"
+        ],
+        [
+            "Texas",
+            "language",
+            "English"
+        ],
+        [
+            "Texas",
+            "demonym",
+            "Tejano"
+        ],
+        [
+            "Texas",
+            "capital",
+            "Austin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Andrews County Airport is located in Texas in the United States . In Texas , the capital city is Austin and the largest city is Houston .",
+    "triple_list": [
+        [
+            "Texas",
+            "largestCity",
+            "Houston"
+        ],
+        [
+            "Texas",
+            "country",
+            "United States"
+        ],
+        [
+            "Texas",
+            "capital",
+            "Austin"
+        ],
+        [
+            "Andrews County Airport",
+            "location",
+            "Texas"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Texas",
+            "largestCity",
+            "Houston"
+        ],
+        [
+            "Texas",
+            "country",
+            "United States"
+        ],
+        [
+            "Texas",
+            "capital",
+            "Austin"
+        ],
+        [
+            "Andrews County Airport",
+            "location",
+            "Texas"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "At 159 meters above sea level , Angola International Airport is located at Ícolo e Bengo , part of Luanda Province , in Angola .",
+    "triple_list": [
+        [
+            "Ícolo e Bengo",
+            "country",
+            "Angola"
+        ],
+        [
+            "Ícolo e Bengo",
+            "isPartOf",
+            "Luanda Province"
+        ],
+        [
+            "Angola International Airport",
+            "location",
+            "Ícolo e Bengo"
+        ],
+        [
+            "Angola International Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "159"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ícolo e Bengo",
+            "country",
+            "Angola"
+        ],
+        [
+            "Ícolo e Bengo",
+            "isPartOf",
+            "Luanda Province"
+        ],
+        [
+            "Angola International Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "159"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Angola International Airport",
+            "location",
+            "Ícolo e Bengo"
+        ]
+    ]
+}
+{
+    "text": "The Flemish Government runs the UNK region in Belgium where Antwerp is served by Antwerp International airport .",
+    "triple_list": [
+        [
+            "Flemish",
+            "leaderName",
+            "Flemish Government"
+        ],
+        [
+            "Antwerp International",
+            "cityServed",
+            "Antwerp"
+        ],
+        [
+            "Flemish",
+            "country",
+            "Belgium"
+        ],
+        [
+            "Flemish Government",
+            "jurisdiction",
+            "Flemish"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Antwerp International",
+            "cityServed",
+            "Antwerp"
+        ],
+        [
+            "Antwerp",
+            "country",
+            "Belgium"
+        ]
+    ],
+    "new": [
+        [
+            "Antwerp",
+            "country",
+            "Belgium"
+        ]
+    ],
+    "lack": [
+        [
+            "Flemish",
+            "leaderName",
+            "Flemish Government"
+        ],
+        [
+            "Flemish Government",
+            "jurisdiction",
+            "Flemish"
+        ],
+        [
+            "Flemish",
+            "country",
+            "Belgium"
+        ]
+    ]
+}
+{
+    "text": "Appleton International airport , which serves Appleton , Wisconsin , is located in Greenville , Wisconsin which is part of both Menasha and Dale .",
+    "triple_list": [
+        [
+            "Greenville , Wisconsin",
+            "isPartOf",
+            "Dale"
+        ],
+        [
+            "Appleton International",
+            "cityServed",
+            "Appleton , Wisconsin"
+        ],
+        [
+            "Greenville , Wisconsin",
+            "isPartOf",
+            "Menasha"
+        ],
+        [
+            "Appleton International",
+            "location",
+            "Greenville , Wisconsin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Greenville , Wisconsin",
+            "isPartOf",
+            "Dale"
+        ],
+        [
+            "Appleton International",
+            "cityServed",
+            "Appleton , Wisconsin"
+        ],
+        [
+            "Greenville , Wisconsin",
+            "isPartOf",
+            "Menasha"
+        ],
+        [
+            "Appleton International",
+            "location",
+            "Greenville , Wisconsin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Egg Harbor Township is in New Jersey , in the United States and is where Atlantic City International Airport is located . This airport has a runway length of 3048.0 .",
+    "triple_list": [
+        [
+            "Atlantic City International Airport",
+            "location",
+            "Egg Harbor Township"
+        ],
+        [
+            "Egg Harbor Township",
+            "isPartOf",
+            "New Jersey"
+        ],
+        [
+            "Atlantic City International Airport",
+            "runwayLength",
+            "3048.0"
+        ],
+        [
+            "Egg Harbor Township",
+            "country",
+            "United States"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Egg Harbor Township",
+            "country",
+            "United States"
+        ],
+        [
+            "Atlantic City International Airport",
+            "location",
+            "Egg Harbor Township"
+        ],
+        [
+            "Atlantic City International Airport",
+            "runwayLength",
+            "3048.0"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Egg Harbor Township",
+            "isPartOf",
+            "New Jersey"
+        ]
+    ]
+}
+{
+    "text": "Asam pedas is a food found in Malaysia and Sumatra . Malaysian Malay is an ethnic group in Malaysia and Sumatra has an ethnic group called the Minangkabau people .",
+    "triple_list": [
+        [
+            "Malaysia",
+            "ethnicGroup",
+            "Malaysian Malay"
+        ],
+        [
+            "Sumatra",
+            "ethnicGroup",
+            "Minangkabau people"
+        ],
+        [
+            "Asam pedas",
+            "region",
+            "Sumatra"
+        ],
+        [
+            "Asam pedas",
+            "country",
+            "Malaysia"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Asam pedas",
+            "country",
+            "Malaysia"
+        ],
+        [
+            "Malaysia",
+            "ethnicGroup",
+            "Malaysian Malay"
+        ],
+        [
+            "Sumatra",
+            "ethnicGroup",
+            "Minangkabau people"
+        ],
+        [
+            "Asam pedas",
+            "region",
+            "Sumatra"
+        ],
+        [
+            "Sumatra",
+            "ethnicGroup",
+            "Malaysian Malay"
+        ]
+    ],
+    "new": [
+        [
+            "Sumatra",
+            "ethnicGroup",
+            "Malaysian Malay"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "Bacon Explosion comes from the United States , where one of the leaders is Paul Ryan . It is also where Asian Americans are one of the ethnic groups and Washington , D.C. is the capital .",
+    "triple_list": [
+        [
+            "Bacon Explosion",
+            "country",
+            "United States"
+        ],
+        [
+            "United States",
+            "ethnicGroup",
+            "Asian Americans"
+        ],
+        [
+            "United States",
+            "capital",
+            "Washington , D.C."
+        ],
+        [
+            "United States",
+            "leaderName",
+            "Paul Ryan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bacon Explosion",
+            "country",
+            "United States"
+        ],
+        [
+            "United States",
+            "ethnicGroup",
+            "Asian Americans"
+        ],
+        [
+            "United States",
+            "capital",
+            "Washington , D.C."
+        ],
+        [
+            "United States",
+            "leaderName",
+            "Paul Ryan"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Batagor is found in the country of Indonesia . It is a variation on Siomay or Shumai , the latter of which includes Shiitake .",
+    "triple_list": [
+        [
+            "Batagor",
+            "country",
+            "Indonesia"
+        ],
+        [
+            "Batagor",
+            "dishVariation",
+            "Shumai"
+        ],
+        [
+            "Shumai",
+            "dishVariation",
+            "Siomay"
+        ],
+        [
+            "Shumai",
+            "ingredient",
+            "Shiitake"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Batagor",
+            "country",
+            "Indonesia"
+        ],
+        [
+            "Batagor",
+            "dishVariation",
+            "Shumai"
+        ],
+        [
+            "Batagor",
+            "dishVariation",
+            "Siomay"
+        ],
+        [
+            "Batagor",
+            "dishVariation",
+            "Siomay or Shumai"
+        ]
+    ],
+    "new": [
+        [
+            "Batagor",
+            "dishVariation",
+            "Siomay"
+        ],
+        [
+            "Batagor",
+            "dishVariation",
+            "Siomay or Shumai"
+        ]
+    ],
+    "lack": [
+        [
+            "Shumai",
+            "ingredient",
+            "Shiitake"
+        ],
+        [
+            "Shumai",
+            "dishVariation",
+            "Siomay"
+        ]
+    ]
+}
+{
+    "text": "Beef kway teow is a dish from the country of Singapore , where Halimah Yacob is leader and Standard Chinese is spoken . The dish originated from the region of Indonesia .",
+    "triple_list": [
+        [
+            "Beef kway teow",
+            "region",
+            "Indonesia"
+        ],
+        [
+            "Singapore",
+            "leaderName",
+            "Halimah Yacob"
+        ],
+        [
+            "Beef kway teow",
+            "country",
+            "Singapore"
+        ],
+        [
+            "Singapore",
+            "language",
+            "Standard Chinese"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Beef kway teow",
+            "region",
+            "Indonesia"
+        ],
+        [
+            "Singapore",
+            "leaderName",
+            "Halimah Yacob"
+        ],
+        [
+            "Beef kway teow",
+            "country",
+            "Singapore"
+        ],
+        [
+            "Singapore",
+            "language",
+            "Standard Chinese"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Bhajji come from the Karnataka region of India . Narendra Modi is the name of the leader of India , another leader is Sumitra Mahajan .",
+    "triple_list": [
+        [
+            "Bhajji",
+            "country",
+            "India"
+        ],
+        [
+            "India",
+            "leaderName",
+            "Narendra Modi"
+        ],
+        [
+            "Bhajji",
+            "region",
+            "Karnataka"
+        ],
+        [
+            "India",
+            "leaderName",
+            "Sumitra Mahajan"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Bhajji",
+            "region",
+            "Karnataka"
+        ],
+        [
+            "India",
+            "leaderName",
+            "Narendra Modi"
+        ],
+        [
+            "Bhajji",
+            "country",
+            "India"
+        ],
+        [
+            "India",
+            "leaderName",
+            "Sumitra Mahajan"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Bakso is a Chinese dish found in Indonesia , the leader of which is Jusuf Kalla . Jakarta is the capital of Indonesia .",
+    "triple_list": [
+        [
+            "Indonesia",
+            "leaderName",
+            "Jusuf Kalla"
+        ],
+        [
+            "Bakso",
+            "country",
+            "Chinese"
+        ],
+        [
+            "Indonesia",
+            "capital",
+            "Jakarta"
+        ],
+        [
+            "Bakso",
+            "region",
+            "Indonesia"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Indonesia",
+            "leaderName",
+            "Jusuf Kalla"
+        ],
+        [
+            "Bakso",
+            "country",
+            "Chinese"
+        ],
+        [
+            "Indonesia",
+            "capital",
+            "Jakarta"
+        ],
+        [
+            "Bakso",
+            "region",
+            "Indonesia"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Two leaders of Italy , where Amatriciana sauce is found , are Matteo Renzi and Sergio Mattarella . Its capital is Rome .",
+    "triple_list": [
+        [
+            "Italy",
+            "leaderName",
+            "Sergio Mattarella"
+        ],
+        [
+            "Italy",
+            "leaderName",
+            "Matteo Renzi"
+        ],
+        [
+            "Amatriciana sauce",
+            "country",
+            "Italy"
+        ],
+        [
+            "Italy",
+            "capital",
+            "Rome"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Italy",
+            "leaderName",
+            "Sergio Mattarella"
+        ],
+        [
+            "Italy",
+            "leaderName",
+            "Matteo Renzi"
+        ],
+        [
+            "Amatriciana sauce",
+            "country",
+            "Italy"
+        ],
+        [
+            "Italy",
+            "capital",
+            "Rome"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Ayam penyet is a dish from Java and Singapore . The leader of the latter is Tony Tan and the Banyumasan people are an ethnic group from Java .",
+    "triple_list": [
+        [
+            "Ayam penyet",
+            "region",
+            "Singapore"
+        ],
+        [
+            "Java",
+            "ethnicGroup",
+            "Banyumasan people"
+        ],
+        [
+            "Singapore",
+            "leaderName",
+            "Tony Tan"
+        ],
+        [
+            "Ayam penyet",
+            "country",
+            "Java"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ayam penyet",
+            "region",
+            "Singapore"
+        ],
+        [
+            "Java",
+            "ethnicGroup",
+            "Banyumasan people"
+        ],
+        [
+            "Singapore",
+            "leaderName",
+            "Tony Tan"
+        ],
+        [
+            "Ayam penyet",
+            "country",
+            "Java"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Arròs negre is a traditional dish from Spain whose leader is Felipe VI and Euro is its currency . Spaniards are the ethnic group of Spain .",
+    "triple_list": [
+        [
+            "Arròs negre",
+            "country",
+            "Spain"
+        ],
+        [
+            "Spain",
+            "ethnicGroup",
+            "Spaniards"
+        ],
+        [
+            "Spain",
+            "currency",
+            "Euro"
+        ],
+        [
+            "Spain",
+            "leaderName",
+            "Felipe VI"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Arròs negre",
+            "country",
+            "Spain"
+        ],
+        [
+            "Spain",
+            "ethnicGroup",
+            "Spaniards"
+        ],
+        [
+            "Spain",
+            "currency",
+            "Euro"
+        ],
+        [
+            "Spain",
+            "leaderName",
+            "Felipe VI"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "1634 : The Bavarian Crisis was preceded by 1634 : The Baltic War ( author : David Weber ) and followed by Ring of Fire II which is written in English .",
+    "triple_list": [
+        [
+            "1634 : The Baltic War",
+            "author",
+            "David Weber"
+        ],
+        [
+            "Ring of Fire II",
+            "language",
+            "English"
+        ],
+        [
+            "1634 : The Bavarian Crisis",
+            "followedBy",
+            "Ring of Fire II"
+        ],
+        [
+            "1634 : The Bavarian Crisis",
+            "precededBy",
+            "1634 : The Baltic War"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "1634 : The Bavarian Crisis",
+            "precededBy",
+            "1634 : The Baltic War"
+        ],
+        [
+            "Ring of Fire II",
+            "language",
+            "English"
+        ],
+        [
+            "1634 : The Baltic War",
+            "author",
+            "David Weber"
+        ],
+        [
+            "1634 : The Bavarian Crisis",
+            "followedBy",
+            "Ring of Fire II"
+        ],
+        [
+            "Ring of Fire II",
+            "author",
+            "David Weber"
+        ]
+    ],
+    "new": [
+        [
+            "Ring of Fire II",
+            "author",
+            "David Weber"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "The AIDS journal is published by Lippincott , Williams & Wilkins in the United Kingdom . The capital of the country is London and it 's leader is Elizabeth II .",
+    "triple_list": [
+        [
+            "AIDS",
+            "country",
+            "United Kingdom"
+        ],
+        [
+            "United Kingdom",
+            "leaderName",
+            "Elizabeth II"
+        ],
+        [
+            "AIDS",
+            "publisher",
+            "Lippincott"
+        ],
+        [
+            "United Kingdom",
+            "capital",
+            "London"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "AIDS",
+            "country",
+            "United Kingdom"
+        ],
+        [
+            "United Kingdom",
+            "leaderName",
+            "Elizabeth II"
+        ],
+        [
+            "AIDS",
+            "publisher",
+            "Lippincott"
+        ],
+        [
+            "United Kingdom",
+            "capital",
+            "London"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "English is spoken in Great Britain and is the language used in A Severed Wasp . The book originates from the United States where the African Americans are an ethnic group , .",
+    "triple_list": [
+        [
+            "English",
+            "spokenIn",
+            "Great Britain"
+        ],
+        [
+            "A Severed Wasp",
+            "country",
+            "United States"
+        ],
+        [
+            "United States",
+            "ethnicGroup",
+            "African Americans"
+        ],
+        [
+            "A Severed Wasp",
+            "language",
+            "English"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "English",
+            "spokenIn",
+            "Great Britain"
+        ],
+        [
+            "A Severed Wasp",
+            "country",
+            "United States"
+        ],
+        [
+            "United States",
+            "ethnicGroup",
+            "African Americans"
+        ],
+        [
+            "A Severed Wasp",
+            "language",
+            "English"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Addiction journal UNK the UNK of Addiction and has the LCCN number 93645978 . The abbreviated name is `` Addiction '' and the ISSN number is 1360-0443 .",
+    "triple_list": [
+        [
+            "Addiction",
+            "LCCN_number",
+            "93645978"
+        ],
+        [
+            "Addiction",
+            "ISSN_number",
+            "``"
+        ],
+        [
+            "Addiction",
+            "academicDiscipline",
+            "Addiction"
+        ],
+        [
+            "Addiction",
+            "abbreviation",
+            "`` Addiction ''"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Addiction",
+            "LCCN_number",
+            "93645978"
+        ],
+        [
+            "Addiction",
+            "ISSN_number",
+            "``"
+        ],
+        [
+            "Addiction",
+            "abbreviation",
+            "`` Addiction ''"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Addiction",
+            "academicDiscipline",
+            "Addiction"
+        ]
+    ]
+}
+{
+    "text": "Cornell University in Ithaca , New York is the publisher of Administrative Science Quarterly . The University is affiliated with the Association of American Universities .",
+    "triple_list": [
+        [
+            "Administrative Science Quarterly",
+            "publisher",
+            "Cornell University"
+        ],
+        [
+            "Cornell University",
+            "city",
+            "Ithaca , New York"
+        ],
+        [
+            "Cornell University",
+            "affiliation",
+            "Association of American Universities"
+        ],
+        [
+            "Cornell University",
+            "state",
+            "New York"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Cornell University",
+            "city",
+            "Ithaca , New York"
+        ],
+        [
+            "Administrative Science Quarterly",
+            "publisher",
+            "Cornell University"
+        ],
+        [
+            "Cornell University",
+            "affiliation",
+            "Association of American Universities"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Cornell University",
+            "state",
+            "New York"
+        ]
+    ]
+}
+{
+    "text": "The book Alcatraz Versus the Evil Librarians was written in English and comes from the United States where the capital city is Washington DC and the African Americans are an ethnic group .",
+    "triple_list": [
+        [
+            "Alcatraz Versus the Evil Librarians",
+            "country",
+            "United States"
+        ],
+        [
+            "United States",
+            "ethnicGroup",
+            "African Americans"
+        ],
+        [
+            "Alcatraz Versus the Evil Librarians",
+            "language",
+            "English"
+        ],
+        [
+            "United States",
+            "capital",
+            "Washington"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alcatraz Versus the Evil Librarians",
+            "country",
+            "United States"
+        ],
+        [
+            "United States",
+            "ethnicGroup",
+            "African Americans"
+        ],
+        [
+            "Alcatraz Versus the Evil Librarians",
+            "language",
+            "English"
+        ],
+        [
+            "United States",
+            "capital",
+            "Washington"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "English is the language in Great Britain and the United States . A Loyal Character Dancer was published by Soho Press in the United States .",
+    "triple_list": [
+        [
+            "English",
+            "spokenIn",
+            "Great Britain"
+        ],
+        [
+            "Soho Press",
+            "country",
+            "United States"
+        ],
+        [
+            "A Loyal Character Dancer",
+            "publisher",
+            "Soho Press"
+        ],
+        [
+            "United States",
+            "language",
+            "English"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "English",
+            "spokenIn",
+            "Great Britain"
+        ],
+        [
+            "A Loyal Character Dancer",
+            "publisher",
+            "Soho Press"
+        ],
+        [
+            "A Loyal Character Dancer",
+            "country",
+            "United States"
+        ],
+        [
+            "United States",
+            "language",
+            "English"
+        ]
+    ],
+    "new": [
+        [
+            "A Loyal Character Dancer",
+            "country",
+            "United States"
+        ]
+    ],
+    "lack": [
+        [
+            "Soho Press",
+            "country",
+            "United States"
+        ]
+    ]
+}
+{
+    "text": "The language of the United States and Great Britain is English . The United States has an ethnic group called Asian Americans and is where A severed Wasp originates from .",
+    "triple_list": [
+        [
+            "United States",
+            "ethnicGroup",
+            "Asian Americans"
+        ],
+        [
+            "English",
+            "spokenIn",
+            "Great Britain"
+        ],
+        [
+            "United States",
+            "language",
+            "English"
+        ],
+        [
+            "A",
+            "country",
+            "United States"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "United States",
+            "ethnicGroup",
+            "Asian Americans"
+        ],
+        [
+            "English",
+            "spokenIn",
+            "Great Britain"
+        ],
+        [
+            "United States",
+            "language",
+            "English"
+        ],
+        [
+            "A",
+            "country",
+            "United States"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Alcatraz Versus the Evil Librarians is from The United States where one of the ethnic groups are the Native Americans . The English language is spoken in the US as well as Great Britain .",
+    "triple_list": [
+        [
+            "United States",
+            "language",
+            "English language"
+        ],
+        [
+            "United States",
+            "ethnicGroup",
+            "Native Americans"
+        ],
+        [
+            "Alcatraz Versus the Evil Librarians",
+            "country",
+            "United States"
+        ],
+        [
+            "English language",
+            "spokenIn",
+            "Great Britain"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "United States",
+            "language",
+            "English language"
+        ],
+        [
+            "United States",
+            "ethnicGroup",
+            "Native Americans"
+        ],
+        [
+            "Alcatraz Versus the Evil Librarians",
+            "country",
+            "United States"
+        ],
+        [
+            "English language",
+            "spokenIn",
+            "Great Britain"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "In the United Kingdom , the Prime Minister is David Cameron and the UNK is Elizabeth II . The AIDS journal was published in the United Kingdom by Lippincott , Williams & Wilkins .",
+    "triple_list": [
+        [
+            "AIDS",
+            "country",
+            "United Kingdom"
+        ],
+        [
+            "United Kingdom",
+            "leaderName",
+            "Elizabeth II"
+        ],
+        [
+            "AIDS",
+            "publisher",
+            "Lippincott"
+        ],
+        [
+            "United Kingdom",
+            "leaderName",
+            "David Cameron"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "AIDS",
+            "country",
+            "United Kingdom"
+        ],
+        [
+            "United Kingdom",
+            "leaderName",
+            "Elizabeth II"
+        ],
+        [
+            "United Kingdom",
+            "leaderName",
+            "David Cameron"
+        ],
+        [
+            "United Kingdom",
+            "leaderTitle",
+            "Prime Minister"
+        ],
+        [
+            "AIDS",
+            "publisher",
+            "Lippincott"
+        ]
+    ],
+    "new": [
+        [
+            "United Kingdom",
+            "leaderTitle",
+            "Prime Minister"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "A Fortress of Grey Ice is from the United states where African American is an ethnic group and English is spoken like in Great Britain .",
+    "triple_list": [
+        [
+            "A Fortress of Grey Ice",
+            "country",
+            "United"
+        ],
+        [
+            "United",
+            "language",
+            "English"
+        ],
+        [
+            "English",
+            "spokenIn",
+            "Great Britain"
+        ],
+        [
+            "United",
+            "ethnicGroup",
+            "African"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "A Fortress of Grey Ice",
+            "country",
+            "United"
+        ],
+        [
+            "United",
+            "language",
+            "English"
+        ],
+        [
+            "English",
+            "spokenIn",
+            "Great Britain"
+        ],
+        [
+            "United",
+            "ethnicGroup",
+            "African"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "A Fortress of Grey Ice is from the United States . That country has an ethnic group called Asian Americans and they speak English , same as in Great Britain .",
+    "triple_list": [
+        [
+            "A Fortress of Grey Ice",
+            "country",
+            "United States"
+        ],
+        [
+            "English",
+            "spokenIn",
+            "Great Britain"
+        ],
+        [
+            "United States",
+            "ethnicGroup",
+            "Asian Americans"
+        ],
+        [
+            "United States",
+            "language",
+            "English"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "A Fortress of Grey Ice",
+            "country",
+            "United States"
+        ],
+        [
+            "English",
+            "spokenIn",
+            "Great Britain"
+        ],
+        [
+            "United States",
+            "ethnicGroup",
+            "Asian Americans"
+        ],
+        [
+            "United States",
+            "language",
+            "English"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "A severed Wasp originates from the United States where the leader is Barack Obama . The English language is spoken in the US where one of the ethnic groups is African American .",
+    "triple_list": [
+        [
+            "United States",
+            "language",
+            "English language"
+        ],
+        [
+            "United States",
+            "leaderName",
+            "Barack Obama"
+        ],
+        [
+            "United States",
+            "ethnicGroup",
+            "African"
+        ],
+        [
+            "A",
+            "country",
+            "United States"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "United States",
+            "language",
+            "English language"
+        ],
+        [
+            "United States",
+            "leaderName",
+            "Barack Obama"
+        ],
+        [
+            "United States",
+            "ethnicGroup",
+            "African"
+        ],
+        [
+            "A",
+            "country",
+            "United States"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Accademia di Architettura di Mendrisio in Switzerland has a staff of 100 , the dean is named Mario Botta .",
+    "triple_list": [
+        [
+            "Accademia di Architettura di Mendrisio",
+            "city",
+            "Mendrisio"
+        ],
+        [
+            "Accademia di Architettura di Mendrisio",
+            "dean",
+            "Mario Botta"
+        ],
+        [
+            "Accademia di Architettura di Mendrisio",
+            "academicStaffSize",
+            "100"
+        ],
+        [
+            "Accademia di Architettura di Mendrisio",
+            "country",
+            "Switzerland"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Accademia di Architettura di Mendrisio",
+            "academicStaffSize",
+            "100"
+        ],
+        [
+            "Accademia di Architettura di Mendrisio",
+            "dean",
+            "Mario Botta"
+        ],
+        [
+            "Accademia di Architettura di Mendrisio",
+            "country",
+            "Switzerland"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Accademia di Architettura di Mendrisio",
+            "city",
+            "Mendrisio"
+        ]
+    ]
+}
+{
+    "text": "The Accademia di Architettura di Mendrisio was established in Switzerland in 1996 . It has 600 students . The leader of Switzerland is the Federal Chancellor .",
+    "triple_list": [
+        [
+            "Switzerland",
+            "leaderTitle",
+            "Federal Chancellor"
+        ],
+        [
+            "Accademia di Architettura di Mendrisio",
+            "established",
+            "1996"
+        ],
+        [
+            "Accademia di Architettura di Mendrisio",
+            "numberOfStudents",
+            "600"
+        ],
+        [
+            "Accademia di Architettura di Mendrisio",
+            "country",
+            "Switzerland"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Switzerland",
+            "leaderTitle",
+            "Federal Chancellor"
+        ],
+        [
+            "Accademia di Architettura di Mendrisio",
+            "established",
+            "1996"
+        ],
+        [
+            "Accademia di Architettura di Mendrisio",
+            "numberOfStudents",
+            "600"
+        ],
+        [
+            "Accademia di Architettura di Mendrisio",
+            "country",
+            "Switzerland"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Accademia di Architettura di Mendrisio ( Dean - Mario Botta ) was established in 1996 , has an academic staff of 100 and is located in the city of Mendrisio .",
+    "triple_list": [
+        [
+            "Accademia di Architettura di Mendrisio",
+            "city",
+            "Mendrisio"
+        ],
+        [
+            "Accademia di Architettura di Mendrisio",
+            "dean",
+            "Mario Botta"
+        ],
+        [
+            "Accademia di Architettura di Mendrisio",
+            "academicStaffSize",
+            "100"
+        ],
+        [
+            "Accademia di Architettura di Mendrisio",
+            "established",
+            "1996"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Accademia di Architettura di Mendrisio",
+            "city",
+            "Mendrisio"
+        ],
+        [
+            "Accademia di Architettura di Mendrisio",
+            "dean",
+            "Mario Botta"
+        ],
+        [
+            "Accademia di Architettura di Mendrisio",
+            "academicStaffSize",
+            "100"
+        ],
+        [
+            "Accademia di Architettura di Mendrisio",
+            "established",
+            "1996"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Acharya Institute of Technology has an affiliation with Visvesvaraya Technological University ( Belgaum ) and was given the ' Technical Campus ' status by the All India Council for Technical Education , which is located in Mumbai .",
+    "triple_list": [
+        [
+            "Acharya Institute of Technology",
+            "was given the 'Technical Campus' status by",
+            "All India Council for Technical Education"
+        ],
+        [
+            "All India Council for Technical Education",
+            "location",
+            "Mumbai"
+        ],
+        [
+            "Visvesvaraya Technological University",
+            "city",
+            "Belgaum"
+        ],
+        [
+            "Acharya Institute of Technology",
+            "affiliation",
+            "Visvesvaraya Technological University"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Acharya Institute of Technology",
+            "was given the 'Technical Campus' status by",
+            "All India Council for Technical Education"
+        ],
+        [
+            "All India Council for Technical Education",
+            "location",
+            "Mumbai"
+        ],
+        [
+            "Visvesvaraya Technological University",
+            "city",
+            "Belgaum"
+        ],
+        [
+            "Acharya Institute of Technology",
+            "affiliation",
+            "Visvesvaraya Technological University"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The 1 Decembrie 1918 University is located in Romania ( capital Bucharest ) . The leader of Romania is Klaus lohannis and the ethnic group is Germans of Romania .",
+    "triple_list": [
+        [
+            "Romania",
+            "leaderName",
+            "Klaus"
+        ],
+        [
+            "Romania",
+            "capital",
+            "Bucharest"
+        ],
+        [
+            "Romania",
+            "ethnicGroup",
+            "Germans of Romania"
+        ],
+        [
+            "1 Decembrie 1918 University",
+            "country",
+            "Romania"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Romania",
+            "leaderName",
+            "Klaus"
+        ],
+        [
+            "1 Decembrie 1918 University",
+            "country",
+            "Romania"
+        ],
+        [
+            "Romania",
+            "ethnicGroup",
+            "Germans of Romania"
+        ],
+        [
+            "Romania",
+            "capital",
+            "Bucharest"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The School of Business and Social Sciences at the Aarhus University is located in Denmark and affiliated to the European University Association . It was established in 1928 and it has 737 academic staff .",
+    "triple_list": [
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "established",
+            "1928"
+        ],
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "academicStaffSize",
+            "737"
+        ],
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "country",
+            "Denmark"
+        ],
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "affiliation",
+            "European University Association"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "established",
+            "1928"
+        ],
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "academicStaffSize",
+            "737"
+        ],
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "country",
+            "Denmark"
+        ],
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "affiliation",
+            "European University Association"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The School of Business and Social Sciences at the Aarhus University was established in 1928 in Denmark . It has an academic staff of 737 and a student body of 16000 .",
+    "triple_list": [
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "numberOfStudents",
+            "16000"
+        ],
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "academicStaffSize",
+            "737"
+        ],
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "country",
+            "Denmark"
+        ],
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "established",
+            "1928"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "numberOfStudents",
+            "16000"
+        ],
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "established",
+            "1928"
+        ],
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "academicStaffSize",
+            "737"
+        ],
+        [
+            "School of Business and Social Sciences at the Aarhus University",
+            "country",
+            "Denmark"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Cyril Ramaphosa is one of the leaders of South Africa , which capital is Cape Town . The address , 11 Diagonal Street is located in that country and one of the the ethnic groups is Asian South Africans .",
+    "triple_list": [
+        [
+            "South Africa",
+            "ethnicGroup",
+            "Asian South Africans"
+        ],
+        [
+            "11 Diagonal Street",
+            "location",
+            "South Africa"
+        ],
+        [
+            "South Africa",
+            "leaderName",
+            "Cyril Ramaphosa"
+        ],
+        [
+            "South Africa",
+            "capital",
+            "Cape Town"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "South Africa",
+            "capital",
+            "Cape Town"
+        ],
+        [
+            "South Africa",
+            "ethnicGroup",
+            "Asian South Africans"
+        ],
+        [
+            "South Africa",
+            "leaderName",
+            "Cyril Ramaphosa"
+        ],
+        [
+            "11 Diagonal Street",
+            "location",
+            "South Africa"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "200 Public Square is located in Cleveland , Cuyahoga County , Ohio which is governed by Cleveland City Council .",
+    "triple_list": [
+        [
+            "Cleveland",
+            "isPartOf",
+            "Cuyahoga County , Ohio"
+        ],
+        [
+            "200 Public Square",
+            "location",
+            "Cleveland"
+        ],
+        [
+            "Cleveland",
+            "governingBody",
+            "Cleveland City Council"
+        ],
+        [
+            "Cleveland",
+            "isPartOf",
+            "Ohio"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Cleveland",
+            "isPartOf",
+            "Cuyahoga County , Ohio"
+        ],
+        [
+            "200 Public Square",
+            "location",
+            "Cleveland"
+        ],
+        [
+            "Cleveland",
+            "governingBody",
+            "Cleveland City Council"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Cleveland",
+            "isPartOf",
+            "Ohio"
+        ]
+    ]
+}
+{
+    "text": "3 Arena is located in Dublin , the Republic of Ireland , where Críona Ní Dhálaigh was Lord Mayor . The owner of 3Arena is Live Nation Entertainment .",
+    "triple_list": [
+        [
+            "Dublin",
+            "country",
+            "Republic of Ireland"
+        ],
+        [
+            "3Arena",
+            "owner",
+            "Live Nation Entertainment"
+        ],
+        [
+            "Dublin",
+            "leaderName",
+            "Críona Ní Dhálaigh"
+        ],
+        [
+            "3Arena",
+            "location",
+            "Dublin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Dublin",
+            "country",
+            "Republic of Ireland"
+        ],
+        [
+            "3Arena",
+            "owner",
+            "Live Nation Entertainment"
+        ],
+        [
+            "Dublin",
+            "leaderName",
+            "Críona Ní Dhálaigh"
+        ],
+        [
+            "3Arena",
+            "location",
+            "Dublin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Live Nation Entertainment owns 3Arena , located in Dublin , Republic of Ireland . The Lord Mayor of Dublin is Críona Ní Dhálaigh .",
+    "triple_list": [
+        [
+            "Dublin",
+            "isPartOf",
+            "Republic of Ireland"
+        ],
+        [
+            "3Arena",
+            "owner",
+            "Live Nation Entertainment"
+        ],
+        [
+            "Dublin",
+            "leaderName",
+            "Críona Ní Dhálaigh"
+        ],
+        [
+            "3Arena",
+            "location",
+            "Dublin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Dublin",
+            "country",
+            "Republic of Ireland"
+        ],
+        [
+            "3Arena",
+            "owner",
+            "Live Nation Entertainment"
+        ],
+        [
+            "Dublin",
+            "leaderName",
+            "Críona Ní Dhálaigh"
+        ],
+        [
+            "3Arena",
+            "location",
+            "Dublin"
+        ]
+    ],
+    "new": [
+        [
+            "Dublin",
+            "country",
+            "Republic of Ireland"
+        ]
+    ],
+    "lack": [
+        [
+            "Dublin",
+            "isPartOf",
+            "Republic of Ireland"
+        ]
+    ]
+}
+{
+    "text": "AC Hotel Bella Sky is located in Copenhagen , Denmark and the tenant from the hotel is Marriott International . It is own by Bella Center and there is 23 floors in that hotel .",
+    "triple_list": [
+        [
+            "AC Hotel Bella Sky",
+            "floorCount",
+            "23"
+        ],
+        [
+            "AC Hotel Bella Sky",
+            "location",
+            "Denmark"
+        ],
+        [
+            "AC Hotel Bella Sky",
+            "tenant",
+            "Marriott International"
+        ],
+        [
+            "AC Hotel Bella Sky",
+            "owner",
+            "Bella Center"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "AC Hotel Bella Sky",
+            "floorCount",
+            "23"
+        ],
+        [
+            "AC Hotel Bella Sky",
+            "location",
+            "Denmark"
+        ],
+        [
+            "AC Hotel Bella Sky",
+            "tenant",
+            "Marriott International"
+        ],
+        [
+            "AC Hotel Bella Sky",
+            "owner",
+            "Bella Center"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International . The hotel has 23 floors , was designed by the company 3XN and is owned by the Bella Center .",
+    "triple_list": [
+        [
+            "AC Hotel Bella Sky Copenhagen",
+            "owner",
+            "Bella Center"
+        ],
+        [
+            "AC Hotel Bella Sky Copenhagen",
+            "floorCount",
+            "23"
+        ],
+        [
+            "AC Hotel Bella Sky Copenhagen",
+            "tenant",
+            "Marriott International"
+        ],
+        [
+            "AC Hotel Bella Sky Copenhagen",
+            "architect",
+            "3XN"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "AC Hotel Bella Sky Copenhagen",
+            "floorCount",
+            "23"
+        ],
+        [
+            "AC Hotel Bella Sky Copenhagen",
+            "tenant",
+            "Marriott International"
+        ],
+        [
+            "AC Hotel Bella Sky Copenhagen",
+            "owner",
+            "Bella Center"
+        ],
+        [
+            "AC Hotel Bella Sky Copenhagen",
+            "architect",
+            "3XN"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The Akita Museum of Art is located in Akita Prefecture , Akita , Japan . One of the ethnic groups of Japan is the Filipinos .",
+    "triple_list": [
+        [
+            "Akita Prefecture",
+            "country",
+            "Japan"
+        ],
+        [
+            "Akita Museum of Art",
+            "location",
+            "Akita ,"
+        ],
+        [
+            "Akita ,",
+            "isPartOf",
+            "Akita Prefecture"
+        ],
+        [
+            "Japan",
+            "ethnicGroup",
+            "Filipinos"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Akita Museum of Art",
+            "location",
+            "Akita Prefecture"
+        ],
+        [
+            "Akita Prefecture",
+            "country",
+            "Japan"
+        ],
+        [
+            "Japan",
+            "ethnicGroup",
+            "Filipinos"
+        ]
+    ],
+    "new": [
+        [
+            "Akita Museum of Art",
+            "location",
+            "Akita Prefecture"
+        ]
+    ],
+    "lack": [
+        [
+            "Akita Museum of Art",
+            "location",
+            "Akita ,"
+        ],
+        [
+            "Akita ,",
+            "isPartOf",
+            "Akita Prefecture"
+        ]
+    ]
+}
+{
+    "text": "Narendra Modi and Sumitra Mahajan are leaders in India where Amdavad ni Gufa is located in Ahmedabad .",
+    "triple_list": [
+        [
+            "Amdavad ni Gufa",
+            "country",
+            "India"
+        ],
+        [
+            "India",
+            "leaderName",
+            "Narendra Modi"
+        ],
+        [
+            "India",
+            "leaderName",
+            "Sumitra Mahajan"
+        ],
+        [
+            "Amdavad ni Gufa",
+            "location",
+            "Ahmedabad"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Amdavad ni Gufa",
+            "country",
+            "India"
+        ],
+        [
+            "India",
+            "leaderName",
+            "Narendra Modi"
+        ],
+        [
+            "India",
+            "leaderName",
+            "Sumitra Mahajan"
+        ],
+        [
+            "Amdavad ni Gufa",
+            "location",
+            "Ahmedabad"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Ampara Hospital is located in the Eastern Province of Sri Lanka , where the currency is the Ski Lankan rupee . One of the leaders of Sri Lanka is Ranil Wickremesinghe .",
+    "triple_list": [
+        [
+            "Sri Lanka",
+            "currency",
+            "Sri"
+        ],
+        [
+            "Sri Lanka",
+            "leaderName",
+            "Ranil Wickremesinghe"
+        ],
+        [
+            "Ampara Hospital",
+            "country",
+            "Sri Lanka"
+        ],
+        [
+            "Ampara Hospital",
+            "state",
+            "Eastern Province"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Sri Lanka",
+            "leaderName",
+            "Ranil Wickremesinghe"
+        ],
+        [
+            "Ampara Hospital",
+            "country",
+            "Sri Lanka"
+        ],
+        [
+            "Ampara Hospital",
+            "state",
+            "Eastern Province"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Sri Lanka",
+            "currency",
+            "Sri"
+        ]
+    ]
+}
+{
+    "text": "San Francisco born architect Julia Morgan designed many significant buildings including the Asilomar Conference Grounds , the Los Angeles Herald Examiner Building and the Asilomar State Beach .",
+    "triple_list": [
+        [
+            "Asilomar Conference Grounds",
+            "architect",
+            "Julia Morgan"
+        ],
+        [
+            "Julia Morgan",
+            "significantBuilding",
+            "Asilomar State Beach"
+        ],
+        [
+            "Julia Morgan",
+            "birthPlace",
+            "San Francisco"
+        ],
+        [
+            "Julia Morgan",
+            "significantBuilding",
+            "Los Angeles"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Asilomar Conference Grounds",
+            "architect",
+            "Julia Morgan"
+        ],
+        [
+            "Julia Morgan",
+            "significantBuilding",
+            "Asilomar State Beach"
+        ],
+        [
+            "Julia Morgan",
+            "birthPlace",
+            "San Francisco"
+        ],
+        [
+            "Julia Morgan",
+            "significantBuilding",
+            "Los Angeles"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Born in California , Julia Morgan has designed buildings such as Los Angeles Herald Examiner building and The Riverside Art Museum , and was also the architect of the grounds of Asilomar Conference .",
+    "triple_list": [
+        [
+            "Julia Morgan",
+            "significantBuilding",
+            "Riverside Art Museum"
+        ],
+        [
+            "Julia Morgan",
+            "significantBuilding",
+            "Los Angeles"
+        ],
+        [
+            "Asilomar Conference",
+            "architect",
+            "Julia Morgan"
+        ],
+        [
+            "Julia Morgan",
+            "birthPlace",
+            "California"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Julia Morgan",
+            "significantBuilding",
+            "Riverside Art Museum"
+        ],
+        [
+            "Asilomar Conference",
+            "architect",
+            "Julia Morgan"
+        ],
+        [
+            "Julia Morgan",
+            "birthPlace",
+            "California"
+        ],
+        [
+            "Julia Morgan",
+            "significantBuilding",
+            "Los Angeles"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The architect John Madin was the designer of 103 Colmore Row , which is located in his home city of Birmingham . Labour politician , John Clancy is the leader of Birmingham and the city has the postal code ' B ' .",
+    "triple_list": [
+        [
+            "John Madin",
+            "hometown",
+            "Birmingham"
+        ],
+        [
+            "Birmingham",
+            "postalCode",
+            "B"
+        ],
+        [
+            "Birmingham",
+            "leaderName",
+            "John Clancy"
+        ],
+        [
+            "103 Colmore Row",
+            "architect",
+            "John Madin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "John Madin",
+            "hometown",
+            "Birmingham"
+        ],
+        [
+            "Birmingham",
+            "postalCode",
+            "B"
+        ],
+        [
+            "Birmingham",
+            "leaderName",
+            "John Clancy"
+        ],
+        [
+            "103 Colmore Row",
+            "architect",
+            "John Madin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Ankara is the Turkish capital and the country 's leader 's name is Ahmet Davutoglu . The Atatürk Monument ( İzmir ) can be found in Turkey . Pietro Canonica designed the Monument and it is made of bronze . The Ataturk Monument was inaugurated on 27th July , 1932 .",
+    "triple_list": [
+        [
+            "Atatürk Monument ( İzmir )",
+            "location",
+            "Turkey"
+        ],
+        [
+            "Atatürk Monument ( İzmir )",
+            "designer",
+            "Pietro Canonica"
+        ],
+        [
+            "Turkey",
+            "capital",
+            "Ankara"
+        ],
+        [
+            "Turkey",
+            "leaderName",
+            "Ahmet"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Turkey",
+            "leader",
+            "Ahmet"
+        ],
+        [
+            "Turkish",
+            "capital",
+            "Ankara"
+        ],
+        [
+            "Atatürk Monument ( İzmir )",
+            "designer",
+            "Pietro Canonica"
+        ],
+        [
+            "Atatürk Monument ( İzmir )",
+            "location",
+            "Turkey"
+        ],
+        [
+            "Turkey",
+            "capital",
+            "Ankara"
+        ],
+        [
+            "Turkish",
+            "leader",
+            "Ahmet"
+        ]
+    ],
+    "new": [
+        [
+            "Turkish",
+            "capital",
+            "Ankara"
+        ],
+        [
+            "Turkey",
+            "leader",
+            "Ahmet"
+        ],
+        [
+            "Turkish",
+            "leader",
+            "Ahmet"
+        ]
+    ],
+    "lack": [
+        [
+            "Turkey",
+            "leaderName",
+            "Ahmet"
+        ]
+    ]
+}
+{
+    "text": "American Alan Bean was a member of NASA 's Apollo 12 which was commanded by David Scott . Bean , who was born in Wheeler , Texas , is now retired .",
+    "triple_list": [
+        [
+            "Apollo 12",
+            "operator",
+            "NASA"
+        ],
+        [
+            "Alan Bean",
+            "birthPlace",
+            "Wheeler , Texas"
+        ],
+        [
+            "Alan Bean",
+            "was a crew member of",
+            "Apollo 12"
+        ],
+        [
+            "Apollo 12",
+            "commander",
+            "David Scott"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Apollo 12",
+            "operator",
+            "NASA"
+        ],
+        [
+            "Alan Bean",
+            "birthPlace",
+            "Wheeler , Texas"
+        ],
+        [
+            "Alan Bean",
+            "was a crew member of",
+            "Apollo 12"
+        ],
+        [
+            "Apollo 12",
+            "commander",
+            "David Scott"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Alan Shepard was born on November 18 , 1923 , in New Hampshire . He served as a crew member on NASA 's Apollo 14 mission before retiring on August 1 , 1974 . Shepard passed away in California .",
+    "triple_list": [
+        [
+            "Apollo 14",
+            "operator",
+            "NASA"
+        ],
+        [
+            "Alan Shepard",
+            "was a crew member of",
+            "Apollo 14"
+        ],
+        [
+            "Alan Shepard",
+            "birthPlace",
+            "New Hampshire"
+        ],
+        [
+            "Alan Shepard",
+            "deathPlace",
+            "California"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alan Shepard",
+            "birthPlace",
+            "New Hampshire"
+        ],
+        [
+            "Alan Shepard",
+            "deathPlace",
+            "California"
+        ],
+        [
+            "Alan Shepard",
+            "was a crew member of",
+            "Apollo 14"
+        ],
+        [
+            "Apollo 14",
+            "operator",
+            "NASA"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Elliot See was born on 07/23/1927 in Dallas and died in St. Louis . He attended the University of Texas at Austin which is a part of the university of Texas system .",
+    "triple_list": [
+        [
+            "Elliot See",
+            "birthPlace",
+            "Dallas"
+        ],
+        [
+            "Elliot See",
+            "deathPlace",
+            "St. Louis"
+        ],
+        [
+            "University of Texas at Austin",
+            "affiliations",
+            "University of Texas"
+        ],
+        [
+            "Elliot See",
+            "almaMater",
+            "University of Texas at Austin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Elliot See",
+            "almaMater",
+            "University of Texas at Austin"
+        ],
+        [
+            "University of Texas at Austin",
+            "affiliations",
+            "University of Texas"
+        ],
+        [
+            "Elliot See",
+            "birthPlace",
+            "Dallas"
+        ],
+        [
+            "Elliot See",
+            "deathPlace",
+            "St. Louis"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The late Alan Shepard was born in New Hampshire , and chosen by NASA in 1959 a a crew member of Apollo 14 .",
+    "triple_list": [
+        [
+            "Apollo 14",
+            "operator",
+            "NASA"
+        ],
+        [
+            "Alan Shepard",
+            "was selected by NASA",
+            "1959"
+        ],
+        [
+            "Alan Shepard",
+            "was a crew member of",
+            "Apollo 14"
+        ],
+        [
+            "Alan Shepard",
+            "birthPlace",
+            "New Hampshire"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alan Shepard",
+            "birthPlace",
+            "New Hampshire"
+        ],
+        [
+            "Alan Shepard",
+            "was selected by NASA",
+            "1959"
+        ],
+        [
+            "Alan Shepard",
+            "was a crew member of",
+            "Apollo 14"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Apollo 14",
+            "operator",
+            "NASA"
+        ]
+    ]
+}
+{
+    "text": "Alan Bean ( born in Wheeler , Texas ) was a crew member of Apollo 12 operated by NASA and was in space 100305 minutes . Apollo 12 was commanded by David Scott and Alfred Worden was a backup pilot .",
+    "triple_list": [
+        [
+            "Apollo 12",
+            "operator",
+            "NASA"
+        ],
+        [
+            "Apollo 12",
+            "backup pilot",
+            "Alfred Worden"
+        ],
+        [
+            "Alan Bean",
+            "was a crew member of",
+            "Apollo 12"
+        ],
+        [
+            "Apollo 12",
+            "commander",
+            "David Scott"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Alan Bean",
+            "was a crew member of",
+            "Apollo 12"
+        ],
+        [
+            "Apollo 12",
+            "backup pilot",
+            "Alfred Worden"
+        ],
+        [
+            "Apollo 12",
+            "operator",
+            "NASA"
+        ],
+        [
+            "Alan Bean",
+            "birthPlace",
+            "Wheeler , Texas"
+        ],
+        [
+            "Apollo 12",
+            "commander",
+            "David Scott"
+        ]
+    ],
+    "new": [
+        [
+            "Alan Bean",
+            "birthPlace",
+            "Wheeler , Texas"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "Elliot See was born in Dallas , which is a county in Texas . He attended the University of Texas at Austin , which is affiliated to the University of Texas system . The University of Texas at Austin will be part of the Big 12 Conference competition .",
+    "triple_list": [
+        [
+            "University of Texas at Austin",
+            "affiliations",
+            "University of Texas"
+        ],
+        [
+            "Elliot See",
+            "birthPlace",
+            "Dallas"
+        ],
+        [
+            "University of Texas at Austin",
+            "compete in",
+            "Big 12 Conference"
+        ],
+        [
+            "Elliot See",
+            "almaMater",
+            "University of Texas at Austin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "University of Texas at Austin",
+            "affiliations",
+            "University of Texas"
+        ],
+        [
+            "Elliot See",
+            "birthPlace",
+            "Dallas"
+        ],
+        [
+            "University of Texas at Austin",
+            "compete in",
+            "Big 12 Conference"
+        ],
+        [
+            "Elliot See",
+            "almaMater",
+            "University of Texas at Austin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Elliot See was born in Dallas and studied at the University of Texas in Austin ( which is affiliated to the university of Texas system ) . He died in St. Louis .",
+    "triple_list": [
+        [
+            "Elliot See",
+            "deathPlace",
+            "St. Louis"
+        ],
+        [
+            "Elliot See",
+            "birthPlace",
+            "Dallas"
+        ],
+        [
+            "University of Texas",
+            "affiliations",
+            "University of Texas"
+        ],
+        [
+            "Elliot See",
+            "almaMater",
+            "University of Texas"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Elliot See",
+            "deathPlace",
+            "St. Louis"
+        ],
+        [
+            "Elliot See",
+            "birthPlace",
+            "Dallas"
+        ],
+        [
+            "University of Texas",
+            "affiliations",
+            "University of Texas"
+        ],
+        [
+            "Elliot See",
+            "almaMater",
+            "University of Texas"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "William Anders was a member of the Apollo 8 crew ( operated by NASA ) and he retired on September 1st , 1969 . Frank Borman was the commander of Apollo 8 and Buzz Aldrin was a back up pilot .",
+    "triple_list": [
+        [
+            "Apollo 8",
+            "operator",
+            "NASA"
+        ],
+        [
+            "William Anders",
+            "was a crew member of",
+            "Apollo 8"
+        ],
+        [
+            "Apollo 8",
+            "commander",
+            "Frank Borman"
+        ],
+        [
+            "Apollo 8",
+            "backup pilot",
+            "Buzz Aldrin"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Apollo 8",
+            "operator",
+            "NASA"
+        ],
+        [
+            "William Anders",
+            "was a crew member of",
+            "Apollo 8"
+        ],
+        [
+            "Apollo 8",
+            "commander",
+            "Frank Borman"
+        ],
+        [
+            "Apollo 8",
+            "backup pilot",
+            "Buzz Aldrin"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Faber and Faber are the publishers of The Secret Scripture , a sequel to A Long Long Way . That book comes from Ireland which is located in Europe and where there is an ethnic group of white people .",
+    "triple_list": [
+        [
+            "Ireland",
+            "location",
+            "Europe"
+        ],
+        [
+            "The Secret Scripture",
+            "publisher",
+            "Faber and Faber"
+        ],
+        [
+            "A Long Long Way",
+            "country",
+            "Ireland"
+        ],
+        [
+            "A Long Long Way",
+            "followedBy",
+            "The Secret Scripture"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "A Long Long Way",
+            "country",
+            "Ireland which is located in Europe"
+        ],
+        [
+            "A Long Long Way",
+            "country",
+            "Europe"
+        ],
+        [
+            "The Secret Scripture",
+            "publisher",
+            "Faber and Faber"
+        ],
+        [
+            "A Long Long Way",
+            "country",
+            "Ireland"
+        ],
+        [
+            "A Long Long Way",
+            "followedBy",
+            "The Secret Scripture"
+        ]
+    ],
+    "new": [
+        [
+            "A Long Long Way",
+            "country",
+            "Ireland which is located in Europe"
+        ],
+        [
+            "A Long Long Way",
+            "country",
+            "Europe"
+        ]
+    ],
+    "lack": [
+        [
+            "Ireland",
+            "location",
+            "Europe"
+        ]
+    ]
+}
+{
+    "text": "Above the Veil is an Australian novel and the sequel to Aenir and Castle . It was later followed by Into Battle and The Violet Keystone .",
+    "triple_list": [
+        [
+            "Aenir",
+            "precededBy",
+            "Castle"
+        ],
+        [
+            "Above the Veil",
+            "followedBy",
+            "Into Battle"
+        ],
+        [
+            "Into Battle",
+            "followedBy",
+            "The Violet Keystone"
+        ],
+        [
+            "Above the Veil",
+            "precededBy",
+            "Aenir"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Above the Veil",
+            "followedBy",
+            "Into Battle"
+        ],
+        [
+            "Into Battle",
+            "followedBy",
+            "The Violet Keystone"
+        ],
+        [
+            "Above the Veil",
+            "precededBy",
+            "Aenir"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "Aenir",
+            "precededBy",
+            "Castle"
+        ]
+    ]
+}
+{
+    "text": "The 11th Mississippi Infantry monument is located in the municipality of Gettysburg , Adams County , Pennsylvania . Adams County is east of Franklin County and south of Cumberland County . Maryland 's Carrol county is located to the southeast .",
+    "triple_list": [
+        [
+            "11th Mississippi Infantry",
+            "location",
+            "Adams County , Pennsylvania"
+        ],
+        [
+            "Adams County , Pennsylvania",
+            "has to its north",
+            "Cumberland County"
+        ],
+        [
+            "Adams County , Pennsylvania",
+            "has to its west",
+            "Franklin County"
+        ],
+        [
+            "11th Mississippi Infantry",
+            "municipality",
+            "Gettysburg ,"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "11th Mississippi Infantry",
+            "location",
+            "Adams County , Pennsylvania"
+        ],
+        [
+            "Adams County , Pennsylvania",
+            "has to its north",
+            "Cumberland County"
+        ],
+        [
+            "Adams County , Pennsylvania",
+            "has to its west",
+            "Franklin County"
+        ],
+        [
+            "11th Mississippi Infantry",
+            "municipality",
+            "Gettysburg ,"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Ram Naik is the leader of Uttar Pradesh which is part of Awadh and Bundelkhand . It is the location of Agra airport which has the native name of Kheria Air Force Station .",
+    "triple_list": [
+        [
+            "Uttar Pradesh",
+            "leaderName",
+            "Ram Naik"
+        ],
+        [
+            "Uttar Pradesh",
+            "isPartOf",
+            "Bundelkhand"
+        ],
+        [
+            "Agra",
+            "location",
+            "Uttar Pradesh"
+        ],
+        [
+            "Uttar Pradesh",
+            "isPartOf",
+            "Awadh"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Uttar Pradesh",
+            "leaderName",
+            "Ram Naik"
+        ],
+        [
+            "Uttar Pradesh",
+            "isPartOf",
+            "Bundelkhand"
+        ],
+        [
+            "Agra",
+            "location",
+            "Uttar Pradesh"
+        ],
+        [
+            "Uttar Pradesh",
+            "isPartOf",
+            "Awadh"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "The UNK of Grenada and Panama in involved the United States Air Force which now operates the Al Asad airbase . The Air Force has several types of aircraft such as the Boeing C-17 Globemaster III transport aircraft and the Lockheed AC-130 which can be found on USAF aircraft carriers .",
+    "triple_list": [
+        [
+            "United States Air Force",
+            "transportAircraft",
+            "Boeing C-17 Globemaster III"
+        ],
+        [
+            "Al Asad",
+            "operatingOrganisation",
+            "United States Air Force"
+        ],
+        [
+            "United States Air Force",
+            "attackAircraft",
+            "Lockheed AC-130"
+        ],
+        [
+            "United States Air Force",
+            "battles",
+            "United States"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "United States Air Force",
+            "transportAircraft",
+            "Boeing C-17 Globemaster III"
+        ],
+        [
+            "United States Air Force",
+            "attackAircraft",
+            "Lockheed AC-130"
+        ],
+        [
+            "Al Asad",
+            "operatingOrganisation",
+            "United States Air Force"
+        ]
+    ],
+    "new": [],
+    "lack": [
+        [
+            "United States Air Force",
+            "battles",
+            "United States"
+        ]
+    ]
+}
+{
+    "text": "Andrews County Airport is in Texas in the U.S.A. where Spanish is one of the languages spoken . Houston is the largest city in the state and its capital is Austin .",
+    "triple_list": [
+        [
+            "Texas",
+            "largestCity",
+            "Houston"
+        ],
+        [
+            "Texas",
+            "capital",
+            "Austin"
+        ],
+        [
+            "Texas",
+            "language",
+            "Spanish"
+        ],
+        [
+            "Andrews County Airport",
+            "location",
+            "Texas"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Texas",
+            "largestCity",
+            "Houston"
+        ],
+        [
+            "Texas",
+            "capital",
+            "Austin"
+        ],
+        [
+            "Texas",
+            "language",
+            "Spanish"
+        ],
+        [
+            "Andrews County Airport",
+            "location",
+            "Texas"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Houston is the largest city in Texas , where Austin is the Capital city . Andrews County Airport is located in Texas and Some UNK can speak Spanish .",
+    "triple_list": [
+        [
+            "Texas",
+            "largestCity",
+            "Houston"
+        ],
+        [
+            "Texas",
+            "capital",
+            "Austin"
+        ],
+        [
+            "Texas",
+            "language",
+            "Spanish"
+        ],
+        [
+            "Andrews County Airport",
+            "location",
+            "Texas"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Texas",
+            "largestCity",
+            "Austin"
+        ],
+        [
+            "Andrews County Airport",
+            "location",
+            "Texas"
+        ],
+        [
+            "Texas",
+            "largestCity",
+            "Houston"
+        ],
+        [
+            "Texas",
+            "capital",
+            "Austin"
+        ],
+        [
+            "Texas",
+            "language",
+            "Spanish"
+        ]
+    ],
+    "new": [
+        [
+            "Texas",
+            "largestCity",
+            "Austin"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "The Flemish department of Mobility and Public Works is the operating organisation of Antwerp International Airport which is owned by the Flemish Region . The airport serves the city of Antwerp , is 12.0 metres above sea level , and has a runway length of 600.0 .",
+    "triple_list": [
+        [
+            "Antwerp International Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "12.0"
+        ],
+        [
+            "Antwerp International Airport",
+            "owner",
+            "Flemish Region"
+        ],
+        [
+            "Antwerp International Airport",
+            "runwayLength",
+            "600.0"
+        ],
+        [
+            "Antwerp International Airport",
+            "cityServed",
+            "Antwerp"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Antwerp International Airport",
+            "owner",
+            "Flemish Region"
+        ],
+        [
+            "Antwerp International Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "12.0"
+        ],
+        [
+            "Antwerp International Airport",
+            "runwayLength",
+            "600.0"
+        ],
+        [
+            "Antwerp International Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "Flemish Region . The airport serves the city of Antwerp , is 12.0"
+        ],
+        [
+            "Antwerp International Airport",
+            "cityServed",
+            "Antwerp"
+        ]
+    ],
+    "new": [
+        [
+            "Antwerp International Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "Flemish Region . The airport serves the city of Antwerp , is 12.0"
+        ]
+    ],
+    "lack": []
+}
+{
+    "text": "Turkmenistan Airlines operates Ashgabat International Airport in Ashgabat . The airport is 211 metres above sea level , has the runway length of 2989.0 and 12R/30L is the runway name .",
+    "triple_list": [
+        [
+            "Ashgabat International Airport",
+            "location",
+            "Ashgabat"
+        ],
+        [
+            "Ashgabat International Airport",
+            "operatingOrganisation",
+            "Turkmenistan Airlines"
+        ],
+        [
+            "Ashgabat International Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "211"
+        ],
+        [
+            "Ashgabat International Airport",
+            "runwayLength",
+            "2989.0"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Ashgabat International Airport",
+            "location",
+            "Ashgabat"
+        ],
+        [
+            "Ashgabat International Airport",
+            "operatingOrganisation",
+            "Turkmenistan Airlines"
+        ],
+        [
+            "Ashgabat International Airport",
+            "elevationAboveTheSeaLevel_(in_metres)",
+            "211"
+        ],
+        [
+            "Ashgabat International Airport",
+            "runwayLength",
+            "2989.0"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Adirondack Regional Airport serves the city of Lake Placid and Saranac Lake in New York . Saranac Lake is part of Harrietstown and Essex County in New York in the U.S .",
+    "triple_list": [
+        [
+            "Saranac Lake",
+            "isPartOf",
+            "Harrietstown"
+        ],
+        [
+            "Adirondack Regional Airport",
+            "cityServed",
+            "Saranac Lake"
+        ],
+        [
+            "Saranac Lake",
+            "isPartOf",
+            "Essex County"
+        ],
+        [
+            "Adirondack Regional Airport",
+            "cityServed",
+            "Lake Placid"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Saranac Lake",
+            "isPartOf",
+            "Harrietstown"
+        ],
+        [
+            "Adirondack Regional Airport",
+            "cityServed",
+            "Saranac Lake"
+        ],
+        [
+            "Saranac Lake",
+            "isPartOf",
+            "Essex County"
+        ],
+        [
+            "Adirondack Regional Airport",
+            "cityServed",
+            "Lake Placid"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Baymax is a character from the film Big Hero 6 starring Scott Adsit . He was created by Steven T Seagle and the American , Duncan Rouleau .",
+    "triple_list": [
+        [
+            "Baymax",
+            "creator",
+            "Steven"
+        ],
+        [
+            "Baymax",
+            "creator",
+            "Duncan Rouleau"
+        ],
+        [
+            "Baymax",
+            "series",
+            "Big Hero 6"
+        ],
+        [
+            "Big Hero 6",
+            "starring",
+            "Scott Adsit"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Baymax",
+            "creator",
+            "Steven"
+        ],
+        [
+            "Baymax",
+            "creator",
+            "Duncan Rouleau"
+        ],
+        [
+            "Baymax",
+            "series",
+            "Big Hero 6"
+        ],
+        [
+            "Big Hero 6",
+            "starring",
+            "Scott Adsit"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "20 Fenchurch Street is located within the United Kingdom , where London is the capital , and the currency is pounds sterling . Boris Johnson is the leader in London , and one of the leaders of the United Kingdom is Elizabeth II .",
+    "triple_list": [
+        [
+            "London",
+            "leaderName",
+            "Boris Johnson"
+        ],
+        [
+            "United Kingdom",
+            "leaderName",
+            "Elizabeth II"
+        ],
+        [
+            "20 Fenchurch Street",
+            "location",
+            "United Kingdom"
+        ],
+        [
+            "United Kingdom",
+            "capital",
+            "London"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "London",
+            "leaderName",
+            "Boris Johnson"
+        ],
+        [
+            "United Kingdom",
+            "leaderName",
+            "Elizabeth II"
+        ],
+        [
+            "20 Fenchurch Street",
+            "location",
+            "United Kingdom"
+        ],
+        [
+            "United Kingdom",
+            "capital",
+            "London"
+        ]
+    ],
+    "new": [],
+    "lack": []
+}
+{
+    "text": "Adisham Hall is located in Haputale , Sri Lanka . The capital of Sri Lanka is Sri Jayawardenepura Kotte , the language used in the country is Tamil and the currency is the Sri Lankan Rupee .",
+    "triple_list": [
+        [
+            "Sri Lanka",
+            "currency",
+            "Sri Lankan"
+        ],
+        [
+            "Sri Lanka",
+            "capital",
+            "Sri Jayawardenepura Kotte"
+        ],
+        [
+            "Sri Lanka",
+            "language",
+            "Tamil"
+        ],
+        [
+            "Adisham Hall",
+            "country",
+            "Sri Lanka"
+        ]
+    ],
+    "triple_list_pred": [
+        [
+            "Adisham Hall",
+            "country",
+            "Sri Lanka"
+        ],
+        [
+            "Adisham Hall",
+            "location",
+            "Haputale"
+        ],
+        [
+            "Sri Lanka",
+            "language",
+            "Tamil"
+        ],
+        [
+            "Sri Lanka",
+            "capital",
+            "Sri Jayawardenepura Kotte"
+        ],
+        [
+            "Sri Lanka",
+            "currency",
+            "Sri Lankan Rupee"
+        ]
+    ],
+    "new": [
+        [
+            "Sri Lanka",
+            "currency",
+            "Sri Lankan Rupee"
+        ],
+        [
+            "Adisham Hall",
+            "location",
+            "Haputale"
+        ]
+    ],
+    "lack": [
+        [
+            "Sri Lanka",
+            "currency",
+            "Sri Lankan"
+        ]
+    ]
+}
