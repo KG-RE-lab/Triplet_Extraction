@@ -31,7 +31,7 @@ CAMGT/
     ├── run.py             # 入口脚本（训练/测试）
     ├── main.py            # 训练与测试主逻辑
     ├── train.py           # 训练循环与优化器
-    ├── model.py           # ATTIB 模型定义
+    ├── model.py           # 模型定义
     ├── modules.py         # 跨注意力、推理、表格增强等子模块
     ├── dataloader.py      # 数据加载
     ├── evaluation_utils.py # 评估（严格三元组 / 实体对 / 关系识别）
