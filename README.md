@@ -147,7 +147,7 @@ python run.py --dataset=WebNLG --file_id=WebNLG --train=test
 
 ## 模型与评估说明
 
-- **ATTIB**：在 BERT 编码基础上，通过 Subject/Object 双路表示、跨注意力交互、图传播推理（Reasoning）和多尺度表格增强（Table Enhance）生成表格表示，并解码实体对与关系。
+- **CAMGT**：在 BERT 编码基础上，通过 Subject/Object 双路表示、跨注意力交互、图传播推理（Reasoning）和多尺度表格增强（Table Enhance）生成表格表示，并解码实体对与关系。
 - **评估指标**：严格三元组要求头尾实体与关系均正确；实体对与关系识别作为辅助指标。
 
 ---
