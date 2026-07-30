@@ -3,7 +3,7 @@ import torch
 import torch.nn as nn
 from tqdm import tqdm
 from transformers import WEIGHTS_NAME, AdamW, get_linear_schedule_with_warmup, BertConfig
-from model import CAMGT
+from model import PLGF
 from util import *
 import logging
 import torch.nn.functional as F
