@@ -1,94 +1,131 @@
-# ：基于表格填充的联合关系三元组抽取
+# PLGF: A Parallel Local–Global Feature Learning Framework with Separated Table Modeling and Enhanced Focal Loss for Imbalanced Relation Extraction
 
-> 采用**表格填充（Table Filling）**范式，结合 BERT、跨注意力、图传播推理与多尺度表格增强模块的联合关系三元组抽取模型。
-
----
-
-## 目录
-
-- [项目结构](#项目结构)
-- [环境与依赖](#环境与依赖)
-- [数据准备](#数据准备)
-- [预训练 BERT](#预训练-bert)
-- [使用方法](#使用方法)
-- [模型与评估说明](#模型与评估说明)
-- [致谢](#致谢)
+> A table-filling-based relation extraction framework that integrates **Separated Table Modeling (STM)**, **Parallel Local–Global Feature Learning**, and **Enhanced Focal Loss (EFL)** to alleviate label imbalance and improve relation extraction performance.
 
 ---
 
-## 项目结构
+## Table of Contents
 
+- [Project Structure](#project-structure)
+- [Environment and Dependencies](#environment-and-dependencies)
+- [Dataset Preparation](#dataset-preparation)
+- [Pre-trained BERT](#pre-trained-bert)
+- [Usage](#usage)
+- [Model Overview](#model-overview)
+- [Evaluation](#evaluation)
+- [Acknowledgements](#acknowledgements)
+
+---
+
+## Project Structure
+
+```text
+PLGF/
+├── README.md                 # Documentation
+├── bert-large-cased/         # Pre-trained BERT model
+├── dataset/                  # Datasets
+│   ├── NYT/
+│   ├── NYT_star/
+│   ├── WebNLG/
+│   └── WebNLG_star/
+└── code/
+    ├── run.py                # Entry script
+    ├── main.py               # Training/testing pipeline
+    ├── train.py              # Training procedure
+    ├── model.py              # PLGF model
+    ├── modules.py            # Cross-attention, GNN, multi-scale modules
+    ├── dataloader.py         # Data loading
+    ├── evaluation_utils.py   # Evaluation
+    ├── util.py               # Utilities
+    └── requirements.txt      # Dependencies
 ```
-CAMGT/
-├── README.md              # 本说明
-├── bert-large-cased/      # 预训练 BERT 模型
-├── dataset/               # 数据集目录
-│   ├── NYT/               # NYT 数据集
-│   ├── NYT_star/          # NYT* 数据集
-│   ├── WebNLG/            # WebNLG 数据集
-│   └── WebNLG_star/       # WebNLG* 数据集
-└── code/                  # 训练与推理代码
-    ├── run.py             # 入口脚本（训练/测试）
-    ├── main.py            # 训练与测试主逻辑
-    ├── train.py           # 训练循环与优化器
-    ├── model.py           # 模型定义
-    ├── modules.py         # 跨注意力、推理、表格增强等子模块
-    ├── dataloader.py      # 数据加载
-    ├── evaluation_utils.py # 评估（严格三元组 / 实体对 / 关系识别）
-    ├── util.py            # 工具函数
-    └── requirements.txt   # 依赖
-```
 
 ---
 
-## 环境与依赖
+## Environment and Dependencies
 
-进入代码目录并安装依赖：
+Install all required packages:
 
 ```bash
 cd code
 pip install -r requirements.txt
 ```
 
-主要依赖：**PyTorch**、**transformers**、**bert4keras** 等，详见 `code/requirements.txt`。
+Main dependencies include:
+
+- Python 3.8+
+- PyTorch
+- Transformers
+- bert4keras
+
+See `code/requirements.txt` for the complete dependency list.
 
 ---
 
-## 数据准备
+## Dataset Preparation
 
-| 数据集 | 参考来源 |
-| :----- | :------- |
-| **NYT / NYT\*** | [CasRel](https://github.com/weizhepei/CasRel)、[CopyRE](https://github.com/xiangrongzeng/copy_re) |
-| **WebNLG / WebNLG\*** | [JointER](https://github.com/yubowen-ph/JointER)、[ETL-span](https://github.com/yubowen-ph/JointER) |
+The experiments are conducted on the following public datasets.
 
-每个数据集目录下需包含：
+| Dataset | Source |
+| :------ | :----- |
+| NYT / NYT* | CasRel, CopyRE |
+| WebNLG / WebNLG* | JointER, ETL-span |
 
-- 必需：`train.json`、`dev.json`、`test.json`、`rel2id.json`
-- 可选：`1.json`–`5.json`、`epo.json`、`normal.json`、`seo.json` 等切分
+Each dataset directory should contain:
+
+```text
+train.json
+dev.json
+test.json
+rel2id.json
+```
+
+Optional evaluation subsets include:
+
+```text
+1.json
+2.json
+3.json
+4.json
+5.json
+epo.json
+normal.json
+seo.json
+```
 
 ---
 
-## 预训练 BERT
+## Pre-trained BERT
 
-将 **BERT-Large-Cased**（或兼容 BERT）放在 `bert-large-cased/` 下，或通过参数指定路径。所需文件：
+Download **BERT-Large-Cased** (or another compatible BERT checkpoint) from Hugging Face:
 
-| 文件 | 说明 |
-| :--- | :--- |
-| `vocab.txt` | 词表 |
-| `config.json` | 模型配置 |
-| `pytorch_model.bin` | PyTorch 权重 |
+https://huggingface.co/bert-large-cased
 
-可从 [Hugging Face · bert-large-cased](https://huggingface.co/bert-large-cased) 下载。
+Place the model under
+
+```text
+bert-large-cased/
+```
+
+The directory should contain:
+
+```text
+config.json
+vocab.txt
+pytorch_model.bin
+```
+
+Alternatively, specify the checkpoint path through the command-line argument.
 
 ---
 
-## 使用方法
+## Usage
 
-> 所有命令均在 `code/` 目录下执行，或确保工作目录与 `run.py` 中的相对路径一致。
+All commands should be executed inside the `code/` directory.
 
-### 训练
+### Training
 
-**按数据集训练示例：**
+Example:
 
 ```bash
 # WebNLG
@@ -104,55 +141,98 @@ python run.py --dataset=NYT --file_id=NYT --train=train
 python run.py --dataset=NYT_star --file_id=NYT_star --train=train
 ```
 
-**常用参数：**
+### Common Arguments
 
-| 参数 | 说明 | 默认值 |
-| :--- | :--- | :----- |
-| `--cuda_id` | GPU 编号 | `"3"` |
-| `--train_batch_size` | 训练批大小 | `6` |
-| `--learning_rate` | 学习率 | `2e-5` |
-| `--num_train_epochs` | 训练轮数 | `100` |
-| `--bert_model_path` | BERT 权重路径 | `../bert-large-cased/pytorch_model.bin` |
-| `--base_path` | 数据集根目录 | `../dataset` |
-| `--loss` | 损失函数 | `FocalLoss_plus`（可选 `CE`、`FocalLoss`） |
-| `--ablate` | 消融：关闭的模块 | 不传为完整模型；可多选 `cross_attention`、`reasoning`、`table_enhance` |
+| Argument | Description | Default |
+| :------- | :---------- | :------ |
+| `--cuda_id` | GPU device ID | `3` |
+| `--train_batch_size` | Batch size | `6` |
+| `--learning_rate` | Learning rate | `2e-5` |
+| `--num_train_epochs` | Number of epochs | `100` |
+| `--bert_model_path` | Path to BERT weights | `../bert-large-cased/pytorch_model.bin` |
+| `--base_path` | Dataset directory | `../dataset` |
+| `--loss` | Loss function | `FocalLoss_plus` (`CE`, `FocalLoss` also supported) |
+| `--ablate` | Disable specific modules for ablation | `cross_attention`, `reasoning`, `table_enhance` |
 
-**消融示例：**
+### Ablation Examples
+
+Disable the cross-attention module:
 
 ```bash
-# 仅关闭跨注意力
 python run.py --dataset=WebNLG --train=train --ablate cross_attention
+```
 
-# 关闭跨注意力 + 表格增强
+Disable both cross-attention and table enhancement:
+
+```bash
 python run.py --dataset=WebNLG --train=train --ablate cross_attention table_enhance
 ```
 
-### 测试 / 评估
+---
+
+## Testing
 
 ```bash
 python run.py --dataset=WebNLG --file_id=WebNLG --train=test
 ```
 
-测试会在 `test`、`1`–`5`、`epo`、`normal`、`seo` 等划分上运行，输出三类指标：
+Predictions and evaluation results will be saved under
 
-| 指标 | 说明 |
-| :--- | :--- |
-| **严格三元组**（Strict Triple） | F1 / P / R |
-| **实体对**（Entity Pair） | F1 / P / R |
-| **关系识别**（Relation） | F1 / P / R |
-
-结果写入 `dataset/.../results/<file_id>/out.txt` 及对应预测 JSON。
+```text
+dataset/.../results/<file_id>/
+```
 
 ---
 
-## 模型与评估说明
+## Model Overview
 
-- **CAMGT**：在 BERT 编码基础上，通过 Subject/Object 双路表示、跨注意力交互、图传播推理（Reasoning）和多尺度表格增强（Table Enhance）生成表格表示，并解码实体对与关系。
-- **评估指标**：严格三元组要求头尾实体与关系均正确；实体对与关系识别作为辅助指标。
+PLGF is a table-filling-based framework for joint relation extraction that addresses the severe class imbalance inherent in conventional table representations.
+
+The framework consists of three key components:
+
+### 1. Separated Table Modeling (STM)
+
+Instead of representing entities and relations within a single dense tensor, STM decomposes the original table into separate entity-boundary and relation-classification tables. This redesign significantly reduces redundant negative labels and alleviates label imbalance at the representation level.
+
+### 2. Parallel Local–Global Feature Learning
+
+PLGF jointly models semantic dependencies from different perspectives through a parallel architecture consisting of:
+
+- Cross-attention interaction
+- Multi-scale contextual feature extraction
+- Graph message passing
+
+These modules enable the model to capture both local contextual information and long-range relational dependencies.
+
+### 3. Enhanced Focal Loss (EFL)
+
+An enhanced focal loss based on the probability margin is introduced to improve optimization under highly imbalanced label distributions. It emphasizes ambiguous samples while suppressing overconfident predictions, resulting in more stable training.
 
 ---
 
-## 致谢
+## Evaluation
 
-- 部分实现参考 [bert4keras](https://github.com/bojone/bert4keras)。
-- 数据集与设定参考 CasRel、CopyRE、JointER、ETL-span 等工作。
+The model is evaluated using three metrics.
+
+| Metric | Description |
+| :----- | :---------- |
+| Strict Triple | Correct head entity, tail entity, and relation |
+| Entity Pair | Correct entity pair regardless of relation |
+| Relation | Correct relation classification |
+
+Precision, Recall, and F1-score are reported for each metric.
+
+---
+
+## Acknowledgements
+
+This implementation is built upon several excellent open-source projects.
+
+- bert4keras
+- Hugging Face Transformers
+- CasRel
+- CopyRE
+- JointER
+- ETL-span
+
+We sincerely thank the authors for making their code and datasets publicly available.
