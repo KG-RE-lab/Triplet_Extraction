@@ -5,7 +5,7 @@ from modules import *
 
 
 
-class CAMGT(BertPreTrainedModel):
+class PLGF(BertPreTrainedModel):
     def __init__(self, config):
         super().__init__(config)
         self.bert = BertModel(config=config)
